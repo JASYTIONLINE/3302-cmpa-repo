@@ -1,9 +1,9 @@
 ---
-title: Category 01
+title: PMBOK 6 Explained
 ---
-## The Category 01 category index page
+## PMBOK 6 Explained
 
-### What is this page?
+### Placeholder
 
 This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
 

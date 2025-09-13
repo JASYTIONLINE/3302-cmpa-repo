@@ -1,13 +1,13 @@
 ---
-title: "About"
-description: "Who I am (JASYTI), why this knowledge base exists, and why I chose PMP as my single topic for CMPA 3302."
+title: About JASYTI.
+description: Who I am (JASYTI), why this knowledge base exists, and why I chose PMP as my single topic for CMPA 3302.
 tags:
   - about
   - cmpa3302
   - project-management
   - pmp
 draft: false
-date: "2025-09-13"
+date: 2025-09-13
 ---
 
 # About JASYTI. 
