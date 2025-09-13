@@ -1,5 +1,5 @@
 ---
-title: Case Studies and Scenario Prep - Home
+title: 04-Case Studies and Scenario Prep - Home
 description: Course portal and knowledge base on PMP exam preparation.
 tags:
   - cmpa3302

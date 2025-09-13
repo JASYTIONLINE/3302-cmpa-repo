@@ -1,5 +1,5 @@
 ---
-title: Applied Theory - Home
+title: 02-Applied Theory - Home
 description: Course portal and knowledge base on PMP exam preparation.
 tags:
   - cmpa3302

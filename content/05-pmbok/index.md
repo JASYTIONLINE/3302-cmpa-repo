@@ -1,5 +1,5 @@
 ---
-title: PMBOK 6 & 7 Compare and Contrast
+title: 05-PMBOK 6 & 7 Compare and Contrast
 description: Course portal and knowledge base on PMP exam preparation.
 tags:
   - cmpa3302

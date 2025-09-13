@@ -1,5 +1,5 @@
 ---
-title: Test Preparation Tips and Tactics - Home
+title: 01-Test Preparation Tips and Tactics - Home
 description: Course portal and knowledge base on PMP exam preparation.
 tags:
   - cmpa3302

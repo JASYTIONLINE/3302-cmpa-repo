@@ -1,5 +1,5 @@
 ---
-title: Lifecycle of a Project - Home
+title: 03-Lifecycle of a Project - Home
 description: Course portal and knowledge base on PMP exam preparation.
 tags:
   - cmpa3302
