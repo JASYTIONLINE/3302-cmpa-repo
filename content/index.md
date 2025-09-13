@@ -10,12 +10,10 @@ date: "2025-09-13"
 permalink: "/"
 enableToc: false
 ---
-# CMPA 3302 Knowledge Base Portal
-
-This site is my **course portal** and serves as a **knowledge base dedicated to Project Management and preparation for the PMP Certification Exam**.  
-
+# JASYTI's Project Management Professional Knowledge Base
+CMPA 3302 
 ## Purpose
-Its primary function is to serve as the entry point into the repository, allowing quick access to all contents related to my studies on Project Management.
+This site is my **course portal** and serves as a **knowledge base dedicated to Project Management and preparation for the PMP Certification Exam**.  Its primary function is to serve as the entry point into the repository, allowing quick access to all contents related to my studies on Project Management.
 
 ## My goal
 I am studying to pass the **Project Management Institute’s** PMP Certification Exam.  

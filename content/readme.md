@@ -11,21 +11,17 @@ date: "2025-09-13"
 permalink: "/readme/"
 enableToc: false
 ---
-# CMPA 3302 – Knowledge Base Repository(README)
+# JASYTI's PMP KB (README)
 
-This repository is for my work in CMPA 3302 – Foundations of Information Organization and Management.  
-The assignment requires building a single-topic knowledge base using GitHub, Obsidian, and Quartz.
-
+This repository is for my work in CMPA 3302 – Foundations of Information Organization and Management.  The assignment requires building a single-topic knowledge base using GitHub, Obsidian, and Quartz.
 ## Topic
 The topic I chose is **Project Management and preparation for the PMP Certification Exam**.  
 This knowledge base will collect notes and resources tied to PMI’s framework, the PMBOK guide, and exam study strategies.
-
 ## Structure
 - All published content lives inside the `content/` folder (Quartz treats this as the site root).
 - The homepage is `content/index.md`.
 - The about page is `content/about.md`.
 - Each published file begins with Quartz frontmatter so it renders correctly.
-
 ## What I Learned About Structure
 
 This site still has a “root” index page — it’s **`content/index.md`** instead of an `index.html` at the repo root. Quartz treats **`content/`** as the site root for anything that gets published. I write everything there in Markdown. The repo can be bigger than `content/`, but only what’s inside **`content/`** is part of the published knowledge base.
