@@ -8,8 +8,6 @@ tags:
   - pmp
 draft: false
 date: "2025-09-13"
-permalink: "/about/"
-enableToc: false
 ---
 
 # About JASYTI. 

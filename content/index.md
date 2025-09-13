@@ -7,8 +7,7 @@ tags:
   - pmp
 draft: false
 date: "2025-09-13"
-permalink: "/"
-enableToc: false
+
 ---
 # JASYTI's Project Management Professional Knowledge Base
 CMPA 3302 

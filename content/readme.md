@@ -8,8 +8,6 @@ tags:
   - pmp
 draft: false
 date: "2025-09-13"
-permalink: "/readme/"
-enableToc: false
 ---
 # JASYTI's PMP KB (README)
 
