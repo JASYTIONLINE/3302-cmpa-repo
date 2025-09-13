@@ -1,42 +1,33 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "CMPA 3302 Knowledge Base Portal"
+description: "Course portal and knowledge base on PMP exam preparation."
+tags:
+  - cmpa3302
+  - project-management
+  - pmp
+draft: false
+date: "2025-09-13"
+permalink: "/"
+enableToc: false
 ---
-## The index page
+# CMPA 3302 Knowledge Base Portal
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This site is my **course portal** and serves as a **knowledge base dedicated to Project Management and preparation for the PMP Certification Exam**.  
 
-## Editing pages
+## Purpose
+Its primary function is to serve as the entry point into the repository, allowing quick access to all contents related to my studies on Project Management.
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+## My goal
+I am studying to pass the **Project Management Institute’s** PMP Certification Exam.  
+My long-term goal is to learn the memory elements required to pass the PMP exam’s multiple-choice questions while also preparing for the scenario-based questions by practicing and “living” PMI in my daily activities. I chose PMP as my topic because building this knowledge base not only fulfills the course requirement but also reinforces my knowledge, skills, and abilities in applying the PMBOK approach to project management.
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
+## References
+- The **PMBOK 6th Edition** organizes project management into five process groups and ten knowledge areas. The process groups—Initiating, Planning, Executing, Monitoring and Controlling, and Closing—lay out the cycle of how projects are run from start to finish. The knowledge areas cover the skills, tools, and techniques a project manager needs, like scope, time, cost, quality, and risk. Together, they give a structured view of project management as a step-by-step system.  
+- The **PMBOK 7th Edition** takes a different angle. Instead of focusing on process groups and knowledge areas, it emphasizes eight performance domains that highlight the value and outcomes of a project. These domains include stakeholders, team, development approach and life cycle, planning, project work, delivery, measurement, and uncertainty. PMBOK 7 is less about memorizing processes and more about principles that adapt to different projects.
 
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
+Over time, this repo will grow into a structured reference that supports both coursework and professional development.
 
 ---
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
-
+## Quick Links
+- [[about|About JASYTI]]
+- [[readme|MPA 3302 KB README]]
