@@ -12,7 +12,7 @@ date: 2025-09-14
 ## PMBOK 6 Explained – Home
 
 ## How to use this section
-PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** for processes and ITTO patterns. The *why* and *how* behind these lists are developed elsewhere: apply the concepts in [[theory-application/index|Theory Application]], watch them play out in [[case-studies/index|Case Studies]], see where they land across the [[03-lifecycle/index|Project Management Lifecycle]], and turn recall into points with [[test-prep/index|Test Prep & Tactics]]. Learn the facts here—use the other sections to understand, practice, and perform.
+PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** for processes and ITTO patterns. The *why* and *how* behind these lists are developed elsewhere: apply the concepts in [[04-theory-application/index|Theory Application]], watch them play out in [[05-case-studies/index|Case Studies]], see where they land across the [[03-lifecycle/index|Project Management Lifecycle]], and turn recall into points with [[test-prep/index|Test Prep & Tactics]]. Learn the facts here—use the other sections to understand, practice, and perform.
 
 ---
 ## What this section covers (Quick Links)
@@ -31,10 +31,10 @@ PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** fo
 
 
 ## Navigation
-- [[05-pmbok/index|PMBOK 6 & 7 Compare and Contrast]]
-- [[theory-application/index|Theory Application]]
-- [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
+- [[02-pmbok/index|PMBOK 6 & 7 Compare and Contrast]]
+- [[04-theory-application/index|Theory Application]]
+- [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[test-prep/index|Test Prep & Tactics]]
-- [[05-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
 - [[index.md|JASYTI's PMP KB Home]]

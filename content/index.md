@@ -36,7 +36,8 @@ Over time, this repo will grow into a structured reference that supports both co
 
 ## Main Categories
 - [[test-prep/index|Test Prep & Tactics]]
-- [[theory-application/index|Theory Application]]
+-  [[02-pmbok/6-pmbok/index|PMBOK Standards]]
 - [[01-test-prep/index|Project Management Lifecycle]]
-- [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
-- [[05-pmbok/6-pmbok/index|PMBOK Standards]]
+- [[04-theory-application/index|Theory Application]]
+- [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]]
+

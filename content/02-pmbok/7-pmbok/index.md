@@ -12,7 +12,7 @@ date: 2025-09-14
 ## PMBOK 7 Standards – Home
 
 ## How to use this section
-PMBOK 7 focuses on **principles**, **performance domains**, and **value delivery**. Treat this area as your **memorization hub** for concise cues and definitions. The *why* and *how* get developed elsewhere: apply in [[theory-application/index|Theory Application]], pressure-test with [[case-studies/index|Case Studies]], map across the [[03-lifecycle/index|Project Management Lifecycle]], and convert recall into points with [[test-prep/index|Test Prep & Tactics]]. Memorize essentials here—use the other sections to understand, practice, and perform.
+PMBOK 7 focuses on **principles**, **performance domains**, and **value delivery**. Treat this area as your **memorization hub** for concise cues and definitions. The *why* and *how* get developed elsewhere: apply in [[04-theory-application/index|Theory Application]], pressure-test with [[05-case-studies/index|Case Studies]], map across the [[03-lifecycle/index|Project Management Lifecycle]], and convert recall into points with [[test-prep/index|Test Prep & Tactics]]. Memorize essentials here—use the other sections to understand, practice, and perform.
 
 ## What this section covers (Quick Links)
 - [[05-pmbok/7-pmbok/principles-overview/index|Principles overview (what they are, how to recall)]] — Snapshot definitions of all principles with crisp memory hooks.
@@ -30,14 +30,14 @@ PMBOK 7 focuses on **principles**, **performance domains**, and **value delivery
 ---
 
 ## Navigation
-- [[05-pmbok/index|PMBOK 6 & 7 Compare and Contrast]]
-- [[05-pmbok/6-pmbok/index|PMBOK 6 Explained]]
-- [[theory-application/index|Theory Application]]
-- [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
+- [[02-pmbok/index|PMBOK 6 & 7 Compare and Contrast]]
+- [[02-pmbok/6-pmbok/index|PMBOK 6 Explained]]
+- [[04-theory-application/index|Theory Application]]
+- [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[test-prep/index|Test Prep & Tactics]]
 - [[index.md|JASYTI's PMP KB Home]]
 
 ## Quick Links
 - [[05-pmbok/6-pmbok/nouns/index|Memorize: 49 PMBOK 6 Processes]]
-- [[05-pmbok/6-pmbok/index|Back to PMBOK 6 Explained]]
+- [[02-pmbok/6-pmbok/index|Back to PMBOK 6 Explained]]

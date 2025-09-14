@@ -19,7 +19,7 @@ Here, theory is not left as abstract knowledge. Instead, it is tested against th
 ## Related Categories
 
 - Theory Application links to [[test-prep/index|Test Prep & Tactics]] since exam strategies only work when grounded in a solid understanding of theory, which supports applying techniques like selecting the most correct answer.  
-- Theory Application links to [[case-studies/index|Case Studies (6 vs. 7 in Action)]] as theories are reinforced through real-world scenarios, helping students focus on how abstract concepts are applied in practice.  
+- Theory Application links to [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]] as theories are reinforced through real-world scenarios, helping students focus on how abstract concepts are applied in practice.  
 ---
 
 ## Quick Links
@@ -34,7 +34,7 @@ Here, theory is not left as abstract knowledge. Instead, it is tested against th
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
 - [[test-prep/index|Test Prep & Tactics]]
-- [[theory-application/index|Theory Application]]
-- [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
-- [[05-pmbok/6-pmbok/index|PMBOK 6 Standards]]
-- [[05-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+- [[04-theory-application/index|Theory Application]]
+- [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]]
+- [[02-pmbok/6-pmbok/index|PMBOK 6 Standards]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
