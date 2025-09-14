@@ -1,6 +1,6 @@
 ---
 title: 05-PMBOK 6 & 7 Compare and Contrast
-description: Course portal and knowledge base on PMP exam preparation.
+description: Side-by-side guidance—PMBOK 6 (ITTOs) vs PMBOK 7 (principles/value)—to clarify what PMI expects and how to apply it.
 tags:
   - cmpa3302
   - project-management
@@ -9,36 +9,28 @@ draft: false
 date: 2025-09-13
 ---
 
-## PMBOK 6 & 7 Compare and Contrast
+## PMBOK 6 & 7 – Compare and Contrast
 
-### Placeholder
+PMBOK 6 and PMBOK 7 take different paths to the same goal: competent, value-focused project delivery. 
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+PMBOK 6 is process-centric and ITTO-driven—it explains **how** work moves through process groups and which inputs, tools, techniques, and outputs matter. 
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
+PMBOK 7 reframes the guide around principles, performance domains, and value—clarifying **why** work is done and **what** outcomes should be achieved. This section puts the two lenses side-by-side so you can see where they align, where they diverge, and how to use both in situational reasoning. 
 
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[example-category-02/index | Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
+Here is where is where we study how to read a scenario, anchor on the relevant principle or domain, and then choose the fitting process/ITTO mechanics to deliver the intended outcome. The objective isn’t to pick a “winner” between editions; it’s to integrate both perspectives so exam responses and real-world decisions reflect PMI’s expectations and sound professional judgment.
 
 ---
+
 ## Related Categories
-- [[index.md|JASYTI's PMP KB Home]]
+PMBOK 6 & 7 Compare and Contrast links to [[theory-application/index|Theory Application]] as principles and domains provide the *why/what*, while ITTOs supply the *how* for applying concepts in situational analysis.
+
+PMBOK 6 & 7 Compare and Contrast connects to [[case-studies/index|Case Studies (6 vs. 7 in Action)]] since real projects reveal when a principle-led choice and a process-led choice converge—and which one becomes the “most right” answer under PMI’s lens.
+
+## Navigation
 - [[test-prep/index|Test Prep & Tactics]]
-- [[theory-application/index|Theory Application]]
-- [[01-test-prep/index|Project Management Lifecycle]]
-- [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
-- [[05-pmbok/6-pmbok/index|PMBOK Standards]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[index.md|JASYTI's PMP KB Home]]
+
 ## Quick Links
-- [[about|subfolder 1]]
-- [[readme|subfolder 2]]
-- [[readme|subfolder 3]]
-- [[readme|subfolder 4]]
-- [[readme|subfolder 5]]
-- [[readme|subfolder 6]]
+- [[05-pmbok/6-pmbok/index|PMBOK 6 Standards]]
+- [[05-pmbok/7-pmbok/index|PMBOK 7 Standards]]

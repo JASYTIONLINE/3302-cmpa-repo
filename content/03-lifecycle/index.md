@@ -10,35 +10,20 @@ date: 2025-09-13
 ---
 
 ## PMI Guide to the Lifecycle of a Project - Home
+The Project Management Lifecycle is the backbone of how projects move from concept to completion. It is organized into five universal stages: [[03-lifecycle/01-initiating/index|Initiating]], [[03-lifecycle/02-planning/index|Planning]], [[03-lifecycle/03-executing/index|Executing]], [[03-lifecycle/04-monitoring-controlling/index|Monitoring & Controlling]], and [[03-lifecycle/05-closing/index|Closing]]. Each stage has its own focus, deliverables, and challenges, but together they form a structured flow that ensures a project stays aligned with objectives and value delivery.  
 
-### What is this page?
+This section explores how [[05-pmbok/6-pmbok/index|PMBOK 6]]’s process-driven ITTO approach and [[05-pmbok/7-pmbok/index|PMBOK 7]]’s principle-based perspective both apply to the lifecycle. Learners will see how project work begins with authorization, develops into detailed plans, moves through execution, and adapts through monitoring before being formally closed. 
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
-
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
-
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[example-category-02/index | Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
+By studying the lifecycle, we connect theory, case studies, standards, and test preparation into a single framework. This helps ensure that knowledge is not memorized in isolation, but applied step by step, just as exam questions and real-world projects demand.
 
 ---
 ## Related Categories
+n/a
+
+## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
 - [[test-prep/index|Test Prep & Tactics]]
 - [[theory-application/index|Theory Application]]
-- [[01-test-prep/index|Project Management Lifecycle]]
 - [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
-- [[05-pmbok/6-pmbok/index|PMBOK Standards]]
-## Quick Links
-- [[about|subfolder 1]]
-- [[readme|subfolder 2]]
-- [[readme|subfolder 3]]
-- [[readme|subfolder 4]]
-- [[readme|subfolder 5]]
-- [[readme|subfolder 6]]
+- [[05-pmbok/6-pmbok/index|PMBOK 6 Standards]]
+- [[05-pmbok/7-pmbok/index|PMBOK 7 Standards]]

@@ -8,37 +8,20 @@ tags:
 draft: false
 date: 2025-09-13
 ---
-
 ## Test Preparation Tips and Tactics - Home
 
-### Placeholder
+Test preparation for the PMP exam is more than memorizing facts—it is about learning how to approach the exam with strategy and confidence. This section focuses on the skills that help candidates turn their project management knowledge into high test performance. Here, you will find content on study methods, time management, and memory techniques that make sense of the large body of material covered by the PMBOK guides.  
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+Equally important, this section highlights tactics for exam day itself: how to read questions carefully, eliminate obviously wrong answers, avoid red-herring distractors, and choose the “most right” option when two answers appear correct.  
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
+By studying Test Prep techniques, you ensure that the knowledge gained from the other sections is applied effectively on exam day. Many candidates know the material well but lose points to nervousness or poor test-taking habits. These strategies are designed to help you stay calm, read every question carefully, avoid logic traps, and focus on using what you already know. Strong preparation reduces anxiety and allows your understanding of project management to show through, rather than being overshadowed by exam pressure.  
 
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[example-category-02/index | Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
-
----
 ## Related Categories
+- Test Prep & Tactics will only take you so far without the foundational context provided in [[theory-application/index|Theory Application]].  
+
+- Tips like “pick the best of two good answers” are far more effective when paired with the situational context that [[case-studies/index|Case Studies (6 vs. 7 in Action)]] provide, highlighting why two answers may seem correct but only one reflects PMI’s “most right” choice.  
+
+## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
-- [[test-prep/index|Test Prep & Tactics]]
-- [[theory-application/index|Theory Application]]
-- [[01-test-prep/index|Project Management Lifecycle]]
-- [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
 - [[05-pmbok/6-pmbok/index|PMBOK Standards]]
-## Quick Links
-- [[about|subfolder 1]]
-- [[readme|subfolder 2]]
-- [[readme|subfolder 3]]
-- [[readme|subfolder 4]]
-- [[readme|subfolder 5]]
-- [[readme|subfolder 6]]

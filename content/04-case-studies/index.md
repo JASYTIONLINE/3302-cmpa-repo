@@ -1,6 +1,6 @@
 ---
 title: 04-Case Studies and Scenario Prep - Home
-description: Course portal and knowledge base on PMP exam preparation.
+description: Real-world scenarios that compare PMBOK 6 (ITTOs) and PMBOK 7 (principles/value) to sharpen situational judgment for the PMP exam.
 tags:
   - cmpa3302
   - project-management
@@ -9,36 +9,25 @@ draft: false
 date: 2025-09-13
 ---
 
-## Case Studies and Scenario Prep - Home
+## Case Studies (6 vs. 7 in Action) – Home
 
-### Placeholder
+Case studies turn abstract concepts into actionable judgment. In this section, I analyze real project scenarios to see how PMBOK 6’s process-driven ITTOs and PMBOK 7’s principle- and value-driven guidance lead to different emphases and decisions. Each example is built to mirror the style of PMP situational items—where two choices can look “right,” but one aligns best with PMI’s intent. 
 
-This is an example category index page inside the knowledge base. This page is located within the `example-category-01` folder, which is located within the `content/` folder. 
+Here we practice reading a situation, identifying the relevant inputs, tools, and techniques, weighing constraints and stakeholder value, and selecting the *most right* answer. The goal isn’t memorization; it’s repeatable reasoning under pressure. 
 
-On your local computer, this page corresponds to the file path: `content/example-category-01/index.md`.
-
-### Naming a category page's index
-
-Why is this page's file name `index` (`example-category-01/index.md`) instead of **Category 01**?
-
-This file uses the `title` property/frontmatter to specify the category page title (e.g., `Category 01`). 
-
-Any text added to a category folder's `index.md` file  will be used as the descriptive text for the category page.
-
-A similar category is [[example-category-02/index | Category 02]], which also uses the `index.md` method to specify a category page title and descriptive text.
+This is where theory hits the road. Used together with [[theory-application/index|Theory Application]], [[test-prep/index|Test Prep & Tactics]], the [[03-lifecycle/index|Project Management Lifecycle]], and the standards in [[05-pmbok/6-pmbok/index|PMBOK 6]] / [[05-pmbok/7-pmbok/index|PMBOK 7]], these cases help you connect standards to outcomes, strengthen your logic, avoid traps (like jumping to execution before authorization or managing risks reactively), and stay focused under pressure. By applying what you’ve studied across all four companion sections, you should be able to diagnose **what the question is really testing** and **choose the most right answer** with confidence.
 
 ---
+
 ## Related Categories
+Case Studies (6 vs. 7 in Action) connect to [[theory-application/index|Theory Application]] since real-world examples demonstrate how theoretical principles are applied, reinforcing situational analysis skills.
+
+Case Studies (6 vs. 7 in Action) link to [[test-prep/index|Test Prep & Tactics]] as case examples mirror exam scenarios, like showing why two answers may seem correct but only one reflects PMI’s preferred “most right” choice.
+
+## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
-- [[test-prep/index|Test Prep & Tactics]]
 - [[theory-application/index|Theory Application]]
-- [[01-test-prep/index|Project Management Lifecycle]]
-- [[case-studies/index|Case Studies (6 vs. 7 in Action)]]
-- [[05-pmbok/6-pmbok/index|PMBOK Standards]]
-## Quick Links
-- [[about|subfolder 1]]
-- [[readme|subfolder 2]]
-- [[readme|subfolder 3]]
-- [[readme|subfolder 4]]
-- [[readme|subfolder 5]]
-- [[readme|subfolder 6]]
+- [[test-prep/index|Test Prep & Tactics]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[05-pmbok/6-pmbok/index|PMBOK 6 Standards]]
+- [[05-pmbok/7-pmbok/index|PMBOK 7 Standards]]
