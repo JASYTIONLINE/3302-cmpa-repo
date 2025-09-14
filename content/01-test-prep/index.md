@@ -21,7 +21,7 @@ By studying Test Prep techniques, you ensure that the knowledge gained from the 
 
 - Tips like “pick the best of two good answers” are far more effective when paired with the situational context that [[05-case-studies/index|Case Studies (6 & 7 in Action)]] provide, highlighting why two answers may seem correct but only one reflects PMI’s “most right” choice.  
 ## Quick Links
-- [[01-test-prep/test-prep-ex.md|Test Preparation Tips and Tricks]]
+- [[test-prep-tips-and--tricks|Test Preparation Tips and Tricks]]
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
