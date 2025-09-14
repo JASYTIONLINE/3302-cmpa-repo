@@ -1,5 +1,5 @@
 ---
-title: 04-Case Studies and Scenario Prep - Home
+title: 05-Case Studies and Scenario Prep - Home
 description: Real-world scenarios that compare PMBOK 6 (ITTOs) and PMBOK 7 (principles/value) to sharpen situational judgment for the PMP exam.
 tags:
   - cmpa3302
@@ -8,7 +8,7 @@ tags:
 draft: false
 date: 2025-09-13
 ---
-## Case Studies (6 vs. 7 in Action) – Home
+[[02-pmbok/6-pmbok/index]]## Case Studies (6 vs. 7 in Action) – Home
 Case studies turn abstract concepts into actionable judgment. 
 
 In this section, we analyze real project scenarios to see how PMBOK 6’s process-driven ITTOs and PMBOK 7’s principle- and value-driven guidance lead to different emphases and decisions. Each example is built to mirror the style of PMP situational items—where two choices can look “right,” but one aligns best with PMI’s intent. 

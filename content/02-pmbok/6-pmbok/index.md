@@ -16,25 +16,30 @@ PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** fo
 
 ---
 ## What this section covers (Quick Links)
-- [[05-pmbok/7-pmbok/principles-overview/index|Principles overview (what they are, how to recall)]] — Snapshot definitions of all principles with crisp memory hooks.
-- [[05-pmbok/7-pmbok/principles-cue-cards/index|Principles cue cards (short, test-ready prompts)]] — One-liners you can rehearse to anchor situational reasoning.
-- [[05-pmbok/7-pmbok/performance-domains/index|Performance domains (definitions & memory cues)]] — What each domain covers and the exam-relevant signals it triggers.
-- [[05-pmbok/7-pmbok/value-delivery-system/index|Value delivery system & outcomes]] — How value flows and how outcomes are judged for fitness-for-use.
-- [[05-pmbok/7-pmbok/tailoring/index|Tailoring in PMBOK 7 (prompts & patterns)]] — Tailoring prompts framed in principle/domain terms for fast selection.
-- [[05-pmbok/7-pmbok/models-methods-artifacts/index|Models, methods, and artifacts (MMAs)]] — Compact list of MMAs and where they commonly show up in stems.
-- [[05-pmbok/7-pmbok/ways-of-working/index|Ways of working (predictive/iterative/hybrid cues)]] — Signals that the scenario calls for predictive, adaptive, or hybrid approaches.
-- [[05-pmbok/7-pmbok/uncertainty-ambiguity/index|Uncertainty, complexity, ambiguity cues]] — Terms and cues that point to uncertainty management versus risk mechanics.
-- [[05-pmbok/7-pmbok/governance/index|Governance & decision boundaries cues]] — What governance constrains and how it shapes acceptable choices.
-- [[05-pmbok/7-pmbok/stakeholders-team/index|Stakeholders & team (engagement, collaboration)]] — Principle-aligned cues for engagement, collaboration, and leadership.
-- [[05-pmbok/7-pmbok/outcomes-measures/index|Outcomes & measures (value, fitness-for-use)]] — What to measure, why it matters, and how “value” is evidenced.
-- [[05-pmbok/7-pmbok/life-cycles/index|Product/project life cycles & cadence]] — Life-cycle terms and cadence cues used to frame scenario expectations.
 
+- [[05-pmbok/6-pmbok/pg-ka-matrix|Process groups → knowledge areas (matrix view)]]
+- [[05-pmbok/6-pmbok/49-processes|The 49 processes (overview)]]
+- [[05-pmbok/6-pmbok/itto-patterns|ITTO patterns (how they repeat)]]
+- [[05-pmbok/6-pmbok/itto-mnemonics|ITTO mnemonics (memory hooks)]]
+- [[05-pmbok/6-pmbok/key-formulas-math|Key formulas (EVM, CPI/SPI, PERT, TCPI)]]
+- [[05-pmbok/6-pmbok/estimating-techniques|Estimating techniques (time & cost)]]
+- [[05-pmbok/6-pmbok/baselines|Baselines (scope, schedule, cost)]]
+- [[05-pmbok/6-pmbok/change-config-control|Change & configuration control]]
+- [[05-pmbok/6-pmbok/data-flows|Data flows (inputs, tools, outputs)]]
+- [[05-pmbok/6-pmbok/eef-opa-cues|EEF / OPA cues]]
+- [[05-pmbok/6-pmbok/roles-responsibility|Roles & responsibility (RACI/style)]]
+- [[05-pmbok/6-pmbok/stakeholder-comm|Stakeholder communications]]
+- [[05-pmbok/6-pmbok/risk-responses|Risk responses (threats & opportunities)]]
+- [[05-pmbok/6-pmbok/quality-tools|Quality tools (7 basics +)]]
+- [[05-pmbok/6-pmbok/procurement-ref|Procurement references]]
+- [[05-pmbok/6-pmbok/artifacts|Artifacts (plans, registers, logs)]]
+- [[05-pmbok/6-pmbok/tailoring|Tailoring in PMBOK 6]]
+- [[05-pmbok/6-pmbok/nouns|Glossary / “nouns” index]]
 
 ## Navigation
+- [[03-lifecycle/index|Lifecycle of a Project]]
 - [[02-pmbok/index|PMBOK 6 & 7 Compare and Contrast]]
 - [[04-theory-application/index|Theory Application]]
-- [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]]
-- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[05-case-studies/index|Case Studies]]
 - [[test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
 - [[index.md|JASYTI's PMP KB Home]]
