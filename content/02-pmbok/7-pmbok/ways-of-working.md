@@ -14,3 +14,9 @@ This flexibility reflects PMBOK 7’s value-driven focus: the method must serve 
 
 This placeholder ensures the link is functional. A complete version will provide practical examples, exam signals, and comparisons to how PMBOK 6 framed methodology choices.
 
+---
+## Quick Links
+- [[02-pmbok/7-pmbok/index.md|Back to PMBOK 7 Explained – Home]]
+- [[02-pmbok/6-pmbok/index|PMBOK 6 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

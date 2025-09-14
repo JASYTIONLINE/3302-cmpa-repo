@@ -8,7 +8,6 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
 ## PMBOK 7 Standards – Home
 
 ## How to use this section

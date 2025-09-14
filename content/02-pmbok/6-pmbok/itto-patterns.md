@@ -20,3 +20,10 @@ The ITTO framework—Inputs, Tools, Techniques, and Outputs—is the backbone of
 For exam preparation, ITTOs are sometimes memorized, but their deeper value comes from understanding **why** an input is needed, **how** a tool or technique is applied, and **what** an output enables. PMBOK 7 does not use the ITTO model directly, but the concepts remain embedded in tailoring, value delivery, and system thinking.  
 
 This placeholder ensures visitors don’t encounter an empty page. Future versions will include process group breakdowns, sample ITTO flows, and study strategies to link ITTO logic with real-world project practice.
+
+---
+## Quick Links
+- [[02-pmbok/6-pmbok/index.md|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

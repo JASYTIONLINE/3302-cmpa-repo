@@ -13,3 +13,10 @@ Enterprise Environmental Factors (EEFs) are the external and internal conditions
 Because they shape how processes are applied, EEFs must be recognized and accounted for in planning and execution. For example, strict compliance rules may require additional documentation, or global supply chain challenges may affect schedule feasibility.  
 
 This placeholder page ensures that readers see functioning content rather than a blank node. In its completed form, this page will expand on categories of EEFs, provide PMBOK 6 vs. 7 treatment, and include examples that show how EEFs impact process tailoring, decision-making, and overall project outcomes.
+
+---
+## Quick Links
+- [[02-pmbok/6-pmbok/index.md|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

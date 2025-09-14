@@ -13,3 +13,10 @@ Stakeholder management is the process of identifying all individuals, groups, or
 Stakeholders range from project sponsors and customers to team members, regulators, and community groups. Effective management involves balancing competing interests, ensuring clear communication, and building trust. Tools like stakeholder registers, power/interest grids, and engagement assessments help visualize priorities and strategies.  
 
 This placeholder confirms the link is active. Later versions will expand on techniques for analysis, provide case examples of engagement strategies, and explain how stakeholder management is tested on the PMP exam.
+
+---
+## Quick Links
+- [[02-pmbok/6-pmbok/index.md|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

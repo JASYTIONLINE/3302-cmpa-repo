@@ -13,3 +13,10 @@ Procurement management covers the processes required to purchase or acquire prod
 Procurement decisions influence cost, schedule, and quality performance. For example, a fixed-price contract transfers cost risk to the seller, while a cost-reimbursable contract places more risk on the buyer but allows for flexibility in scope. Strong procurement management also ensures compliance with legal and regulatory requirements.  
 
 This placeholder exists to confirm the link is working. Future expansion will include contract types, vendor evaluation criteria, and case studies on effective procurement strategies.
+
+---
+## Quick Links
+- [[02-pmbok/6-pmbok/index.md|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

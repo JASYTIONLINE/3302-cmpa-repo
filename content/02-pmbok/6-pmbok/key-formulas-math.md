@@ -13,3 +13,10 @@ Key formulas provide the quantitative backbone for project management, allowing 
 Outside of EVM, the PMP exam also expects familiarity with formulas for expected monetary value (EMV), communication channels \[n(n – 1) ÷ 2], and three-point estimating \[(O + 4M + P) ÷ 6]. These calculations ensure project managers can forecast outcomes, evaluate trade-offs, and make evidence-based decisions.  
 
 This placeholder confirms the page works and will later expand with worked examples, step-by-step breakdowns, and PMBOK 6 vs. PMBOK 7 emphasis on where formulas remain relevant.
+
+---
+## Quick Links
+- [[02-pmbok/6-pmbok/index.md|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

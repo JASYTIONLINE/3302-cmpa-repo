@@ -15,3 +15,10 @@ Examples include simplifying documentation for a small internal effort or expand
 This contrasts with **PMBOK 7**, where tailoring is elevated to a guiding principle that shapes all project management activity.  
 
 👉 For the principle-based perspective, see [[05-pmbok/7-pmbok/tailoring/index|Tailoring in PMBOK 7]], which reframes tailoring as a cornerstone of value delivery and adaptability.
+
+---
+## Quick Links
+- [[02-pmbok/6-pmbok/index.md|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

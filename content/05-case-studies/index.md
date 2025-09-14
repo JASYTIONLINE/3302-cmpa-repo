@@ -8,10 +8,10 @@ tags:
 draft: false
 date: 2025-09-13
 ---
-
 ## Case Studies (6 vs. 7 in Action) – Home
+Case studies turn abstract concepts into actionable judgment. 
 
-Case studies turn abstract concepts into actionable judgment. In this section, I analyze real project scenarios to see how PMBOK 6’s process-driven ITTOs and PMBOK 7’s principle- and value-driven guidance lead to different emphases and decisions. Each example is built to mirror the style of PMP situational items—where two choices can look “right,” but one aligns best with PMI’s intent. 
+In this section, we analyze real project scenarios to see how PMBOK 6’s process-driven ITTOs and PMBOK 7’s principle- and value-driven guidance lead to different emphases and decisions. Each example is built to mirror the style of PMP situational items—where two choices can look “right,” but one aligns best with PMI’s intent. 
 
 Here we practice reading a situation, identifying the relevant inputs, tools, and techniques, weighing constraints and stakeholder value, and selecting the *most right* answer. The goal isn’t memorization; it’s repeatable reasoning under pressure. 
 

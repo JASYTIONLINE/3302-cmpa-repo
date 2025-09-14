@@ -5,7 +5,6 @@ tags: [pmbok7, principles, cue-cards, memory, exam-prep]
 draft: false
 date: 2025-09-14
 ---
-
 # Principles Cue Cards
 
 Cue cards are a proven study technique for breaking down PMBOK 7’s twelve principles into short, test-ready prompts. Instead of memorizing long definitions, cue cards capture the **essence of each principle in a single line or phrase**. For example, “Stewardship = act responsibly for future outcomes” or “Tailoring = adapt practices to context.” By reducing complexity, students can rehearse these cards quickly and recall them under exam pressure.  
@@ -13,3 +12,10 @@ Cue cards are a proven study technique for breaking down PMBOK 7’s twelve prin
 PMBOK 7’s principle-driven model makes cue cards especially effective because it rewards understanding broad themes rather than memorizing ITTOs. Cue cards also support **active recall**, a technique where you test yourself repeatedly until responses are automatic.  
 
 This placeholder confirms the page is active. Future development will include printable cue cards, digital flashcard sets, and side-by-side examples showing how each principle can be phrased for rapid memory and applied in case-study scenarios.
+
+---
+## Quick Links
+- [[02-pmbok/7-pmbok/index.md|Back to PMBOK 7 Explained – Home]]
+- [[02-pmbok/6-pmbok/index|PMBOK 6 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]

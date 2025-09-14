@@ -9,8 +9,9 @@ draft: false
 date: 2025-09-13
 ---
 ## Applied Theory - Home
+Applied Theory is where the structure of PMBOK 6 and the perspective of PMBOK 7 come together.
 
-Applied Theory is where the structure of PMBOK 6 and the perspective of PMBOK 7 come together. PMBOK 6 emphasizes the process groups and ITTOs—the detailed mechanics of how projects are executed—while PMBOK 7 highlights principles and value delivery, focusing on why the work matters and what outcomes it achieves. This section bridges those two approaches by weaving the facts and memorization required for PMBOK 6 into the value-driven ideology of PMBOK 7.  
+PMBOK 6 emphasizes the process groups and ITTOs—the detailed mechanics of how projects are executed—while PMBOK 7 highlights principles and value delivery, focusing on why the work matters and what outcomes it achieves. This section bridges those two approaches by weaving the facts and memorization required for PMBOK 6 into the value-driven ideology of PMBOK 7.  
 
 Here, theory is not left as abstract knowledge. Instead, it is tested against the five stages of the Project Management Lifecycle, showing how each process group is influenced by both ITTO logic and value-delivery thinking. Applied Theory helps learners see the connections between the two editions of the PMBOK, understand how process and principle inform one another, and prepare to answer exam questions that demand more than recall—they require integrated reasoning.  
 
@@ -21,16 +22,6 @@ Here, theory is not left as abstract knowledge. Instead, it is tested against th
 - Theory Application links to [[test-prep/index|Test Prep & Tactics]] since exam strategies only work when grounded in a solid understanding of theory, which supports applying techniques like selecting the most correct answer.  
 - Theory Application links to [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]] as theories are reinforced through real-world scenarios, helping students focus on how abstract concepts are applied in practice.  
 ---
-
-## Quick Links
-- [[03-lifecycle/00-pre-project/pre-pro-ex|Pre-Project Requirements]]
-- [[03-lifecycle/01-initiating/index|Initiating]]
-- [[03-lifecycle/02-planning/index|Planning]]
-- [[03-lifecycle/03-executing/index|Executing]]
-- [[03-lifecycle/04-monitoring-controlling/index|Monitoring & Controlling]]
-- [[03-lifecycle/05-closing/index|Closing]]
-
-
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
 - [[test-prep/index|Test Prep & Tactics]]

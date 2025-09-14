@@ -13,3 +13,10 @@ Data flows describe how information moves between processes in a project managem
 Understanding data flows helps clarify how work is sequenced and why no process stands alone. For example, the risk register created in Planning becomes an input to Monitoring & Controlling, while deliverables from Executing flow into Quality Control for verification.  
 
 This placeholder page ensures readers do not encounter an empty link. Future versions will expand the diagrams and explanations, showing how artifacts pass through the project life cycle. Visuals, cross-links to knowledge areas, and examples from both PMBOK 6 and PMBOK 7 perspectives will be added here for deeper study.
+
+---
+## Quick Links
+- [[02-pmbok/6-pmbok/index.md|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
+- [[02-pmbok/index.md|02-PMBOK 6 & 7 Compare and Contrast]]
+- [[index|Back to JASYTI’s PMP KB - HOME ]]
