@@ -1,7 +1,11 @@
 ---
-title: Test Preparation Essentials
+title: 01 Test Preparation Essentials
 description: Placeholder explaining the purpose of this page and what it includes for PMP test prep
-tags: [test-prep, exam-strategy, pmp, study-habits]
+tags:
+  - test-prep
+  - exam-strategy
+  - pmp
+  - study-habits
 draft: false
 date: 2025-09-14
 ---

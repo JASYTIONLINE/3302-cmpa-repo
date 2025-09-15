@@ -1,5 +1,5 @@
 ---
-title: Pre-Project Requirements – Before the Project Becomes a Project
+title: 0-Pre-Project Requirements – Before the Project Becomes a Project
 description: Foundation activities and conditions that must be met before Initiating a project.
 tags:
   - cmpa3302
@@ -12,8 +12,7 @@ date: 2025-09-14
 
 # Pre-Project Requirements
 
-Before a project officially begins, certain **preconditions** must be met to justify the effort. These requirements form the *foundation* that allows the Initiating Process Group to succeed. Without them, projects risk starting on shaky ground and failing before they truly begin.
-
+Although not officially one of the PMP Process Groups, it would be remiss not to include the pre-project requirements that must be satisfied before a project can be established. These prerequisites form the foundation on which the entire effort is built. Specifically, the Initiating Process Group cannot begin until these are met; without them, any attempt to plan or execute is likely to fail. If the Project Management Plan is the road we’ll travel, the business case and the project charter define the destination—because if we don’t know where we’re going, any road will do.
 ---
 
 ## Key Activities Before Initiation

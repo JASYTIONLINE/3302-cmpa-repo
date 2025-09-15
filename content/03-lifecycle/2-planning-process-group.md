@@ -1,5 +1,5 @@
 ---
-title: Project Management – Planning Process Group
+title: 2. Project Management – Planning Process Group
 description: Overview of the Planning Process Group—defining scope, schedule, cost, quality, risk, and communications baselines to guide execution.
 tags:
   - cmpa3302
@@ -9,7 +9,7 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
+s
 # Planning Process Group
 
 The **Planning Process Group** establishes the roadmap for the project by transforming intent into a **workable plan**. In this group, the team defines scope, estimates effort and duration, sequences work, builds the schedule and budget, plans quality and communications, and identifies risks and responses. Planning is iterative and integrative: as new information emerges, the plan may be refined to keep the project aligned with objectives and constraints.
@@ -33,11 +33,10 @@ Planning produces the **baselines** (scope, schedule, cost) that guide Executing
 
 ## Baselines and Change Management
 
-The outputs of Planning form the **Project Management Plan** and its **baselines**. During Executing, the team works to the plan; during Monitoring & Controlling, performance is measured against baselines to detect variance. When warranted, changes are proposed and, if approved, baselines are **updated** deliberately—not drifted. This disciplined cycle preserves control while allowing for adaptive learning.
+The outputs of Planning form the **Project Management Plan** and its **baselines**. During [[3-executing-process-group|Executing]], the team works to the plan; during [[4-monitoring-and-controlling-process-group|Monitoring & Controlling]], performance is measured against baselines to detect variance. When warranted, changes are proposed and, if approved, baselines are **updated** deliberately—not drifted. This disciplined cycle preserves control while allowing for adaptive learning.
 
 ### Example in Practice
-
-A data platform project defines scope through a WBS (data ingestion, modeling, dashboards). Activities are sequenced, durations estimated, and a three-release schedule is developed. Costs are estimated by team capacity and tooling; the budget is approved with contingency for risk. Communications and stakeholder plans set cadence and audiences. When a new compliance requirement emerges, a change request is raised, impacts are analyzed, and—if approved—the plan and baselines are updated without losing overall control.
+Every **Monday** is a new project in CMPA. The week begins with a [[0-pre-project-requirments|pre-project]]  mini-phase where the **Week Overview** is reviewed. This acts as the **customer request** and the basis for a lightweight **charter**. Then [[2-planning-process-group|planning]] starts: the **To-Do list** becomes a rough **Work Breakdown Structure (WBS)**, assignment **deadlines** shape the schedule and workflow, and the **rubric** defines what success looks like (acceptance criteria). With scope clarified, tasks decomposed, and timeboxes visible, the plan keeps the week pointed in the right direction and helps prevent scope creep, missed deadlines, and blown budgets.
 
 ---
 

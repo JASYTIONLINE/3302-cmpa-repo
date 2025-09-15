@@ -32,3 +32,4 @@ PMBOK 6 & 7 Compare and Contrast connects to [[05-case-studies/index|Case Studie
 ## Quick Links
 - [[02-pmbok/6-pmbok/index|PMBOK 6 Standards]]
 - [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+

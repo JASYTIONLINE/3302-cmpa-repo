@@ -1,5 +1,5 @@
 ---
-title: Project Management – Monitoring & Controlling Process Group
+title: 4. Project Management – Monitoring & Controlling Process Group
 description: Overview of the Monitoring & Controlling Process Group—tracking performance against baselines, managing changes, and steering outcomes toward objectives.
 tags:
   - cmpa3302
@@ -33,11 +33,13 @@ Monitoring & Controlling is continuous and cross-cutting: it interacts with **ev
 
 ## Variance, Change, and Communication
 
-When variance is detected, the team analyzes root causes and considers options: corrective action, preventive action, or accepting the variance with rationale. Approved changes are incorporated through **formal updates** to the plan and baselines; status and decisions are communicated to the right stakeholders with clarity and timeliness. This discipline prevents silent scope creep and preserves trust.
+When variance is detected, the team analyzes root causes and considers options: corrective action, preventive action, or accepting the variance with rationale. Approved changes are incorporated through **formal updates** to the plan and baselines; status and decisions are communicated to the right stakeholders with clarity and timeliness. This discipline prevents silent scope creep and preserves trust. If proper planning took place, most variance will be anticipated and a contingency plan in place to account for it and course correct with minimal disruption to the project.
 
 ### Example in Practice
 
-During development, a regulatory update adds a reporting field. The team logs a **change request**, analyzes schedule and cost impacts, and the CCB approves the change with a minor slip in schedule. The plan and baselines are updated; communications are sent to sponsors and end users; downstream tasks are resequenced. By following integrated change control, the project stays transparent and in control.
+In CMPA 3302, Monitoring & Controlling is me checking my weekly work against the rubric to confirm I’m on track for full marks. After Executing produces drafts—such as new category pages or interlinks—I compare each deliverable against the assignment’s rubric and the requirements laid out in the module overview. If something is missing (e.g., a page without three heading levels, an absent image, or a broken wikilink), that’s a variance.
+
+I then apply corrective actions: fixing the structure, adding missing elements, or revising the content until it matches expectations. Just like integrated change control, these adjustments are deliberate—each revision updates my work breakdown flow without introducing accidental scope creep. Each commit on GitHub is part of the Monitoring & Controlling process which ensures that changes are logged, and before I submit, every requirement is validated, the site functions correctly, and I have clear evidence for a 100% rubric score.
 
 ---
 

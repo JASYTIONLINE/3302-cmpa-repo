@@ -1,5 +1,5 @@
 ---
-title: Project Management – Executing Process Group
+title: 3. Project Management – Executing Process Group
 description: Overview of the Executing Process Group—turning plans into deliverables through team enablement, communication, quality, and stakeholder engagement.
 tags:
   - cmpa3302
@@ -9,25 +9,24 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
 # Executing Process Group
 
-The **Executing Process Group** is where the plan becomes action and action becomes **deliverables**. In this group, the project manager and team coordinate people, resources, vendors, and communications to perform the work defined in the project management plan. Executing is also where leadership and stakeholder engagement matter most: progress depends on clear direction, timely decisions, and removing roadblocks so the team can do its best work.  
+The Executing Process Group is where the plan becomes action—and action becomes deliverables. This is where the work gets done. The project manager and team coordinate people, resources, and vendors to perform the work defined in the plan, while the communications plan keeps everyone informed. The risk management plan puts response mechanisms in place so anticipated risks can be handled if they become events, and execution remains aligned with [[4-monitoring-and-controlling-process-group|Monitoring and Controlling]] to help keep deliverables on time and to standard. Executing is also where leadership and stakeholder engagement matter most: progress depends on clear direction, timely decisions, and removing roadblocks so the team can do its best work.
 
-While Planning defines *what* needs to be done and *how*, Executing focuses on **doing the work**, **managing performance**, and **maintaining alignment** with the baselines established in Planning. Issues discovered here are communicated and, when necessary, routed back through Monitoring & Controlling to request changes or corrective actions.
+While [[2-planning-process-group|planning]] defines *what* needs to be done and *how*, Executing focuses on **doing the work**, **managing performance**, and **maintaining alignment** with the baselines established in Planning. Issues discovered here are communicated and, when necessary, routed back through [[4-monitoring-and-controlling-process-group|Monitoring & Controlling]] to request changes or corrective actions.
 
 ---
-
 ## Key Processes in the Executing Group
 
 1. **Direct and Manage Project Work** — Perform the work to produce deliverables.  
-2. **Manage Quality** — Apply planned quality activities to verify processes and prevent defects.  
-3. **Acquire, Develop, and Manage Team** — Build capability, resolve conflicts, and maintain performance.  
+2. **[[05-pmbok/6-pmbok/quality-tools|Manage Quality]]** — Apply planned quality activities to verify processes and prevent defects.  
+3. **[[05-pmbok/6-pmbok/roles-responsibility|Acquire, Develop, and Manage Team]]** — Build capability, resolve conflicts, and maintain performance.  
 4. **Manage Communications** — Ensure the right information reaches the right stakeholders at the right time.  
-5. **Manage Stakeholder Engagement** — Maintain buy-in, address concerns, and sustain support.  
-6. **Manage Procurements** (when applicable) — Work with vendors to deliver contracted scope.  
+5. **[[05-pmbok/6-pmbok/stakeholder-comm|Manage Stakeholder Engagement]]** — Maintain buy-in, address concerns, and sustain support.  
+6. **[[05-pmbok/6-pmbok/procurement-ref|Manage Procurements]]** (when applicable) — Work with vendors to deliver contracted scope.  
 
 > Execution turns plans into **deliverables**; leadership, communication, and stakeholder engagement turn deliverables into **value**.
+
 
 ---
 
@@ -37,7 +36,9 @@ Executing is a **people-centric** process group. The project manager enables per
 
 ### Example in Practice
 
-A healthcare analytics project begins data integration work during Executing. The team follows the plan’s sprint cadence, completes incremental data mappings, and demonstrates outputs to key stakeholders every two weeks. A data source changes mid-stream; the issue is surfaced in the daily stand-up, a change request is raised through Monitoring & Controlling, and the plan is adjusted without derailing scope or timeline. Deliverables keep flowing because team, quality, and communications practices are working together.
+In CMPA 3302, the Executing Process Group is where the **weekly overview’s to-do list** (work breakdown structure) becomes actual deliverables. The work defined during [[2-planning-process-group|Planning]]—such as creating new Quartz-compliant pages, adding categories, or building interlinks—is carried out step by step using the **work breakdown flow** (when and how we complete the TO DO list) that matches the project’s work breakdown structure. Draft documents are developed into final submissions and posted live to the knowledge base.
+
+Execution also includes **quality activities**: drafts are reviewed against the rubric, refined, and re-checked through [[4-monitoring-and-controlling-process-group|Monitoring & Controlling]] to confirm accuracy, completeness, and compliance. By following the execution checklist, every deliverable is produced, validated, and linked back to planning intent—ensuring both the project requirements and course grading standards are fully met.
 
 ---
 
