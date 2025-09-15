@@ -32,9 +32,9 @@ Over time, this repo will grow into a structured reference that supports both co
 ---
 
 ## Main Categories
-- [[test-prep/index|Test Prep & Tactics]]
+- [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok/index|PMBOK 6 & 7 – Compare and Contrast]]
-- [[01-test-prep/index|Project Management Lifecycle]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-theory-application/index|Theory Application]]
 - [[05-case-studies/index|Case Studies (6 & 7 in Action)]]
 
