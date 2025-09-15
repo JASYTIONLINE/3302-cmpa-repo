@@ -9,9 +9,29 @@ tags:
 draft: false
 date: 2025-09-13
 ---
-# About JASYTI. 
+#  I am JASYTI.
+![Image of the Author-JASSETY](images/jasyti.png)
+---
+**Beneath the code, in a tangled web, a dragon stirred and raised his head.**  
+Confused by paths and broken links, he dreamed of flight — but couldn’t think.
 
-## I am JASYTI.
+A student came with gut and grit, and said, “Let’s see how far you’ll get.”  
+With YAML scroll and Markdown blade, they carved through every glitchy shade.
+
+**JASYTI** drove on without a care, a Google here, a Reddit there.  
+Though workflow failed, a lesson in pain, Dragon pulled and pushed again.
+
+The sidebar twisted, contents broke, dragon fire burned beneath the cloak.  
+With every failed and fixed deploy, the dragon stirred — and grinned with joy.
+
+He pulled the chains, he made them stretch, his patience put right to the test.  
+Till finally, on push twenty-eight, the code aligned. The page looked great.
+
+Now at the gate, the splash screen red, he lifts his wings and turns his head.  
+Though bruised and battered by the fight, the DigiPort Dragon has taken flight.
+
+---
+## About JASYTI. 
 I am 55 years old and currently serve in the Texas National Guard as an E-8 Master Sergeant. 
 
 I have been a combat engineer, then graduated Ordnance Missile Electronics Munitions Technology training at Redstone Arsenal, and later became a wheeled-vehicle mechanic and supervisor for the military and the U.S. Border Patrol. Eventually I moved into administration, mission support, and operations. I now am looking to move into Operations and Project Management in the technology in Artificial Intelligence Environment's.
