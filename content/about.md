@@ -21,11 +21,8 @@ I have been a combat engineer, then graduated Ordnance Missile Electronics Munit
 - I have a small business called **This Is Your Song**, where I create custom songs and lyrics for people who share their stories. 
 - I’m also wrestling with ChatGPT right now, trying to understand the system’s power and limitations—it’s both invigorating and frustrating.
 
-### This site
-is my site for **CMPA 3302**, focused on **Project Management** and preparation for the **PMP Certification Exam**. I’m using this project to turn day-to-day study into organized, reusable notes I can review anywhere.
-
-#### Why PMP? 
-My goal is to learn the memory elements for multiple-choice questions and improve at the scenario side by “living” PMI in daily work. Building the site this way helps me apply what we’re learning about organizing systems: 
+###  Why PMP? 
+My goal is to learn the memory elements for multiple-choice questions and improve at the scenario side by “living” PMI in daily work.  I am using every opportunity to employ my PMP KSAs and this site seems like a perfect opportunity to create a knowledge vault which will help me study for the PMP exam.
 
 ---
 ## Quick Links
