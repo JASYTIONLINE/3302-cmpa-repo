@@ -51,8 +51,8 @@ A data platform project defines scope through a WBS (data ingestion, modeling, d
 
 ## Related Links
 
-- [[03-lifecycle/01-initiating/init-ex.md|Initiating Process Group]]  
-- [[03-lifecycle/03-executing/exec-ex.md|Executing Process Group]]  
-- [[monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
-- [[03-lifecycle/05-closing/close-ex.md|Closing Process Group]]  
+- [[1-Initiating-process-group|Initiating Process Group]]  
+- [[3-executing-process-group|Executing Process Group]]  
+- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
+- [[5-closing-process-group|Closing Process Group]]  
 - [[03-lifecycle/index.md|Back to PMI Guide to the Lifecycle of a Project – Home]]

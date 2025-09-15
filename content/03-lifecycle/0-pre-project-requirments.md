@@ -36,7 +36,7 @@ Before a project officially begins, certain **preconditions** must be met to jus
 6. **Secure business case approval.**  
    The business case must be endorsed by the sponsor or governing body. This approval provides the justification needed to advance the idea into a formal project.  
 
-> Once the business case is approved, the project can move into the [[03-lifecycle/01-initiating/init-ex.md|Initiation phase]], where the project charter is created and formally authorizes Planning to begin.
+> Once the business case is approved, the project can move into the [[1-Initiating-process-group|Initiation phase]], where the project charter is created and formally authorizes Planning to begin.
 
 > ---
 ## Stakeholder Engagement and the Business Case
@@ -74,9 +74,9 @@ The same is true in projects: if the team accepts the initial request without st
 
 ### Related Links
 
-- [[03-lifecycle/01-initiating/init-ex.md|Initiating Process Group]]  
-- [[03-lifecycle/02-planning/plan-ex.md|Planning Process Group]]  
-- [[03-lifecycle/03-executing/exec-ex.md|Executing Process Group]]  
-- [[monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
-- [[03-lifecycle/05-closing/close-ex.md|Closing Process Group]]  
+- [[1-Initiating-process-group|Initiating Process Group]]  
+- [[2-planning-process-group|Planning Process Group]]  
+- [[3-executing-process-group|Executing Process Group]]  
+- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
+- [[5-closing-process-group|Closing Process Group]]  
 - [[03-lifecycle/index.md|Back to PMI Guide to the Lifecycle of a Project – Home]]

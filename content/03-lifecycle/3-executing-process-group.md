@@ -51,8 +51,8 @@ A healthcare analytics project begins data integration work during Executing. Th
 
 ## Related Links
 
-- [[03-lifecycle/01-initiating/init-ex.md|Initiating Process Group]]  
-- [[03-lifecycle/02-planning/plan-ex.md|Planning Process Group]]  
-- [[monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
-- [[03-lifecycle/05-closing/close-ex.md|Closing Process Group]]  
+- [[1-Initiating-process-group|Initiating Process Group]]  
+- [[2-planning-process-group|Planning Process Group]]  
+- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
+- [[5-closing-process-group|Closing Process Group]]  
 - [[03-lifecycle/index.md|Back to PMI Guide to the Lifecycle of a Project – Home]]

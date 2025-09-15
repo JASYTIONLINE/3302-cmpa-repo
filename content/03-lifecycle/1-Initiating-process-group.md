@@ -81,11 +81,11 @@ A software project may begin with a **charter signed by the CIO**, authorizing t
 
 ## Related Links
 
-- [[pre-pro-ex|Pre-Project Requirements]]  
-- [[03-lifecycle/02-planning/plan-ex.md|Planning Process Group]]  
-- [[03-lifecycle/03-executing/exec-ex.md|Executing Process Group]]  
-- [[monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
-- [[03-lifecycle/05-closing/close-ex.md|Closing Process Group]]  
+- [[0-pre-project-requirments|Pre-Project Requirements]]  
+- [[2-planning-process-group|Planning Process Group]]  
+- [[3-executing-process-group|Executing Process Group]]  
+- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
+- [[5-closing-process-group|Closing Process Group]]  
 - [[03-lifecycle/index.md|Back to PMI Guide to the Lifecycle of a Project – Home]]
 )
 
@@ -95,9 +95,9 @@ A software project may begin with a **charter signed by the CIO**, authorizing t
 
 ## Related Links
 
-- [[pre-pro-ex|Pre-Project Requirements]]  
-- [[03-lifecycle/02-planning/plan-ex.md|Planning Process Group]]  
-- [[03-lifecycle/03-executing/exec-ex.md|Executing Process Group]]  
-- [[monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
-- [[03-lifecycle/05-closing/close-ex.md|Closing Process Group]]  
+- [[0-pre-project-requirments|Pre-Project Requirements]]  
+- [[2-planning-process-group|Planning Process Group]]  
+- [[3-executing-process-group|Executing Process Group]]  
+- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
+- [[5-closing-process-group|Closing Process Group]]  
 - [[03-lifecycle/index.md|Back to PMI Guide to the Lifecycle of a Project – Home]]

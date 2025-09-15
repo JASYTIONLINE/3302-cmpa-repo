@@ -49,8 +49,8 @@ A logistics optimization project delivers its final routing engine. The sponsor 
 
 ## Related Links
 
-- [[03-lifecycle/01-initiating/init-ex.md|Initiating Process Group]]  
-- [[03-lifecycle/02-planning/plan-ex.md|Planning Process Group]]  
-- [[03-lifecycle/03-executing/exec-ex.md|Executing Process Group]]  
-- [[monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
+- [[1-Initiating-process-group|Initiating Process Group]]  
+- [[2-planning-process-group|Planning Process Group]]  
+- [[3-executing-process-group|Executing Process Group]]  
+- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]  
 - [[03-lifecycle/index.md|Back to PMI Guide to the Lifecycle of a Project – Home]]
