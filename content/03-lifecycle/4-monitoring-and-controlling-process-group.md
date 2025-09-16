@@ -9,7 +9,9 @@ tags:
 ---
 # Monitoring & Controlling Process Group
 
-Monitoring & Controlling keeps a project anchored to reality. You compare what actually happened against the [[2-planning-process-group|plans]] (scope, schedule, cost, plus quality, resources, risk), spot variances early, and make deliberate adjustments so the work stays aligned with the objectives—never by accidental drift [[references|PMBOK2017]]. This discipline runs continuously alongside every other group: [[3-executing-process-group|Executing]] produces data; Monitoring interprets it; and Controlling applies decisions The central questions are simple but relentless: *Where are we? Why are we here? What should we do about it?* [[references|Kogon2024]].
+Monitoring & Controlling keeps a project anchored to reality. You compare what actually happened against the [[2-planning-process-group|plans]] (scope, schedule, cost, plus quality, resources, risk), spot variances early, and make deliberate adjustments so the work stays aligned with the objectives—never by accidental drift [[references|PMBOK2017]].
+
+This discipline runs continuously alongside every other group: [[3-executing-process-group|Executing]] produces data; Monitoring interprets it; and Controlling applies decisions The central questions are simple but relentless: *Where are we? Why are we here? What should we do about it?* [[references|Kogon2024]].
 
 ![300](https://jasytionline.github.io/r72-pmp-exam-prep-knowledge-base/assets/mandc1.jpg)
 *Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives [[references|PMBOK2017]].
