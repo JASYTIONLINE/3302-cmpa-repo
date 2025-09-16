@@ -1,57 +1,128 @@
 ---
-title: 4. Project Management – Monitoring & Controlling Process Group
-description: Overview of the Monitoring & Controlling Process Group—tracking performance against baselines, managing changes, and steering outcomes toward objectives.
+title: Monitoring & Controlling Process Group
+description: Orientation to Monitoring & Controlling — a narrative snapshot of ITTOs, processes, and cycles, fully cited to PMI-aligned sources.
 tags:
   - cmpa3302
   - project-management
   - process-groups
   - monitoring-and-controlling
-draft: false
-date: 2025-09-14
 ---
 # Monitoring & Controlling Process Group
 
-The **Monitoring & Controlling Process Group** compares actual performance to the **baselines** established in Planning (scope, schedule, and cost) to detect variances early and steer the project back on track. It ensures that the right work is being done, to the right quality, at the right time and cost. This group also evaluates change requests, approves or rejects them through the appropriate authority, and updates plans and baselines **deliberately**—not accidentally.
+Monitoring & Controlling keeps a project anchored to reality. You compare what actually happened against the [[2-planning-process-group|plans]] (scope, schedule, cost, plus quality, resources, risk), spot variances early, and make deliberate adjustments so the work stays aligned with the objectives—never by accidental drift [[references|PMBOK2017]]. This discipline runs continuously alongside every other group: [[3-executing-process-group|Executing]] produces data; Monitoring interprets it; and Controlling applies decisions The central questions are simple but relentless: *Where are we? Why are we here? What should we do about it?* [[references|Kogon2024]].
 
-Monitoring & Controlling is continuous and cross-cutting: it interacts with **every other process group**. Data from Executing is measured against the plan; when impacts are identified, the team uses the **integrated change control** process to evaluate options, decide, and communicate outcomes. Proactive risk monitoring and response keep threats in check and help capture opportunities.
+![300](https://jasytionline.github.io/r72-pmp-exam-prep-knowledge-base/assets/mandc1.jpg)
+*Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives [[references|PMBOK2017]].
+## What this looks like in practice
+
+- Track real performance against baselines and call out green/yellow/red health so everyone sees risks in time to act [[references|PMBOK2017]].
+- Use a simple, truthful status report to surface issues and ask for help or decisions [[references|Kogon2024]].
+- When change is proposed (or required), analyze the impact across time, cost, scope, quality, resources, and risk; then route a formal change for a decision and update the baseline if approved [[references|PMBOK2017]].
+- Keep stakeholders informed with concise, timely updates—the good, the bad, and the fix [[references|Kogon2024]].
+
+---
+## Monitoring vs. Controlling
+
+Monitoring is ongoing measurement and analysis. You observe results, compare them to baselines and thresholds, and surface variances early so options remain open. Monitoring answers: *Where are we vs. plan? What’s trending? What risks are emerging?* [[references|PMBOK2017]].
+
+Monitoring is *diagnosis*. It asks: *Where are we compared to the plan? What trends are forming? What risks are emerging?* The foundation comes from the [[project-management-plan]], [[project-documents]], [[work-performance-data]], [[agreements]], [[eefs]], and [[opas]]. [[references|PMBOK2017]].
+
+Controlling is *treatment*. It answers: *What will we change, who approves it, and how do we realign?* It depends on [[work-performance-information]] analyzed against the baselines and the decisions formalized through [[perform-integrated-change-control]] [[references|PMBOK2017]].
+
+Monitoring can continue even when no action is needed whereas controlling begins the moment a decision or adjustment is required [[references|Kogon2024]].  
+
+---
+### Monitoring — ITTOs
+
+**Inputs**
+- [[project-management-plan]] (scope, schedule, cost baselines; quality, resource, communications, risk, procurement, stakeholder plans)  
+- [[project-documents]] (assumption/issue/change logs; requirements & traceability; risk register; lessons learned; schedule & cost forecasts)  
+- [[work-performance-data]] (actuals from [[3-executing-process-group|Executing]])  
+- [[agreements]], [[eefs]], [[opas]]  
+
+**Tools & Techniques**
+- [[data-analysis]]: variance/trend analysis, [[evm]], forecasting (e.g., [[eac]]), root-cause analysis, reserve analysis  
+- [[data-representation]]: dashboards, burn/control charts  
+- [[decision-methods]]: expert judgment, multi-criteria analysis; [[meetings]]  
+- [[pmis-and-reporting-systems]]; [[risk-reassessment-and-audits]]; stakeholder/communications feedback loops  
+
+**Outputs**
+- [[work-performance-reports]] (tailored, decision-ready)  
+- [[change-requests]] (corrective/preventive/defect repair)  
+- [[updates]]: [[project-management-plan]], [[project-documents]], [[opas]], and stakeholder communications
 
 ---
 
-## Key Processes in the Monitoring & Controlling Group
-
-1. **Monitor and Control Project Work** — Track, review, and report performance.  
-2. **Perform Integrated Change Control** — Evaluate, approve, or reject change requests and update baselines when needed.  
-3. **Validate Scope / Control Scope** — Confirm deliverables meet requirements and prevent scope creep.  
-4. **Control Schedule / Control Costs** — Manage variances and forecast outcomes (EVM, trend analysis).  
-5. **Monitor Risks / Implement Risk Responses** — Watch triggers, execute responses, and recalibrate as needed.  
-6. **Monitor Communications, Quality, Resources, and Stakeholder Engagement** — Ensure plans are followed and effective.  
-
-> Control is not about saying “no”—it’s about making **informed decisions** that keep the project aligned with objectives.
+**Controlling.** Decision and adjustment. You choose corrective or preventive actions, route changes for approval, update baselines when needed, and communicate decisions. Controlling answers: *What will we change, who approves it, and how do we keep alignment?* [[references|PMBOK2017]].
 
 ---
+### Controlling — ITTOs
 
-## Variance, Change, and Communication
+**Inputs**
+- [[project-management-plan]] (baselines and subsidiary plans for [[quality]], [[resources]], [[risk]], [[communications]], [[procurements]], [[stakeholders]])  
+- [[project-documents]] ([[issue-logs]]/[[change-logs]], [[requirements-traceability]], [[quality-reports]], [[risk-register]], [[lessons-learned]], [[procurement-records]])  
+- [[work-performance-information]] (analyzed actuals from [[monitoring-and-controlling-process-group|Monitoring]])  
+- [[agreements]], [[eefs]], [[opas]]  
 
-When variance is detected, the team analyzes root causes and considers options: corrective action, preventive action, or accepting the variance with rationale. Approved changes are incorporated through **formal updates** to the plan and baselines; status and decisions are communicated to the right stakeholders with clarity and timeliness. This discipline prevents silent scope creep and preserves trust. If proper planning took place, most variance will be anticipated and a contingency plan in place to account for it and course correct with minimal disruption to the project.
+**Tools & Techniques**
+- [[data-analysis]]: variance and trend, [[what-if-scenarios]], [[evm]]  
+- [[decision-methods-and-governance]]: expert judgment, multi-criteria analysis, [[change-control-boards]]  
+- [[measurement-and-review]]: [[inspections]], [[audits]], [[control-charts]], [[burn-charts]], [[checklists]], [[sampling]]  
+- [[systems-and-collaboration]]: [[pmis-and-reporting-systems|PMIS dashboards]], [[facilitated-workshops]], [[negotiation]]/[[claims-administration]]  
 
-### Example in Practice
+**Outputs**
+- [[change-requests]] routed through [[perform-integrated-change-control|integrated change control]]  
+- [[approved-changes]] and updated [[baselines]]/[[plans]]  
+- [[work-performance-reports]] with [[control-measurements]]  
+- Updated [[project-documents]] and [[procurement-records]]  
+- [[deliverable-status-artifacts]] (verified or accepted deliverables)
 
-In CMPA 3302, Monitoring & Controlling is me checking my weekly work against the rubric to confirm I’m on track for full marks. After Executing produces drafts—such as new category pages or interlinks—I compare each deliverable against the assignment’s rubric and the requirements laid out in the module overview. If something is missing (e.g., a page without three heading levels, an absent image, or a broken wikilink), that’s a variance.
-
-I then apply corrective actions: fixing the structure, adding missing elements, or revising the content until it matches expectations. Just like integrated change control, these adjustments are deliberate—each revision updates my work breakdown flow without introducing accidental scope creep. Each commit on GitHub is part of the Monitoring & Controlling process which ensures that changes are logged, and before I submit, every requirement is validated, the site functions correctly, and I have clear evidence for a 100% rubric score.
 
 ---
-####     Monitoring and Controlling
-![[mandc.jpg|300]]
+## Shared ITTOs — The Loop
 
-*Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives. No Project Plan is ever Fire and Forget, it requires constant monitoring and controlling to achieve success *
+Monitoring and Controlling share the same cycle [[references|PMBOK2017]].
+
+- The *project management plan* provides baselines and is updated when approved changes occur.  
+- *Project documents* both inform monitoring and record controlling decisions.  
+- *Work performance data* becomes *information*, then *reports*. Reports may trigger *change requests*.  
+- Approved changes update the plan and documents, which form the truth for the next monitoring cycle.  
 
 ---
+## Key Processes
 
-## Related Links
+The processes in this group stabilize a project [[references|PMBOK2017]].
 
-- [[1-Initiating-process-group|Initiating Process Group]]  
-- [[2-planning-process-group|Planning Process Group]]  
-- [[3-executing-process-group|Executing Process Group]]  
-- [[5-closing-process-group|Closing Process Group]]  
-- [[03-lifecycle/index.md|Back to PMI Guide to the Lifecycle of a Project – Home]]
+- [[monitor-and-control-project-work]] tracks progress against the plan.  
+- [[perform-integrated-change-control]] governs decisions.  
+- [[validate-scope]] and [[control-scope]] confirm requirements and prevent creep.  
+- [[control-schedule]] and [[control-costs]] forecast schedule and budget variances.  
+- [[control-quality]] checks standards.  
+- [[control-resources]] verifies resource use.  
+- [[monitor-communications]] ensures information flow.  
+- [[monitor-risks]] reviews risk triggers and responses.  
+- [[control-procurements]] ensures vendor alignment.  
+- [[monitor-stakeholder-engagement]] assesses stakeholder support.  
+
+---
+## Variance Management
+
+Variance is where theory meets reality [[references|PMBOK2017]].The cycle asks four questions:  
+
+1. *Detect and diagnose* — What changed, and why? [[references|Kogon2024]]  
+2. *Choose a response* — Correct, prevent, or accept the variance? [[references|PMBOK2017]].  
+3. *Decide the change* — Does this require a request? Who approves? How do we update the baseline? [[references|PMBOK2017]].
+4. *Communicate* — Who needs to know, and when? [[references|Kogon2024]]  
+
+> Control is not about saying *no*. It is about making informed decisions that balance constraints and keep the project focused [[references|PMBOK2017]].
+
+---
+## Example in Practice: City of Winnipeg
+
+The City of Winnipeg’s Project Management Manual illustrates Monitoring & Controlling through municipal infrastructure projects. Executing produces deliverables such as roadway segments, utility relocations, or facility upgrades. Monitoring asks: *Are the deliverables being built to scope and schedule baselines? Do cost reports align with the approved budget? Are quality tests and inspections meeting specifications?* [[references|City of Winnipeg, 2021]]
+
+When a variance appears — for example, a contractor delay, an unexpected soil condition, or a cost overrun on materials — it is flagged through regular status reporting. Controlling then asks: *What action realigns this work? Do we issue a corrective work order, approve a preventive scope adjustment, or raise a formal change request for additional funds or time?* Each action is logged, routed through integrated change control, and incorporated into updated baselines. By project closeout, deliverables are verified, accepted, and documented in alignment with the city’s standards, providing both accountability and lessons learned for future projects [[references|City of Winnipeg, 2021]]
+
+---
+![[mandcpc.pdf]]
+---
