@@ -9,6 +9,8 @@ tags:
 draft: false
 date: 2025-09-14
 ---
+![250](https://github.com/JASYTIONLINE/r72-pmp-exam-prep-knowledge-base/blob/main/content/assets/accepted.jpg?raw=true)
+
 # Closing Process Group
 
 The Closing Process Group formally completes the project or a phase and transfers the final product, service, or result to operations or the requesting organization. During Closing is when we confirm the work has been completed to standard. The definition of success has been met. Most importantly, this is where we secure formal acceptance and release the resources tied up in the project. This could include sending human resources back to their home teams, releasing funds earmarked for the effort, or relinquishing control of capital assets such as computers or other equipment that supported execution. Closing is also where the team consolidates lessons learned and archives project information for audit, knowledge reuse, and organizational learning.
@@ -25,9 +27,7 @@ Closing is not a “nice-to-have.” Without it, teams can drift from one effort
 4. **Capture and Share Lessons Learned** — Document what worked, what didn’t, and recommendations for the future.  
 
 > Closing turns deliverables into **accepted value**, and experience into **organizational knowledge**.
-![[graph.pdf]]
----
-
+![[closing.pdf]]
 ## Acceptance, Handover, and Learning
 
 Successful Closing requires **clear acceptance criteria**—defined in Planning and verified during Executing and Monitoring & Controlling. Handover to operations (or the customer) should be planned, with training, access, and support arrangements documented. Lessons learned should be gathered from the entire stakeholder set, not just the core team, and stored where they can be discovered and reused by others.
