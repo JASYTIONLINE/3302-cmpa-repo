@@ -40,9 +40,9 @@ Every **Monday** is a new project in CMPA. The week begins with a [[0-pre-projec
 
 ---
 
-## Visual Representation
+###  Planning Process Group
 
-![Planning the work—defining baselines and roadmaps](images/plan.jpg)
+![[plan.jpg|300]]
 
 *Planning builds the baselines and management plans that guide execution and enable effective control.*
 

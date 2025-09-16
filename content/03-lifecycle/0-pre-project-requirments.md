@@ -13,6 +13,7 @@ date: 2025-09-14
 # Pre-Project Requirements
 
 Although not officially one of the PMP Process Groups, it would be remiss not to include the pre-project requirements that must be satisfied before a project can be established. These prerequisites form the foundation on which the entire effort is built. Specifically, the Initiating Process Group cannot begin until these are met; without them, any attempt to plan or execute is likely to fail. If the Project Management Plan is the road we’ll travel, the business case and the project charter define the destination—because if we don’t know where we’re going, any road will do.
+
 ---
 
 ## Key Activities Before Initiation
@@ -63,9 +64,9 @@ The same is true in projects: if the team accepts the initial request without st
 
 ---
 
-## Visual Representation
+## Stakeholder Engagement Builds Trust
 
-![Stakeholder engagement handshake before project initiation](images/stake.jpg)
+ ![[stake.jpg|300]]
 
 *This image represents stakeholder engagement and agreement, which is central to validating a project request and producing the business case before moving to Initiation.*  
 

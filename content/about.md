@@ -10,7 +10,7 @@ draft: false
 date: 2025-09-13
 ---
 #  I am JASYTI.
-![Image of the Author-JASSETY](images/jasyti.png)
+![Image of the Author-JASSETY](jasyti.png)
 ---
 **Beneath the code, in a tangled web, a dragon stirred and raised his head.**  
 Confused by paths and broken links, he dreamed of flight — but couldn’t think.

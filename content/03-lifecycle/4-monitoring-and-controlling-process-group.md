@@ -42,10 +42,8 @@ In CMPA 3302, Monitoring & Controlling is me checking my weekly work against the
 I then apply corrective actions: fixing the structure, adding missing elements, or revising the content until it matches expectations. Just like integrated change control, these adjustments are deliberate—each revision updates my work breakdown flow without introducing accidental scope creep. Each commit on GitHub is part of the Monitoring & Controlling process which ensures that changes are logged, and before I submit, every requirement is validated, the site functions correctly, and I have clear evidence for a 100% rubric score.
 
 ---
-
-## Visual Representation
-
-![Monitoring and controlling—variance analysis and change control](images/mandc.jpg)
+####     Monitoring and Controlling
+![[mandc.jpg|300]]
 
 *Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives.*
 

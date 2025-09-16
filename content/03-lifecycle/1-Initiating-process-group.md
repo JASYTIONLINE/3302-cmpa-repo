@@ -33,9 +33,9 @@ A software project may begin with a **charter signed by the CIO**, authorizing t
 
 ---
 
-## Visual Representation
+##   Initiating Process Group
 
-![Initiating handshake – project charter approval](images/init.jpg)
+![[init.jpg|300]]
 
 *This image symbolizes trust and authorization, both of which are central to the Initiating Process Group.*  
 

@@ -27,6 +27,8 @@ Closing is not a “nice-to-have.” Without it, teams can drift from one effort
 
 > Closing turns deliverables into **accepted value**, and experience into **organizational knowledge**.
 
+![Stakeholder engagement handshake before project initiation](assets/graph.pdf "Stakeholder engagement before kickoff")
+
 ---
 
 ## Acceptance, Handover, and Learning
@@ -41,9 +43,9 @@ Closing also involves deciding what to do with project artifacts: transcripts, n
 
 ---
 
-## Visual Representation
+### The Closing Process Group
 
-![Closing the project—acceptance, handoff, and lessons learned](images/close.webp)
+![Closing the project—acceptance, handoff, and lessons learned](close.jpg)
 
 *Closing verifies acceptance, completes administration, and captures learning for the next effort.*
 

@@ -42,14 +42,14 @@ Execution also includes **quality activities**: drafts are reviewed against the 
 
 ---
 
-## Visual Representation
+###   Executing Process Group
 
-![Executing the work—team collaboration and delivery](images/exec.jpg)
+![[exec.jpg|300]]
 
-*Executing relies on coordinated teamwork, strong communication, and continuous stakeholder engagement to produce deliverables.*
+*Executing relies on coordinated teamwork, strong communication, and continuous stakeholder\
+engagement to produce deliverables.*
 
 ---
-
 ## Related Links
 
 - [[1-Initiating-process-group|Initiating Process Group]]  
