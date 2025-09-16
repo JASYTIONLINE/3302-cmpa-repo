@@ -8,7 +8,7 @@ tags:
 draft: false
 date: "2025-09-13"
 ---
-![Digiport Ai Dragon Mascot](images/dragon.png)
+![Digiport Ai Dragon Mascot](dragon.png)
 # JASYTI's Project Management Professional Knowledge Base - HOME
 CMPA 3302 
 ## Purpose
