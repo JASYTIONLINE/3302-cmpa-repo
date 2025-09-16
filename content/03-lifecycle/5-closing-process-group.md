@@ -25,9 +25,7 @@ Closing is not a “nice-to-have.” Without it, teams can drift from one effort
 4. **Capture and Share Lessons Learned** — Document what worked, what didn’t, and recommendations for the future.  
 
 > Closing turns deliverables into **accepted value**, and experience into **organizational knowledge**.
-
-![Stakeholder engagement handshake before project initiation](assets/graph.pdf "Stakeholder engagement before kickoff")
-
+![[graph.pdf]]
 ---
 
 ## Acceptance, Handover, and Learning
