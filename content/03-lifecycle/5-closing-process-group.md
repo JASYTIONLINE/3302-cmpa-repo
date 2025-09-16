@@ -9,7 +9,7 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-![Closing process group — accepted work order](https://github.com/JASYTIONLINE/r72-pmp-exam-prep-knowledge-base/blob/main/content/assets/accepted.jpg?raw=true){ width=300 }
+![Closing process group — accepted work order](https://github.com/JASYTIONLINE/r72-pmp-exam-prep-knowledge-base/blob/main/content/assets/accepted.jpg?raw=true)
 *Closing Process Group — Accepted Work Order*
 
 # Closing Process Group
