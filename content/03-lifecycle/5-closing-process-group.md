@@ -9,7 +9,7 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-![250](https://github.com/JASYTIONLINE/r72-pmp-exam-prep-knowledge-base/blob/main/content/assets/accepted.jpg?raw=true)
+![150](https://github.com/JASYTIONLINE/r72-pmp-exam-prep-knowledge-base/blob/main/content/assets/accepted.jpg?raw=true)
 
 # Closing Process Group
 
