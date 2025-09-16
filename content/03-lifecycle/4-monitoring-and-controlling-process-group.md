@@ -1,5 +1,5 @@
 ---
-title: Monitoring & Controlling Process Group
+title: 4. Monitoring & Controlling Process Group
 description: Orientation to Monitoring & Controlling — a narrative snapshot of ITTOs, processes, and cycles, fully cited to PMI-aligned sources.
 tags:
   - cmpa3302
