@@ -9,7 +9,6 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-s
 # Planning Process Group
 
 The **Planning Process Group** establishes the roadmap for the project by transforming intent into a **workable plan**. In this group, the team defines scope, estimates effort and duration, sequences work, builds the schedule and budget, plans quality and communications, and identifies risks and responses. Planning is iterative and integrative: as new information emerges, the plan may be refined to keep the project aligned with objectives and constraints.
@@ -44,7 +43,7 @@ Every **Monday** is a new project in CMPA. The week begins with a [[0-pre-projec
 
 ![[plan.jpg|300]]
 
-*Planning builds the baselines and management plans that guide execution and enable effective control.*
+*Planning builds the baselines and management plans that guide execution and enable effective control. When the planning phase closes, the plan is handed off to the project manager in charge of executing the plan*
 
 ---
 

@@ -9,7 +9,6 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
 # Pre-Project Requirements
 
 Although not officially one of the PMP Process Groups, it would be remiss not to include the pre-project requirements that must be satisfied before a project can be established. These prerequisites form the foundation on which the entire effort is built. Specifically, the Initiating Process Group cannot begin until these are met; without them, any attempt to plan or execute is likely to fail. If the Project Management Plan is the road we’ll travel, the business case and the project charter define the destination—because if we don’t know where we’re going, any road will do.
@@ -38,7 +37,7 @@ Although not officially one of the PMP Process Groups, it would be remiss not to
 
 > Once the business case is approved, the project can move into the [[1-Initiating-process-group|Initiation phase]], where the project charter is created and formally authorizes Planning to begin.
 
-> ---
+---
 ## Stakeholder Engagement and the Business Case
 
 The **customer request** is the basis of any project. Before a project can move forward, the team must understand the customer’s *true intent*. Often, customers do not fully understand what they need — they only know what they want. By engaging stakeholders early, the project manager or sponsor can validate what the customer actually needs versus what they initially asked for.  
@@ -68,7 +67,7 @@ The same is true in projects: if the team accepts the initial request without st
 
  ![[stake.jpg|300]]
 
-*This image represents stakeholder engagement and agreement, which is central to validating a project request and producing the business case before moving to Initiation.*  
+*The first step before any project can begin, is to establish the relationship of trust with between all stakeholders and define the true needs of the sponsor and customer.  A detailed customer request is key to establishing a strong charter and plan.* 
 
 ---
 

@@ -9,7 +9,6 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
 # Initiating Process Group
 
 ## **Initiating Process Group**
@@ -37,7 +36,7 @@ A software project may begin with a **charter signed by the CIO**, authorizing t
 
 ![[init.jpg|300]]
 
-*This image symbolizes trust and authorization, both of which are central to the Initiating Process Group.*  
+*This image symbolizes the closing ceremony of the initiating Process. where the project charter is handed of to the planning team who begin the formal planning phase.*  
 
 ---
 

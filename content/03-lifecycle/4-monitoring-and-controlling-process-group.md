@@ -9,7 +9,6 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
 # Monitoring & Controlling Process Group
 
 The **Monitoring & Controlling Process Group** compares actual performance to the **baselines** established in Planning (scope, schedule, and cost) to detect variances early and steer the project back on track. It ensures that the right work is being done, to the right quality, at the right time and cost. This group also evaluates change requests, approves or rejects them through the appropriate authority, and updates plans and baselines **deliberately**—not accidentally.
@@ -45,7 +44,7 @@ I then apply corrective actions: fixing the structure, adding missing elements, 
 ####     Monitoring and Controlling
 ![[mandc.jpg|300]]
 
-*Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives.*
+*Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives. No Project Plan is ever Fire and Forget, it requires constant monitoring and controlling to achieve success *
 
 ---
 

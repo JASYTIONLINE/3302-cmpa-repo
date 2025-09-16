@@ -9,7 +9,6 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
 # Closing Process Group
 
 The Closing Process Group formally completes the project or a phase and transfers the final product, service, or result to operations or the requesting organization. During Closing is when we confirm the work has been completed to standard. The definition of success has been met. Most importantly, this is where we secure formal acceptance and release the resources tied up in the project. This could include sending human resources back to their home teams, releasing funds earmarked for the effort, or relinquishing control of capital assets such as computers or other equipment that supported execution. Closing is also where the team consolidates lessons learned and archives project information for audit, knowledge reuse, and organizational learning.

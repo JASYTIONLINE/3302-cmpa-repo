@@ -46,8 +46,8 @@ Execution also includes **quality activities**: drafts are reviewed against the 
 
 ![[exec.jpg|300]]
 
-*Executing relies on coordinated teamwork, strong communication, and continuous stakeholder\
-engagement to produce deliverables.*
+*Executing relies on coordinated teamwork, strong communication, and continuous stakeholder
+engagement to produce deliverables.  The executing phase is where the actual deliverables are created. Up until this point all lines of effort are focused on scaffolding*
 
 ---
 ## Related Links
