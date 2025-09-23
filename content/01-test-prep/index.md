@@ -17,12 +17,23 @@ Equally important, this section highlights tactics for exam day itself: how to r
 By studying Test Prep techniques, you ensure that the knowledge gained from the other sections is applied effectively on exam day. Many candidates know the material well but lose points to nervousness or poor test-taking habits. These strategies are designed to help you stay calm, read every question carefully, avoid logic traps, and focus on using what you already know. Strong preparation reduces anxiety and allows your understanding of project management to show through, rather than being overshadowed by exam pressure.  
 
 ## Related Categories
-- Test Prep & Tactics will only take you so far without the foundational context provided in [[04-theory-application/index|Theory Application]] which shows how facts can be applied to situations.
+- Test Prep & Tactics will only take you so far without the foundational context provided in [[02-pmbok/index|Theory Application]] which shows how facts can be applied to situations.
 
-- Tips like “pick the best of two good answers” are far more effective when paired with the situational context that [[05-case-studies/index|Case Studies (6 & 7 in Action)]] provide, highlighting why two answers may seem correct but only one reflects PMI’s “most right” choice.  
+- Tips like “pick the best of two good answers” are far more effective when paired with the situational context that [[05-tlg/index|Case Studies (6 & 7 in Action)]] provide, highlighting why two answers may seem correct but only one reflects PMI’s “most right” choice.  
+
+---
+
 ## Quick Links
-- [[test-prep-tips-and--tricks|Test Preparation Tips and Tricks]]
+- [[01-test-prep|Test Preparation Essentials]]
+- [[02-Understanding Terms|Understanding Terms]]
+- [[03-cue-cards|Cue Cards as a Study Tool]]
+- [[01-test-prep/04-glossary|Glossary]]
+
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
+- [[01-test-prep/index|Test Prep & Tactics]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
-- [[02-pmbok/index|PMBOK 6 & 7 – Compare and Contrast]]
+- [[02-pmbok/index|Theory Application]]
+- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
+- [[02-pmbok/6-pmbok/index|PMBOK 6 Standards]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]

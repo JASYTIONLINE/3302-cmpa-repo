@@ -20,9 +20,9 @@ Here is where is where we study how to read a scenario, anchor on the relevant p
 
 ---
 ## Related Categories
-PMBOK 6 & 7 Compare and Contrast links to [[04-theory-application/index|Theory Application]] as principles and domains provide the *why/what*, while ITTOs supply the *how* for applying concepts in situational analysis.
+PMBOK 6 & 7 Compare and Contrast links to [[02-pmbok/index|Theory Application]] as principles and domains provide the *why/what*, while ITTOs supply the *how* for applying concepts in situational analysis.
 
-PMBOK 6 & 7 Compare and Contrast connects to [[05-case-studies/index|Case Studies (6 vs. 7 in Action)]] since real projects reveal when a principle-led choice and a process-led choice converge—and which one becomes the “most right” answer under PMI’s lens.
+PMBOK 6 & 7 Compare and Contrast connects to [[05-tlg/index|Case Studies (6 vs. 7 in Action)]] since real projects reveal when a principle-led choice and a process-led choice converge—and which one becomes the “most right” answer under PMI’s lens.
 
 ---
 ## Navigation

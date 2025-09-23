@@ -1,130 +1,84 @@
 ---
-title: 4. Monitoring & Controlling Process Group
-description: Orientation to Monitoring & Controlling — a narrative snapshot of ITTOs, processes, and cycles, fully cited to PMI-aligned sources.
-tags:
-  - cmpa3302
-  - project-management
-  - process-groups
-  - monitoring-and-controlling
+title: "Executing Process Group"
+description: "Overview of the Executing Process Group, its purpose, key processes, and role in turning plans into deliverables."
+tags: [cmpa3302, project-management, process-groups, executing, "filename:3-executing-process-group.md"]
+draft: false
+date: "2025-09-23"
+permalink: "/kb/3-executing-process-group/"
+enableToc: true
+
+aliases: ["Executing Group", "Executing Process Group Overview"]
+cssclasses: []
+
+h1: "Executing Process Group"
+course: "cmpa3302"
+filename: "3-executing-process-group.md"
+role: "article"
+function: "kb-page"
+shortcode: "[doc]"
 ---
-# Monitoring & Controlling Process Group
 
-Monitoring & Controlling keeps a project anchored to reality. You compare what actually happened against the [[2-planning-process-group|plans]] (scope, schedule, cost, plus quality, resources, risk), spot variances early, and make deliberate adjustments so the work stays aligned with the objectives—never by accidental drift [[references|PMBOK2017]].
+# Executing Process Group
 
-This discipline runs continuously alongside every other group: [[3-executing-process-group|Executing]] produces data; Monitoring interprets it; and Controlling applies decisions The central questions are simple but relentless: *Where are we? Why are we here? What should we do about it?* [[references|Kogon2024]].
+The **Executing Process Group** is where the plan becomes action—and action becomes deliverables. The project manager and team coordinate people, resources, and vendors to perform the work defined in the plan, while the communications plan keeps everyone informed. The risk management plan puts response mechanisms in place so anticipated risks can be handled if they become events, and execution remains aligned with [[4-monitoring-and-controlling-process-group|Monitoring and Controlling]] to help keep deliverables on time and to standard.  
 
-![300](https://jasytionline.github.io/r72-pmp-exam-prep-knowledge-base/assets/mandc1.jpg)
-*Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives [[references|PMBOK2017]].
-## What this looks like in practice
+Executing is also where leadership and stakeholder engagement matter most: progress depends on clear direction, timely decisions, and removing roadblocks so the team can do its best work. See [[content/references|References]].
 
-- Track real performance against baselines and call out green/yellow/red health so everyone sees risks in time to act [[references|PMBOK2017]].
-- Use a simple, truthful status report to surface issues and ask for help or decisions [[references|Kogon2024]].
-- When change is proposed (or required), analyze the impact across time, cost, scope, quality, resources, and risk; then route a formal change for a decision and update the baseline if approved [[references|PMBOK2017]].
-- Keep stakeholders informed with concise, timely updates—the good, the bad, and the fix [[references|Kogon2024]].
-
----
-## Monitoring vs. Controlling
-
-Monitoring is ongoing measurement and analysis. You observe results, compare them to baselines and thresholds, and surface variances early so options remain open. Monitoring answers: *Where are we vs. plan? What’s trending? What risks are emerging?* [[references|PMBOK2017]].
-
-Monitoring is *diagnosis*. It asks: *Where are we compared to the plan? What trends are forming? What risks are emerging?* The foundation comes from the [[project-management-plan]], [[project-documents]], [[work-performance-data]], [[agreements]], [[eefs]], and [[opas]]. [[references|PMBOK2017]].
-
-Controlling is *treatment*. It answers: *What will we change, who approves it, and how do we realign?* It depends on [[work-performance-information]] analyzed against the baselines and the decisions formalized through [[perform-integrated-change-control]] [[references|PMBOK2017]].
-
-Monitoring can continue even when no action is needed whereas controlling begins the moment a decision or adjustment is required [[references|Kogon2024]].  
-
----
-### Monitoring — ITTOs
-
-**Inputs**
-- [[project-management-plan]] (scope, schedule, cost baselines; quality, resource, communications, risk, procurement, stakeholder plans)  
-- [[project-documents]] (assumption/issue/change logs; requirements & traceability; risk register; lessons learned; schedule & cost forecasts)  
-- [[work-performance-data]] (actuals from [[3-executing-process-group|Executing]])  
-- [[agreements]], [[eefs]], [[opas]]  
-
-**Tools & Techniques**
-- [[data-analysis]]: variance/trend analysis, [[evm]], forecasting (e.g., [[eac]]), root-cause analysis, reserve analysis  
-- [[data-representation]]: dashboards, burn/control charts  
-- [[decision-methods]]: expert judgment, multi-criteria analysis; [[meetings]]  
-- [[pmis-and-reporting-systems]]; [[risk-reassessment-and-audits]]; stakeholder/communications feedback loops  
-
-**Outputs**
-- [[work-performance-reports]] (tailored, decision-ready)  
-- [[change-requests]] (corrective/preventive/defect repair)  
-- [[updates]]: [[project-management-plan]], [[project-documents]], [[opas]], and stakeholder communications
+While [[2-planning-process-group|Planning]] defines *what* needs to be done and *how*, Executing focuses on **doing the work**, **managing performance**, and **maintaining alignment** with the baselines established in Planning. Issues discovered here are communicated and, when necessary, routed back through [[4-monitoring-and-controlling-process-group|Monitoring & Controlling]] to request changes or corrective actions. See [[content/references|References]].
 
 ---
 
-**Controlling.** Decision and adjustment. You choose corrective or preventive actions, route changes for approval, update baselines when needed, and communicate decisions. Controlling answers: *What will we change, who approves it, and how do we keep alignment?* [[references|PMBOK2017]].
+## Key Processes in the Executing Group
+
+According to PMI, the Executing Process Group includes the following processes [[content/references|References]]:
+
+1. **Direct and Manage Project Work** — Perform the work to produce deliverables.  
+2. **Manage Quality** — Apply planned quality activities to verify processes and prevent defects.  
+3. **Acquire, Develop, and Manage Team** — Build capability, resolve conflicts, and maintain performance.  
+4. **Manage Communications** — Ensure the right information reaches the right stakeholders at the right time.  
+5. **Manage Stakeholder Engagement** — Maintain buy-in, address concerns, and sustain support.  
+6. **Manage Procurements** (when applicable) — Work with vendors to deliver contracted scope.  
+
+> *Execution turns plans into deliverables; leadership, communication, and stakeholder engagement turn deliverables into value.* — Adapted from PMI guidance, see [[content/references|References]]
 
 ---
-### Controlling — ITTOs
 
-**Inputs**
-- [[project-management-plan]] (baselines and subsidiary plans for [[quality]], [[resources]], [[risk]], [[communications]], [[procurements]], [[stakeholders]])  
-- [[project-documents]] ([[issue-logs]]/[[change-logs]], [[requirements-traceability]], [[quality-reports]], [[risk-register]], [[lessons-learned]], [[procurement-records]])  
-- [[work-performance-information]] (analyzed actuals from [[monitoring-and-controlling-process-group|Monitoring]])  
-- [[agreements]], [[eefs]], [[opas]]  
+## Managing Teams and Communications
 
-**Tools & Techniques**
-- [[data-analysis]]: variance and trend, [[what-if-scenarios]], [[evm]]  
-- [[decision-methods-and-governance]]: expert judgment, multi-criteria analysis, [[change-control-boards]]  
-- [[measurement-and-review]]: [[inspections]], [[audits]], [[control-charts]], [[burn-charts]], [[checklists]], [[sampling]]  
-- [[systems-and-collaboration]]: [[pmis-and-reporting-systems|PMIS dashboards]], [[facilitated-workshops]], [[negotiation]]/[[claims-administration]]  
+Executing is a **people-centric** process group. The project manager enables performance by clarifying expectations, protecting the team’s focus, and escalating blockers early. Communications are proactive and purposeful: status, decisions, risks, and changes are routed to the correct audiences through agreed channels and cadences.  
 
-**Outputs**
-- [[change-requests]] routed through [[perform-integrated-change-control|integrated change control]]  
-- [[approved-changes]] and updated [[baselines]]/[[plans]]  
-- [[work-performance-reports]] with [[control-measurements]]  
-- Updated [[project-documents]] and [[procurement-records]]  
-- [[deliverable-status-artifacts]] (verified or accepted deliverables)
-
+Quality is built in—not just inspected at the end—by following defined processes and using feedback loops to prevent defects and rework. See [[content/references|References]].
 
 ---
-## Shared ITTOs — The Loop
 
-Monitoring and Controlling share the same cycle [[references|PMBOK2017]].
+## Example in Practice
 
-- The *project management plan* provides baselines and is updated when approved changes occur.  
-- *Project documents* both inform monitoring and record controlling decisions.  
-- *Work performance data* becomes *information*, then *reports*. Reports may trigger *change requests*.  
-- Approved changes update the plan and documents, which form the truth for the next monitoring cycle.  
+In CMPA 3302, the Executing Process Group is where the **weekly overview’s to-do list** (work breakdown structure) becomes actual deliverables. The work defined during [[2-planning-process-group|Planning]]—such as creating new Quartz-compliant pages, adding categories, or building interlinks—is carried out step by step using the **work breakdown flow** (when and how we complete the TO DO list) that matches the project’s work breakdown structure.  
+
+Draft documents are developed into final submissions and posted live to the knowledge base. Execution also includes **quality activities**: drafts are reviewed against the rubric, refined, and re-checked through [[4-monitoring-and-controlling-process-group|Monitoring & Controlling]] to confirm accuracy, completeness, and compliance. By following the execution checklist, every deliverable is produced, validated, and linked back to planning intent—ensuring both the project requirements and course grading standards are fully met.
 
 ---
-## Key Processes
 
-The processes in this group stabilize a project [[references|PMBOK2017]].
+## Visual Representation
 
-- [[monitor-and-control-project-work]] tracks progress against the plan.  
-- [[perform-integrated-change-control]] governs decisions.  
-- [[validate-scope]] and [[control-scope]] confirm requirements and prevent creep.  
-- [[control-schedule]] and [[control-costs]] forecast schedule and budget variances.  
-- [[control-quality]] checks standards.  
-- [[control-resources]] verifies resource use.  
-- [[monitor-communications]] ensures information flow.  
-- [[monitor-risks]] reviews risk triggers and responses.  
-- [[control-procurements]] ensures vendor alignment.  
-- [[monitor-stakeholder-engagement]] assesses stakeholder support.  
+![[exec.jpg|300]]
+
+*Executing relies on coordinated teamwork, strong communication, and continuous stakeholder engagement to produce deliverables. The executing phase is where the actual deliverables are created. Up until this point all lines of effort are focused on scaffolding.*  
 
 ---
-## Variance Management
 
-Variance is where theory meets reality [[references|PMBOK2017]].The cycle asks four questions:  
+## Quick Links
+- [[0-pre-project-requirments|Pre-Project Requirements – Before the Project Becomes a Project]]
+- [[1-Initiating-process-group|Initiating Process Group]]
+- [[2-planning-process-group|Planning Process Group]]
+- [[3-executing-process-group|Executing Process Group]]
+- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]
+- [[5-closing-process-group|Closing Process Group]]
 
-1. *Detect and diagnose* — What changed, and why? [[references|Kogon2024]]  
-2. *Choose a response* — Correct, prevent, or accept the variance? [[references|PMBOK2017]].  
-3. *Decide the change* — Does this require a request? Who approves? How do we update the baseline? [[references|PMBOK2017]].
-4. *Communicate* — Who needs to know, and when? [[references|Kogon2024]]  
-
-> Control is not about saying *no*. It is about making informed decisions that balance constraints and keep the project focused [[references|PMBOK2017]].
-
----
-## Example in Practice: City of Winnipeg
-
-The City of Winnipeg’s Project Management Manual illustrates Monitoring & Controlling through municipal infrastructure projects. Executing produces deliverables such as roadway segments, utility relocations, or facility upgrades. Monitoring asks: *Are the deliverables being built to scope and schedule baselines? Do cost reports align with the approved budget? Are quality tests and inspections meeting specifications?* [[references|City of Winnipeg, 2021]]
-
-When a variance appears — for example, a contractor delay, an unexpected soil condition, or a cost overrun on materials — it is flagged through regular status reporting. Controlling then asks: *What action realigns this work? Do we issue a corrective work order, approve a preventive scope adjustment, or raise a formal change request for additional funds or time?* Each action is logged, routed through integrated change control, and incorporated into updated baselines. By project closeout, deliverables are verified, accepted, and documented in alignment with the city’s standards, providing both accountability and lessons learned for future projects [[references|City of Winnipeg, 2021]]
-
----
-![[mandcpc.pdf]]
----
+## Navigation
+- [[index.md|JASYTI's PMP KB Home]]
+- [[test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok/index|Theory Application]]
+- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
+- [[02-pmbok/6-pmbok/index|PMBOK 6 Standards]]
+- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
