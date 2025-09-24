@@ -1,20 +1,18 @@
 ---
-title: "Lifecycle of a Project"
-description: "Index page for the five PMI process groups."
+title: "CMPA 3302 Knowledge Base Portal"
+description: "Home hub for course navigation and PMP study materials."
 tags:
   - cmpa3302
-  - lifecycle
+  - project-management
+  - pmp
 draft: false
 date: "2025-09-24"
-
-enableToc: true
-
 classification: public
 retention: permanent
 integrityCheck: true
 role: category
-function: category-index
-shortcode: "[cat]"
+function: home-index
+shortcode: "[idx]"
 ---
 
 
