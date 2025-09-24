@@ -24,7 +24,9 @@ shortcode: "[ref]"
 ---
 # References
 
-## PM Core Materials### PMBOK 06
+## PM Core Materials
+
+### PMBOK 06
 - Project Management Institute (2017). *A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Sixth Edition*. 
 
 ### PMBOK 07
@@ -92,7 +94,7 @@ shortcode: "[ref]"
 ---
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok-06/index|PMBOK 6]]
+- [[02-pmbok/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]

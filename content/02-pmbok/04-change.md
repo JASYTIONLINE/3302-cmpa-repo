@@ -1,13 +1,23 @@
 ---
-title: Change & Configuration Control
+title: 4-Change - From a Project Management Perspective
 description: Placeholder content introducing change and configuration control in projects
-tags: [pmbok, change-control, configuration-management, governance]
+tags:
+  - pmbok
+  - change-control
+  - configuration-management
+  - governance
 draft: false
 date: 2025-09-14
 ---
 
-# Change & Configuration Control
+# Change - From a Project Management Perspective
+TBP
+## Is Change Bad in PM
+TBP
 
+## Handling Change in a Project
+TBP
+### Change & Configuration Control
 Change control and configuration control are the mechanisms that keep a project stable while still allowing it to adapt. **Change control** refers to the structured process for reviewing, approving, or rejecting modifications to scope, schedule, cost, or quality. It ensures changes are logged, evaluated for impact, and only implemented with authorization from the change control board or project authority.  
 
 **Configuration control** focuses on maintaining consistency of product performance and functional attributes with its requirements and design documentation. It ensures that the deliverable being built or maintained matches the approved specifications.  
@@ -16,7 +26,24 @@ Together, these controls protect the integrity of both the project’s managemen
 
 ---
 ## Quick Links
-- [[02-pmbok-06/index|Back to PMBOK 6 Explained – Home]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
-- [[02-pmbok/index|02-PMBOK 6 & 7 Compare and Contrast]]
-- [[index|Back to JASYTI’s PMP KB - HOME ]]
+
+- [[#PMBOK 6 Explained – Home|PMBOK 6 Explained]]
+- [[01-stakeholder|Stakeholder Management]]
+- [[02-risk|Risk]]
+- [[03-eef-opa|EEF's & OPA's]]  
+- [[04-change|Change - From PM Perspective]]
+- [[05-tailoring|05-Tailoring in PM]]
+- [[3-glossary|Glossary]]
+- [[2-references.md|References]]
+
+---
+## Main Categories
+
+- [[index.md|JASYTI's PMP KB – HOME]]
+- [[01-test-prep/index.md|Test Preparation Tips and Tactics]]
+- [[02-pmbok/index.md|Project Management Body of Knowledge]] 
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

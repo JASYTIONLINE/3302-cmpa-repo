@@ -85,5 +85,5 @@ Just finishing the product or deliverables does not close the project; there are
 - [[test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok/index|Theory Application]]
 - [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok-06/index|PMBOK 6 Standards]]
+- [[02-pmbok/index|PMBOK 6 Standards]]
 - [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]

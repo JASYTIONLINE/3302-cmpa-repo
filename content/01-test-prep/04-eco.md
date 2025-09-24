@@ -46,8 +46,8 @@ TBP
 ## Main Categories
 
 - [[index.md|JASYTI's PMP KB – HOME]]
-- [[#Test Preparation Tips and Tactics - Home|Test Prep & Tactics]]
-- [[02-pmbok-06/index|PMBOK 6]]
+- [[01-test-prep/index.md|Test Preparation Tips and Tactics]]
+- [[02-pmbok/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]

@@ -28,19 +28,41 @@ The [[01-test-prep/03-principles.md|Project Management Institutes Exam Content O
 
 This page is your quick start to PMP test readiness. It explains how to arrive at the exam calm, clear, and primed to choose the best answer. Use it as a hub: 
 
-Here you leanr tips like how to first to set healthy, repeatable habits for test day, apply principle-driven tactics when reading questions, and eliminating distractors. 
+Here you learn tips like how to first to set healthy, repeatable habits for test day, apply principle-driven tactics when reading questions, and eliminating distractors. 
 
 The goal is confidence under time pressure—not cramming.
 
 ---
-## Study Habits for Exam Day
+## Studying for the Exam
+TBP
 
-- Sleep 7–9 Hours the Night Before: Sleep supports cognitive function, emotional regulation, and memory consolidation. Poor sleep is consistently linked to lower academic performance.
-- Eat a Balanced Pre-Exam Meal (Complex Carbs + Protein): A meal with steady-release carbohydrates and protein helps maintain focus and energy. Avoid heavy or high-sugar meals that may cause crashes.
--  Hydrate Consistently (Don’t Overdo It Last Minute): Mild dehydration impairs attention and reaction time. Sip water regularly throughout the day before the test — not just immediately before.
-- Time Your Caffeine Intake Strategically: Caffeine boosts alertness, but overuse or poor timing can heighten anxiety and impair focus. Stick to your usual dosage and avoid high doses within 1–2 hours of the exam.
-- Arrive Early (10–15 Minutes): Reduces logistical stress, gives you time to settle, and helps prevent last-minute panic. Avoid rushing — it can elevate anxiety and negatively affect focus.
-- Take a 2–3 Minute Breathing or Body Scan Warm-Up: A few minutes of structured breathing can reduce test anxiety and improve performance. Techniques like “cyclic sighing” or mindfulness breathing have shown measurable psychological benefits.
+Preparing for the PMP exam requires a strategic approach that combines deep understanding of project management principles with focused practice. Start by thoroughly reviewing the *[[01-test-prep/04-eco.md|PMI Exam Content Outline]]* and the *[[3-glossary#Agile Practice Guide|Agile Practice Guide]]*, as these are foundational to the exam content. Enroll in a PMP prep course to gain structured learning and earn the required 35 contact hours. Complement your study with [PMI StudyHall](https://www.pmi.org/certifications/certification-resources/pmi-study-hall?utm_source_misc=examsimulator_PMP), which offers a realistic simulation of the exam environment and adaptive practice questions. Use flashcards to reinforce key concepts, formulas, and terminology. 
+
+Create a study schedule that allows for consistent daily review over several weeks. Take full-length practice exams to build stamina and identify weak areas. Join online study groups or PMP forums to share insights and clarify doubts. Focus on scenario-based learning, as the exam emphasizes practical application of knowledge. Finally, stay updated with the latest exam content outline from PMI to ensure alignment with current standards.
+
+And OF COURSE: Use this website
+
+---
+## Tips for Exam Day
+
+- Sleep 7–9 Hours the Night Before
+Sleep improves memory consolidation and executive function. Lack of sleep is directly linked to lower academic performance. [[2-references#Hagger, M. S., & Yusainy, C. (2022)|Hagger, M. S., & Yusainy, C. (2022);]]
+
+Eat a Balanced Pre-Exam Meal (Complex Carbs + Protein)
+A steady intake of protein and complex carbs helps sustain focus and energy without blood sugar crashes.[[2-references#Nawrot, P., et al. (2003)|Nawrot, P., et al. (2003)]]
+
+Hydrate Consistently (Don’t Overdo It Last Minute)
+Mild dehydration impairs cognitive performance and mood. Sip water regularly before and during the exam. [[2-references#Lieberman, H. R. (2007)|Lieberman, H. R. (2007)]]
+
+Time Your Caffeine Intake Strategically
+Caffeine can improve alertness, but mis-timing or overdosing increases anxiety and jitteriness. Stick to your norm.
+→ [[2-references#Nawrot, P., et al. (2003)|Nawrot, P., et al. (2003)]]
+
+Arrive Early (10–15 Minutes)
+I find this helps me settle in, avoid last-minute stress, and get mentally prepared.
+
+Take a 2–3 Minute Breathing or Body Scan Warm-Up
+Brief structured breathing reduces anxiety and improves readiness. Try mindful sighing or guided breathwork. [[2-references#Clark, I. R. et al.(2023)|Clark, I. R. et al. (2023)]]
 
 ---
 ## Answer-Selection Tactics
@@ -53,8 +75,8 @@ The goal is confidence under time pressure—not cramming.
 - Favor options that engage [[3-glossary#stakeholders|stakeholders]], [[3-glossary#Preventing Issues|Prevent Issues]], and follow [[3-glossary#Governance|governance.]]  
 - Trust your first impression only if it aligns with PM principles.  
 - Eliminate extremes or answers that add [[3-glossary#new facts|new facts.]]  
-- Distinguish **first** vs **best** action.  
-- Mark-and-move to protect pacing.  
+- Distinguish [[3-glossary#first vs. best|First vs. Best]] action.  
+- [[3-glossary#mark and move|Mark and Move]] to protect pacing.  
 
 ---
 ## Exam Design Context
@@ -66,18 +88,18 @@ PMI writes questions to test whether you understand the underlying concepts, not
 ---
 ## Official Study Resources
 
-I recommend becoming a [Project Management Institute Member.](https://www.pmi.org/membership/benefits)  As a member of PMI you gain access to their official study resources. [The **PMP Exam Prep Course, Version 3.2** (available to members)](https://www.pmi.org/store/) includes practice questions, contextual examples, and detailed answer explanations. This resource is specifically designed to train you in **how to think like PMI**, not just what to memorize.
+I recommend becoming a [Project Management Institute Member.](https://www.pmi.org/membership/benefits)  As a member of PMI you gain access to their official study resources. [The **PMP Exam Prep Course, Version 3.2** (available to members)](https://www.pmi.org/store/) includes practice questions, contextual examples, and detailed answer explanations. This resource is specifically designed to train you in **how to think like PMI**, not just what to memorize. **(NOTE:)** I am not sponsored by PMI. This is just my opinion.
 
 ---
 ## Reading Tie-Back
 
-In *Range*, Epstein reminds us that **breadth and adaptability** often outperform rote specialization. For the PMP exam, this means focusing on [[03-principles#principle-driven reasoning|Principle Driven Reasoning]] rather than memorization. Approaching questions with flexibility, context-awareness, and multiple perspectives helps ensure you choose PMI’s “most right” answer, not just a familiar fact.
+In [[2-references#Range|Range]], Epstein reminds us that **breadth and adaptability** often outperform rote specialization.  For the PMP exam, this means focusing on [[03-principles#Principle Driven Reasoning|Principle Driven Reasoning]] rather than memorization. Approaching questions with flexibility, context-awareness, and multiple perspectives helps ensure you choose PMI’s “most right” answer, not just a familiar fact.
 
 ---
 ## Quick Links
 
--  [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]
-- [[01-test-prep/02-Understanding Terms.md| Test Prep - Understanding Terminology]]
+- [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]
+- [[01-test-prep/02-Understanding Terms.md|Test Prep - Understanding Terminology]]
 - [[01-test-prep/03-principles.md|Project Management Principles]]
 - [[01-test-prep/04-eco.md|PMI Exam Content Outline.]]  
 - [[3-glossary|Glossary]]
@@ -87,8 +109,8 @@ In *Range*, Epstein reminds us that **breadth and adaptability** often outperfor
 ## Main Categories
 
 - [[index.md|JASYTI's PMP KB – HOME]]
-- [[#Test Preparation Tips and Tactics - Home|Test Prep & Tactics]]
-- [[02-pmbok-06/index|PMBOK 6]]
+- [[01-test-prep/index.md|Test Preparation Tips and Tactics]]
+- [[02-pmbok/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]

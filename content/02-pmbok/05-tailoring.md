@@ -6,7 +6,7 @@ draft: false
 date: 2025-09-14
 ---
 
-# Tailoring in PMBOK 6
+# Tailoring
 
 In PMBOK 6, **tailoring is treated as practical advice** rather than a core concept. It reminds project managers that the 49 processes, ITTOs, and knowledge areas should not be applied blindly. Instead, teams are encouraged to adjust the level of rigor based on project size, complexity, and environment. Tailoring here means *choosing which processes to emphasize, streamline, or omit* so the framework fits the project context.  
 
@@ -18,7 +18,24 @@ This contrasts with **PMBOK 7**, where tailoring is elevated to a guiding princi
 
 ---
 ## Quick Links
-- [[02-pmbok-06/index|Back to PMBOK 6 Explained – Home]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
-- [[02-pmbok/index|02-PMBOK 6 & 7 Compare and Contrast]]
-- [[index|Back to JASYTI’s PMP KB - HOME ]]
+
+- [[#PMBOK 6 Explained – Home|PMBOK 6 Explained]]
+- [[01-stakeholder|Stakeholder Management]]
+- [[02-risk|Risk]]
+- [[03-eef-opa|EEF's & OPA's]]  
+- [[04-change|Change - From PM Perspective]]
+- [[05-tailoring|05-Tailoring in PM]]
+- [[3-glossary|Glossary]]
+- [[2-references.md|References]]
+
+---
+## Main Categories
+
+- [[index.md|JASYTI's PMP KB – HOME]]
+- [[01-test-prep/index.md|Test Preparation Tips and Tactics]]
+- [[02-pmbok/index.md|Project Management Body of Knowledge]] 
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

@@ -36,7 +36,7 @@ shortcode: "[idx]"
 ---
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok-06/index|PMBOK 6]]
+- [[02-pmbok/index|Project Management Body of Knowledge]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[#Inputs Tasks Tools and Outputs Related to Process Groups|ITTOs]]
 - [[05-tlg/index|The Last Gate]]

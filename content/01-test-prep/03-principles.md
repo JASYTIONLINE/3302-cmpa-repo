@@ -30,10 +30,10 @@ Test Preparation Essentials
 - TBP
 
 ---
-## Applying Project Management Principles in practice
+## Applying Project Management Principles in Practice
 - TBP
 ---
-## Principle-driven reasoning
+## Principle Driven Reasoning
 - TBP
 ---
 ## Applying Project Management Principle on Exam Day
@@ -53,8 +53,8 @@ The PMP exam is not about memorizing definitions — it is about **applying proj
 ## Main Categories
 
 - [[index.md|JASYTI's PMP KB – HOME]]
-- [[#Test Preparation Tips and Tactics - Home|Test Prep & Tactics]]
-- [[02-pmbok-06/index|PMBOK 6]]
+- [[01-test-prep/index.md|Test Preparation Tips and Tactics]]
+- [[02-pmbok/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]

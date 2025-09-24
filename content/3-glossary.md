@@ -35,8 +35,21 @@ Actual Cost is exactly what it sounds like: how much money you’ve *actually* s
 ##### Exam cue:  
 > *You’re asked how much has been* ***spent so far*** *on a task or phase, regardless of planned budget or work completed.  
 > The correct answer is usually* **Actual Cost (AC)**, *because that’s the number that reflects actual expenses incurred.*
-##### Related:  
-[[#Contingency Reserve|Contingency Reserve]], [[#Budget at Completion|Budget at Completion]], [[#Cost Baseline|Cost Baseline]]
+
+### Agile Practice Guide
+
+#### —
+
+##### Definition:
+
+A foundational reference guide co-developed by the Project Management Institute (PMI) and Agile Alliance that outlines agile values, principles, and common practices across multiple agile methodologies.
+##### Why you should use it:
+
+The Agile Practice Guide is essential for PMP exam prep because the exam includes a significant focus on agile and hybrid approaches. It bridges the gap between traditional and agile project management, helping candidates understand when and how to apply agile principles. It's especially helpful for scenario-based questions on servant leadership, adaptive planning, and iterative delivery. PMI frequently pulls content from this guide on the exam.
+##### Sources:
+- [PMI Agile Practice Guide – Official Page](https://www.pmi.org/pmbok-guide-standards/foundational/agile-practice)
+- [PMI Membership Benefits – Free Access](https://www.pmi.org/membership/join)
+- [PMI Study Hall – Exam Preparation Tool](https://www.pmi.org/certifications/certification-resources/pmi-study-hall?utm_source_misc=examsimulator_PMP)
 
 ### Artifact
 TBP
@@ -128,8 +141,8 @@ or define scope in a collaborative environment.
 It improves alignment and reduces rework by ensuring shared understanding.  
 Often linked to joint application design (JAD) or quality function deployment (QFD).
 
-**Related:**  
-[[90-glossary#gloss-collect-requirements|Collect Requirements (process)]], [[90-glossary#gloss-scope-definition|Scope definition]], [[90-glossary#gloss-stakeholder-engagement|Stakeholder engagement]]
+## First vs. Best
+TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -241,6 +254,9 @@ as an OPA (Organizational Process Asset).
 ### M
 [[#Glossary|Top]]
 
+## Mark and Move
+TBP
+
 ### McGregor, Douglas 
 #### Douglas McGregor
 **Definition.** Douglas McGregor’s Theory X and Theory Y describe **two opposing views of team motivation**.  
@@ -252,7 +268,8 @@ Theory X leaders tend to micromanage.
 Theory Y leaders empower and delegate.  
 PMI leans heavily toward **Theory Y** in its leadership model.
 
-**Related:** [[90-glossary#gloss-leadership-style|Leadership style]], [[90-glossary#gloss-motivation-theory|Motivation theory]], [[90-glossary#gloss-team-charter|Team charter]]
+## Most Right
+Definition: TBP
 
 ---
 ### N
@@ -306,6 +323,9 @@ The PM can delegate more and focus on strategy and value.
 ### Project Charter
 **Definition:** TBP
 
+## Project Management
+Definition: TBP
+
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### Q
@@ -340,13 +360,11 @@ or how to ensure everyone knows their job, RACI is your answer.
 “Informed” = kept in the loop.  
 RACI appears in **resource management**, stakeholder alignment, and communication planning.
 
-**Related:** [[90-glossary#gloss-responsibility-assignment-matrix|Responsibility Assignment Matrix (RAM)]], [[90-glossary#gloss-team-charter|Team charter]], [[90-glossary#gloss-organizational-structure|Organizational structure]]
-
 ### Risk Register
-TBP
+Definition: TBP
 
 ## Role
-TBP
+Definition: TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -362,10 +380,11 @@ especially when you have limited time or conflicting needs.
 If someone has all three attributes, they’re a **definitive stakeholder** and must be engaged closely.  
 Common in stakeholder analysis and strategy planning.
 
-**Related:** 
+## Scenario
+Definition: TBP
 
 ## Stakeholders
-TBP
+Definition: TBP
 
 
 
@@ -426,7 +445,8 @@ It’s performed by the customer or sponsor—not the project team—and typical
 It’s not technical verification (that’s Quality Control), it’s business validation.  
 Expect this in scope management, customer satisfaction, or project closure questions.
 
-**Related:** [[90-glossary#gloss-acceptance-criteria|Acceptance criteria]], [[90-glossary#gloss-scope-baseline|Scope baseline]], [[90-glossary#gloss-quality-control|Quality control]]
+##  Value
+Definition: TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -509,7 +529,7 @@ Often tested in schedule compression and risk analysis questions.
 ---
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok-06/index|PMBOK 6]]
+- [[02-pmbok/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]
