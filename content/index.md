@@ -26,7 +26,7 @@ Over time, this repo will grow into a structured reference that supports both co
 ---
 
 ## Quick Links
-- [[about|About JASYTI]]
+- [[1-about|About JASYTI]]
 - [[readme|CMPA 3302 KB README]]
 
 ---

@@ -25,7 +25,7 @@ It is organized into 5(+1) unique process groups: [[0-pre-project-requirments|Pr
 
 Each stage has its own focus, deliverables, and challenges, but together they form a structured flow that ensures a project stays aligned with objectives and value delivery. See [[content/references|References]].  
 
-This section explores how [[02-pmbok/6-pmbok/index|PMBOK 6]]’s process-driven ITTO approach and [[02-pmbok/7-pmbok/index|PMBOK 7]]’s principle-based perspective both apply to the lifecycle. See [[content/references|References]].  
+This section explores how [[02-pmnok-06/index|PMBOK 6]]’s process-driven ITTO approach and [[02-pmbok/7-pmbok/index|PMBOK 7]]’s principle-based perspective both apply to the lifecycle. See [[content/references|References]].  
 
 By studying the lifecycle, we connect theory, case studies, standards, and test preparation into a single framework. This helps ensure that knowledge is not memorized in isolation, but applied step by step, just as exam questions and real-world projects demand. See [[content/references|References]].  
 
@@ -44,5 +44,5 @@ By studying the lifecycle, we connect theory, case studies, standards, and test 
 - [[test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok/index|Theory Application]]
 - [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok/6-pmbok/index|PMBOK 6 Standards]]
+- [[02-pmnok-06/index|PMBOK 6 Standards]]
 - [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]

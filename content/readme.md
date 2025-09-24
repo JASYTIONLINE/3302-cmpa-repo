@@ -29,5 +29,5 @@ Day to day, I author in Obsidian using the `content/` vault. When the site is pu
 --- 
 ## Quick Links
 - [[index|Home]]
-- [[about|About JASYTI]]
+- [[1-about|About JASYTI]]
 - Live Site (Published with GH Pages): https://jasytionline.github.io/3302-cmpa-repo/
