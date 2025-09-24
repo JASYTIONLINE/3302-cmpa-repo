@@ -63,20 +63,19 @@ If you're here, the system thinks you're ready. If you're wrong... the Gate will
 - [EP21 – The End (Probably)](../300/stub-s1e21-the-end-probably.md)
 
 ---
-
 ## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]
 
 ---
-
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok-06/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
-- [[05-tlg/index|The Last Gate]]
+- [[#Your Portal to the PMP Universe of The Last Gate! riya-and-the-team.png|The Last Gate]]
 
 ---

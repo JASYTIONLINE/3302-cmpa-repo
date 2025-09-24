@@ -5,7 +5,6 @@ tags:
   - cmpa3302
   - project-management
   - pmp
-  - filename:index.md
 draft: false
 date: 2025-09-23
 permalink: /kb/lifecycle-index/
@@ -28,6 +27,7 @@ shortcode: "[idx]"
 
 ---
 ## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
@@ -38,7 +38,7 @@ shortcode: "[idx]"
 - [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok-06/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
-- [[04-ittos/index|ITTOs]]
+- [[#Inputs Tasks Tools and Outputs Related to Process Groups|ITTOs]]
 - [[05-tlg/index|The Last Gate]]
 
 ---

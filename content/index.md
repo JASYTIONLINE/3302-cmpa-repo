@@ -60,6 +60,7 @@ By combining structured navigation with inter-page links, the site supports **se
 ---
 
 ## Quick Links
+- [[#JASYTI's Project Management Professional Knowledge Base – HOME|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]

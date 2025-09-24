@@ -23,6 +23,7 @@ By studying Test Prep techniques, you ensure that the knowledge gained from the 
 
 ---
 ## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
@@ -30,7 +31,7 @@ By studying Test Prep techniques, you ensure that the knowledge gained from the 
 
 ---
 ## Main Categories
-- [[01-test-prep/index|Test Prep & Tactics]]
+- [[#Test Preparation Tips and Tactics - Home|Test Prep & Tactics]]
 - [[02-pmbok-06/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]

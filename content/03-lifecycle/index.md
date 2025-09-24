@@ -5,7 +5,6 @@ tags:
   - cmpa3302
   - project-management
   - pmp
-  - filename:index.md
 draft: false
 date: 2025-09-23
 permalink: /kb/lifecycle-index/
@@ -35,6 +34,7 @@ By studying the lifecycle, we connect theory, case studies, standards, and test 
 
 ---
 ## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
@@ -44,7 +44,7 @@ By studying the lifecycle, we connect theory, case studies, standards, and test 
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok-06/index|PMBOK 6]]
-- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[#PMI Guide to the Lifecycle of a Project – Home|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]
 

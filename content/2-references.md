@@ -65,15 +65,14 @@ shortcode: "[ref]"
 - Epstein, D. (2019). *Range: Why Generalists Triumph in a Specialized World*. New York: Riverhead Books.
 
 ---
-
 ## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
-- [[2-references.md|References]]
+- [[#References]]
 
 ---
-
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok-06/index|PMBOK 6]]

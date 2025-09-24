@@ -30,7 +30,7 @@ Day to day, I author in Obsidian using the `content/` vault. When the site is pu
 ## Quick Links
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
+- [[#JASYTI's PMP KB (README)|Repository README]]
 - [[2-references.md|References]]
 
 ---

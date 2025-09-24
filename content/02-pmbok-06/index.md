@@ -37,6 +37,7 @@ PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** fo
 
 ---
 ## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
@@ -45,7 +46,7 @@ PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** fo
 ---
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok-06/index|PMBOK 6]]
+- [[#PMBOK 6 Explained – Home|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]

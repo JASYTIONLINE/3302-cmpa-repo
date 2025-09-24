@@ -454,8 +454,9 @@ Often tested in schedule compression and risk analysis questions.
 
 ---
 ## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
-- [[3-glossary|Glossary]]
+- [[#Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]
 
