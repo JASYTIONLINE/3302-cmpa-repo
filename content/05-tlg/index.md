@@ -64,26 +64,20 @@ If you're here, the system thinks you're ready. If you're wrong... the Gate will
 
 ---
 
-## Optional Navigation Tools
-
-- [Exam Content Outline (ECO Overview)](500-index.md)
-  - [Domain 1 – People](510-domain-1-people.md)
-  - [Domain 2 – Process](520-domain-2-process.md)
-  - [Domain 3 – Business Environment](530-domain-3-business-environmetn.md)
-
-- [Glossary](../glossary.md) – All the terms. All the links. All the sarcasm.
-
-- [Agenda](../agenda.md) – Want to do this in 20 days? This is your controller.
+## Quick Links
+- [[1-about|About JASYTI]]
+- [[2-references|References]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
 
 ---
 
-## Return to:
-- [The Last Gate Home](index.md)
-- [About JASYTI](20-about-jasyti.md)
-- [Project Office (PMO)](pmo-index.md)
+## Main Categories
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok-06/index|PMBOK 6]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
 
 ---
-
-You now stand at the edge of the Gate.  
-Choose your episode. Enter the story.  
-And for the love of Jazz, keep your risk register current.

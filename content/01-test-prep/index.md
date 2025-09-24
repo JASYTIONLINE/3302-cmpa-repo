@@ -22,18 +22,19 @@ By studying Test Prep techniques, you ensure that the knowledge gained from the 
 - Tips like “pick the best of two good answers” are far more effective when paired with the situational context that [[05-tlg/index|Case Studies (6 & 7 in Action)]] provide, highlighting why two answers may seem correct but only one reflects PMI’s “most right” choice.  
 
 ---
-
 ## Quick Links
-- [[01-test-prep|Test Preparation Essentials]]
-- [[02-Understanding Terms|Understanding Terms]]
-- [[03-cue-cards|Cue Cards as a Study Tool]]
+- [[1-about|About JASYTI]]
+- [[2-references|References]]
 - [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
 
-## Navigation
-- [[index.md|JASYTI's PMP KB Home]]
+---
+## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok-06/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
-- [[02-pmbok/index|Theory Application]]
-- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok-06/index|PMBOK 6 Standards]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

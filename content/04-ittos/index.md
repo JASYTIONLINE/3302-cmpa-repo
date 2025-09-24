@@ -27,19 +27,19 @@ shortcode: "[idx]"
 ## Place Holder
 
 ---
-
 ## Quick Links
-- [[0-pre-project-requirements.md|Pre-Project Requirements – Before the Project Becomes a Project]]
-- [[1-Initiating-process-group|Initiating Process Group]]
-- [[2-planning-process-group|Planning Process Group]]
-- [[3-executing-process-group|Executing Process Group]]
-- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]
-- [[5-closing-process-group|Closing Process Group]]
+- [[1-about|About JASYTI]]
+- [[2-references|References]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
 
-## Navigation
-- [[index.md|JASYTI's PMP KB Home]]
-- [[test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok/index|Theory Application]]
-- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok-06/index|PMBOK 6 Standards]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+---
+## Main Categories
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok-06/index|PMBOK 6]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

@@ -8,7 +8,6 @@ tags:
 draft: false
 date: 2025-09-14
 ---
-
 ## PMBOK 6 Explained – Home
 
 ## How to use this section
@@ -35,10 +34,21 @@ PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** fo
 - [[05-tailoring|Tailoring in PMBOK 6]]
 - [[02-Understanding Terms|Glossary / Nouns -Glossary]]
 
-## Navigation
+
+---
+## Quick Links
+- [[1-about|About JASYTI]]
+- [[2-references|References]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
+
+---
+## Main Categories
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok-06/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
-- [[02-pmbok/index|PMBOK 6 & 7 Compare and Contrast]]
-- [[02-pmbok/index|Theory Application]]
-- [[05-tlg/index|Case Studies]]
-- [[test-prep/index|Test Prep & Tactics]]
-- [[index.md|JASYTI's PMP KB Home]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

@@ -26,8 +26,20 @@ This site still has a “root” index page — it’s **`content/index.md`** in
 
 Day to day, I author in Obsidian using the `content/` vault. When the site is published with GitHub Pages, it behaves like a normal website with a home page and internal pages you can click through. That difference — authoring in Obsidian vs. what Quartz/GitHub Pages actually publishes — finally clicked for me this week.
 
---- 
+---
 ## Quick Links
-- [[index|Home]]
 - [[1-about|About JASYTI]]
-- Live Site (Published with GH Pages): https://jasytionline.github.io/3302-cmpa-repo/
+- [[2-references|References]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
+
+---
+## Main Categories
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok-06/index|PMBOK 6]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

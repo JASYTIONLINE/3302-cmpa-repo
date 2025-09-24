@@ -451,18 +451,21 @@ Often tested in schedule compression and risk analysis questions.
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
-## Quick Links
-- [[#Glossary|Top]]
-- [[01-test-prep|Test Preparation Essentials]]
-- [[02-Understanding Terms|Understanding Terms]]
-- [[03-cue-cards|Cue Cards as a Study Tool]]
-- [[3-glossary|Glossary]]
 
-## Navigation
-- [[index.md|JASYTI's PMP KB Home]]
+---
+## Quick Links
+- [[1-about|About JASYTI]]
+- [[2-references|References]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
+
+---
+## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok-06/index|PMBOK 6]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
-- [[02-pmbok/index|ITTOs]]
-- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok-06/index|PMBOK 6 Standards]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

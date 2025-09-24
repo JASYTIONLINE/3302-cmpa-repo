@@ -45,6 +45,21 @@ I have been a combat engineer, then graduated Ordnance Missile Electronics Munit
 My Goal is to use the principles of Project and Program Management to organize my life, both professionally and personally.  I am normally very disorganized and this has kept me from achieving the lifestyle, academic, and professional goals I have.  The principles of project management, once internalized, will help me live (not do) an organized life instinctively.  I am already seeing the benefits of living my life according to a plan.  I also want to synthesis the knowledge skills and abilities I have gained over the course of my life into one mass Knowledge Base and use that KB as my portfolio to advance my entrepreneurial and career goals.
 
 ---
+
 ## Quick Links
-- [[index|Return to Home]]
-- [[readme|CMPA 3302 KB README]]
+- [[1-about|About JASYTI]]
+- [[2-references|References]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
+
+---
+
+## Main Categories
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok-06/index|PMBOK 6]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---
