@@ -24,7 +24,6 @@ By studying Test Prep techniques, you ensure that the knowledge gained from the 
 ---
 ## Quick Links
 - [[1-about|About JASYTI]]
-- [[2-references|References]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]

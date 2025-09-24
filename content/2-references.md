@@ -6,7 +6,6 @@ tags:
   - cmpa3302
   - references
   - bibliography
-  - filename:references.md
 draft: false
 date: 2025-09-23
 permalink: /kb/references/
@@ -25,8 +24,7 @@ shortcode: "[ref]"
 ---
 # References
 
-## PM Core Materials
-### PMBOK 06
+## PM Core Materials### PMBOK 06
 - Project Management Institute (2017). *A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Sixth Edition*. 
 
 ### PMBOK 07
@@ -70,7 +68,6 @@ shortcode: "[ref]"
 
 ## Quick Links
 - [[1-about|About JASYTI]]
-- [[2-references|References]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]

@@ -48,7 +48,6 @@ My Goal is to use the principles of Project and Program Management to organize m
 
 ## Quick Links
 - [[1-about|About JASYTI]]
-- [[2-references|References]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]

@@ -66,7 +66,6 @@ If you're here, the system thinks you're ready. If you're wrong... the Gate will
 
 ## Quick Links
 - [[1-about|About JASYTI]]
-- [[2-references|References]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]
