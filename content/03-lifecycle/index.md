@@ -25,7 +25,7 @@ shortcode: "[idx]"
 ## PMI Guide to the Lifecycle of a Project – Home
 The **Project Management Lifecycle** is the backbone of how projects move from concept to completion. See [[content/references|References]].  
 
-It is organized into 5(+1) unique process groups: [[0-pre-project-requirments|Pre-Project Requirements]]; [[1-Initiating-process-group|Initiating Process Group]]; [[2-planning-process-group|Planning Process Group]]; [[3-executing-process-group|Executing Process Group]]; [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]; and [[5-closing-process-group|Closing Process Group]]. See [[content/references|References]].  
+It is organized into 5(+1) unique process groups: [[0-pre-project-requirements.md|Pre-Project Requirements]]; [[1-Initiating-process-group|Initiating Process Group]]; [[2-planning-process-group|Planning Process Group]]; [[3-executing-process-group|Executing Process Group]]; [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]; and [[5-closing-process-group|Closing Process Group]]. See [[content/references|References]].  
 
 Each stage has its own focus, deliverables, and challenges, but together they form a structured flow that ensures a project stays aligned with objectives and value delivery. See [[content/references|References]].  
 
@@ -36,7 +36,7 @@ By studying the lifecycle, we connect theory, case studies, standards, and test 
 ---
 
 ## Quick Links
-- [[0-pre-project-requirments|Pre-Project Requirements – Before the Project Becomes a Project]]
+- [[0-pre-project-requirements.md|Pre-Project Requirements – Before the Project Becomes a Project]]
 - [[1-Initiating-process-group|Initiating Process Group]]
 - [[2-planning-process-group|Planning Process Group]]
 - [[3-executing-process-group|Executing Process Group]]

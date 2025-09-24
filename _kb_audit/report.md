@@ -1,14 +1,14 @@
 ﻿# KB Audit Report
 
-**Scanned**: 2025-09-24 09:50:14Z
+**Scanned**: 2025-09-24 10:24:14Z
 **Content root**: .\content
 
 ## Summary
-- Pages: 1
-- Broken links: 0
-- Orphan pages: 0
-- Duplicate titles: 0
-- Slug/filename issues: 0
+- Pages: 30
+- Broken links: 1050
+- Orphan pages: 7
+- Duplicate titles: 2
+- Slug/filename issues: 1
 - Folders missing index.md: 0
 
 ## What to Fix First (rubric-aligned)
@@ -22,4 +22,4 @@
 - Full tree: 	ree.txt
 - Page inventory: pages.csv
 - Link inventory: links.csv
-- GraphViz: graph.dot (render with dot -Tpng graph.dot -o graph.png)
+- GraphViz: graph.dot (render with: dot -Tpng graph.dot -o graph.png)

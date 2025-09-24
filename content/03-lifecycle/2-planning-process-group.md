@@ -51,7 +51,7 @@ This disciplined cycle preserves control while allowing for adaptive learning. A
 
 ## Example in Practice
 
-Every **Monday** is a new project in CMPA. The week begins with a [[0-pre-project-requirments|pre-project]] mini-phase where the **Week Overview** is reviewed. This acts as the **customer request** and the basis for a lightweight **charter**.  
+Every **Monday** is a new project in CMPA. The week begins with a [[0-pre-project-requirements.md|pre-project]] mini-phase where the **Week Overview** is reviewed. This acts as the **customer request** and the basis for a lightweight **charter**.  
 
 Then [[2-planning-process-group|planning]] starts: the **To-Do list** becomes a rough **Work Breakdown Structure (WBS)**, assignment **deadlines** shape the schedule and workflow, and the **rubric** defines what success looks like (acceptance criteria).  
 
@@ -68,7 +68,7 @@ With scope clarified, tasks decomposed, and timeboxes visible, the plan keeps th
 ---
 
 ## Quick Links
-- [[0-pre-project-requirments|Pre-Project Requirements – Before the Project Becomes a Project]]
+- [[0-pre-project-requirements.md|Pre-Project Requirements – Before the Project Becomes a Project]]
 - [[1-Initiating-process-group|Initiating Process Group]]
 - [[2-planning-process-group|Planning Process Group]]
 - [[3-executing-process-group|Executing Process Group]]

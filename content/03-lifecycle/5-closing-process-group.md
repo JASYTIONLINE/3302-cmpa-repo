@@ -73,7 +73,7 @@ Just finishing the product or deliverables does not close the project; there are
 ---
 
 ## Quick Links
-- [[0-pre-project-requirments|Pre-Project Requirements – Before the Project Becomes a Project]]
+- [[0-pre-project-requirements.md|Pre-Project Requirements – Before the Project Becomes a Project]]
 - [[1-Initiating-process-group|Initiating Process Group]]
 - [[2-planning-process-group|Planning Process Group]]
 - [[3-executing-process-group|Executing Process Group]]

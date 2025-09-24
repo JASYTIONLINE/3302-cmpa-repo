@@ -42,7 +42,7 @@ I have been a combat engineer, then graduated Ordnance Missile Electronics Munit
 - I’m also wrestling with ChatGPT right now, trying to understand the system’s power and limitations—it’s both invigorating and frustrating.
 
 ###  Why PMP? 
-My goal is to learn the memory elements for multiple-choice questions and improve at the scenario side by “living” PMI in daily work.  I am using every opportunity to employ my PMP KSAs and this site seems like a perfect opportunity to create a knowledge vault which will help me study for the PMP exam.
+My Goal is to use the principles of Project and Program Management to organize my life, both professionally and personally.  I am normally very disorganized and this has kept me from achieving the lifestyle, academic, and professional goals I have.  The principles of project management, once internalized, will help me live (not do) an organized life instinctively.  I am already seeing the benefits of living my life according to a plan.  I also want to synthesis the knowledge skills and abilities I have gained over the course of my life into one mass Knowledge Base and use that KB as my portfolio to advance my entrepreneurial and career goals.
 
 ---
 ## Quick Links

@@ -7,7 +7,6 @@
 \01-test-prep
 \01-test-prep\01-test-prep.md
 \01-test-prep\02-Understanding Terms.md
-\01-test-prep\04-glossary.md
 \01-test-prep\index.md
 \02-pmbok-06
 \02-pmbok-06\01-stakeholder-communications.md
@@ -38,6 +37,7 @@
 \05-tlg\tlg-glossary.csv
 \1-about.md
 \2-references.md
+\3-glossary.md
 \assets
 \assets\close.jpg
 \assets\closing.pdf
