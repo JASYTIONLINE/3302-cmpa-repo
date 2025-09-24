@@ -1,5 +1,5 @@
 ---
-title: PMBOK 6 Explained
+title: 03-PMBOK 6 Explained
 description: Your memorization hub for PMBOK 6—process groups, 49 processes, and ITTO patterns—linked to sections that explain, apply, and score.
 tags:
   - cmpa3302

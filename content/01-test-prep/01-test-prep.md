@@ -64,5 +64,5 @@ In *Range*, Epstein reminds us that **breadth and adaptability** often outperfor
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[02-pmbok/index|Theory Application]]
 - [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmnok-06/index|PMBOK 6 Standards]]
+- [[02-pmbok-06/index|PMBOK 6 Standards]]
 - [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]

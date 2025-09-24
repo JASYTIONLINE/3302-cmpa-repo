@@ -16,7 +16,7 @@ This placeholder keeps the page functional and sets the stage for future content
 
 ---
 ## Quick Links
-- [[02-pmnok-06/index|Back to PMBOK 6 Explained – Home]]
+- [[02-pmbok-06/index|Back to PMBOK 6 Explained – Home]]
 - [[02-pmbok/7-pmbok/index|PMBOK 7 Explained – Home]]
 - [[02-pmbok/index|02-PMBOK 6 & 7 Compare and Contrast]]
 - [[index|Back to JASYTI’s PMP KB - HOME ]]

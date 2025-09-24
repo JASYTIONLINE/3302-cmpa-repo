@@ -1,7 +1,7 @@
 ---
-title: "The Lore Door"
-description: "Portal to the Lore and Story of The Last Gate Universe — where satire meets certification."
-author: "JASYTI"
+title: 05-The Lore Door
+description: Portal to the Lore and Story of The Last Gate Universe — where satire meets certification.
+author: JASYTI
 tags:
   - project-management
   - pmp
@@ -13,7 +13,7 @@ draft: false
 date: 2025-09-21
 layout: default
 status: complete
-file name: "lore-door-index"
+file name: lore-door-index
 ---
 
 # The Lore Door  
