@@ -42,6 +42,23 @@ shortcode: "[ref]"
 ### Exam FAQs
  - Project Management Institute (n.d.). *PMP Exam FAQs*. Frequently asked questions on exam format, domains, eligibility, and study approach.
 
+ ### Exam Strategy & Health
+
+#### Hagger, M. S., & Yusainy, C. (2022).
+-  *Reducing Test Anxiety by Device-Guided Breathing: A Pilot Study*. Frontiers in Psychology. [https://www.frontiersin.org/articles/10.3389/fpsyg.2022.678098](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.678098)
+
+#### Clark, I. R. et al. (2023).
+- *Brief structured respiration practices enhance mood and reduce anxiety*. Cell Reports Medicine, 4(1), 101000. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9873947](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9873947)
+
+#### O'Callaghan, F. V., et al. (2024).
+- *Exploring students' study time, sleep duration, and final exam performance*. Journal of Educational Psychology. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11866456](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11866456)
+
+#### Nawrot, P., et al. (2003).
+- *Effects of caffeine on human health*. Food Additives & Contaminants. [https://doi.org/10.1080/02652030310001600644](https://doi.org/10.1080/02652030310001600644)
+
+#### Lieberman, H. R. (2007).
+- *Hydration and cognition: A critical review and recommendations for future research*. Journal of the American College of Nutrition. [https://www.tandfonline.com/doi/abs/10.1080/07315724.2007.10719657](https://www.tandfonline.com/doi/abs/10.1080/07315724.2007.10719657)
+
 ## Case Studies
 
 ###  BE Case

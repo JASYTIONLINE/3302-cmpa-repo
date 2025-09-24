@@ -24,7 +24,7 @@ shortcode: "[doc]"
 # Test Preparation Essentials
 
 **What this page is about:**  
-The [[3-glossary#ECO|Project Management Institutes Exam Content Outline]] makes it very clear that memorizing facts and definitions of terms will not be enough to pass the exam.  In fact, my training has shown me that memorization is a distractor from the real goal of understanding value delivery and the concepts of Project Management.
+The [[01-test-prep/03-principles.md|Project Management Institutes Exam Content Outline]] makes it very clear that memorizing facts and definitions of terms will not be enough to pass the exam.  In fact, my training has shown me that memorization is a distractor from the real goal of understanding value delivery and the concepts of Project Management.
 
 This page is your quick start to PMP test readiness. It explains how to arrive at the exam calm, clear, and primed to choose the best answer. Use it as a hub: 
 
@@ -35,12 +35,12 @@ The goal is confidence under time pressure—not cramming.
 ---
 ## Study Habits for Exam Day
 
-- Sleep **7–9 hours** the night before.  
-- Eat balanced (complex **carbs + protein**).  
-- Hydrate consistently.  
-- Time caffeine to avoid jitters.  
-- Arrive early to reduce stress.  
-- Take a 2–3 minute breathing/scan warm-up.  
+- Sleep 7–9 Hours the Night Before: Sleep supports cognitive function, emotional regulation, and memory consolidation. Poor sleep is consistently linked to lower academic performance.
+- Eat a Balanced Pre-Exam Meal (Complex Carbs + Protein): A meal with steady-release carbohydrates and protein helps maintain focus and energy. Avoid heavy or high-sugar meals that may cause crashes.
+-  Hydrate Consistently (Don’t Overdo It Last Minute): Mild dehydration impairs attention and reaction time. Sip water regularly throughout the day before the test — not just immediately before.
+- Time Your Caffeine Intake Strategically: Caffeine boosts alertness, but overuse or poor timing can heighten anxiety and impair focus. Stick to your usual dosage and avoid high doses within 1–2 hours of the exam.
+- Arrive Early (10–15 Minutes): Reduces logistical stress, gives you time to settle, and helps prevent last-minute panic. Avoid rushing — it can elevate anxiety and negatively affect focus.
+- Take a 2–3 Minute Breathing or Body Scan Warm-Up: A few minutes of structured breathing can reduce test anxiety and improve performance. Techniques like “cyclic sighing” or mindfulness breathing have shown measurable psychological benefits.
 
 ---
 ## Answer-Selection Tactics
