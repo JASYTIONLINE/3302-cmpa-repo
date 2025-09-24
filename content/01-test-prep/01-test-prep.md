@@ -52,7 +52,6 @@ While online tips and shared notes can be useful, the most reliable way to prepa
 In *Range*, Epstein reminds us that **breadth and adaptability** often outperform rote specialization. For the PMP exam, this means focusing on **principle-driven reasoning** rather than memorization. Approaching questions with flexibility, context-awareness, and multiple perspectives helps ensure you choose PMI’s “most right” answer, not just a familiar fact. See [[content/references|References]].  
 
 ---
-
 ## Quick Links
 - [[01-test-prep|Test Preparation Essentials]]
 - [[02-Understanding Terms|Understanding Terms]]
