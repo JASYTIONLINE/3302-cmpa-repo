@@ -27,7 +27,7 @@ By studying Test Prep techniques, you ensure that the knowledge gained from the 
 - [[01-test-prep|Test Preparation Essentials]]
 - [[02-Understanding Terms|Understanding Terms]]
 - [[03-cue-cards|Cue Cards as a Study Tool]]
-- [[01-test-prep/04-glossary|Glossary]]
+- [[3-glossary|Glossary]]
 
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]

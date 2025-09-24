@@ -1,20 +1,25 @@
 ---
-title: "Glossary"
-description: "A-Z glossary of PMP/ECO-aligned terms with exam cues and related links."
-tags: [cmpa3302, glossary, reference, "filename:04-glossary.md"]
+title: 3 Glossary
+description: A-Z glossary of PMP/ECO-aligned terms with exam cues and related links.
+tags:
+  - cmpa3302
+  - glossary
+  - reference
+  - filename:04-glossary.md
 draft: false
-date: "2025-09-23"
-permalink: "/kb/04-glossary/"
+date: 2025-09-23
+permalink: /kb/04-glossary/
 enableToc: true
-
-aliases: ["PMP Glossary", "Project Management Glossary"]
-cssclasses: ["sc-std"]
-
-h1: "Glossary"
-course: "cmpa3302"
-filename: "04-glossary.md"
-role: "reference"
-function: "kb-page"
+aliases:
+  - PMP Glossary
+  - Project Management Glossary
+cssclasses:
+  - sc-std
+h1: Glossary
+course: cmpa3302
+filename: 04-glossary.md
+role: reference
+function: kb-page
 shortcode: "[ref]"
 ---
 # Glossary
@@ -451,7 +456,7 @@ Often tested in schedule compression and risk analysis questions.
 - [[01-test-prep|Test Preparation Essentials]]
 - [[02-Understanding Terms|Understanding Terms]]
 - [[03-cue-cards|Cue Cards as a Study Tool]]
-- [[01-test-prep/04-glossary|Glossary]]
+- [[3-glossary|Glossary]]
 
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]

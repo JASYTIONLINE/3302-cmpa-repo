@@ -36,17 +36,17 @@ story-scene: "Commlink Reflection with Riya"
   </tr>
 </table>She looked like the kind of tired you earn. Not fatigue from motion, but the burn of persistent [[01-test-prep/04-glossary.md|stakeholder engagement]], misaligned [[01-test-prep/04-glossary.md|governance]], and relentless [[01-test-prep/04-glossary.md|scope creep]].
 
-And somehow, in the middle of that sweatbox, under flickering lights and simulated flames, she looked more aligned with [[01-test-prep/04-glossary.md|The Plan]] than any executive ever did in dress whites. There was no ceremony. Just presence, pacing, and quiet [[01-test-prep/04-glossary.md|value delivery]].
+And somehow, in the middle of that sweatbox, under flickering lights and simulated flames, she looked more aligned with [[3-glossary|The Plan]] than any executive ever did in dress whites. There was no ceremony. Just presence, pacing, and quiet [[3-glossary|value delivery]].
 
-The signal held. A rare thing. I pulsed a projection into the comms channel — low hum, soft static, the crackle of what a [[01-test-prep/04-glossary.md|lessons learned]] fire might've sounded like, long ago, on a planet with [[01-test-prep/04-glossary.md|sustainable development]] conditions. Not for warmth. For metaphor. Riya called it “[[01-test-prep/04-glossary.md|campfire mode]].” I indulged her.
+The signal held. A rare thing. I pulsed a projection into the comms channel — low hum, soft static, the crackle of what a [[3-glossary|lessons learned]] fire might've sounded like, long ago, on a planet with [[3-glossary|sustainable development]] conditions. Not for warmth. For metaphor. Riya called it “[[3-glossary|campfire mode]].” I indulged her.
 
-She leaned back in her seat, scribbling notes into her paper [[01-test-prep/04-glossary.md|logbook]]. Analog. Always analog, that one. No [[01-test-prep/0]()]()
+She leaned back in her seat, scribbling notes into her paper [[3-glossary|logbook]]. Analog. Always analog, that one. No [[01-test-prep/0]()]()
 
 ---
 ## Quick Links
 - [[02-tlg-rp1-agile-manifesto|The Agile Manifesto]]|
 - [[02-Understanding Terms|Understanding Terms]]
-- [[01-test-prep/04-glossary|Glossary]]
+- [[3-glossary|Glossary]]
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
 - [[01-test-prep/index|Test Prep & Tactics]]

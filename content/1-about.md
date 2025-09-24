@@ -1,5 +1,5 @@
 ---
-title: About JASYTI.
+title: 1 About JASYTI.
 description: Who I am (JASYTI), why this knowledge base exists, and why I chose PMP as my single topic for CMPA 3302.
 tags:
   - about

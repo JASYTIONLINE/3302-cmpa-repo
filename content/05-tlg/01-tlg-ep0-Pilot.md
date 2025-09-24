@@ -177,7 +177,7 @@ Riya’s story doesn’t stop here. The voice in the static — **J.A.S.Y.T.I. (
 ## Quick Links
 - [[02-tlg-rp1-agile-manifesto|The Agile Manifesto]]|
 - [[02-Understanding Terms|Understanding Terms]]
-- [[01-test-prep/04-glossary|Glossary]]
+- [[3-glossary|Glossary]]
 ## Navigation
 - [[index.md|JASYTI's PMP KB Home]]
 - [[01-test-prep/index|Test Prep & Tactics]]
