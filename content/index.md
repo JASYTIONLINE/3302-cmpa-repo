@@ -1,10 +1,14 @@
 ---
 title: "CMPA 3302 Knowledge Base Portal"
+description: "Home hub for course navigation and PMP study materials."
+tags:
+  - cmpa3302
+  - project-management
+  - pmp
+draft: false
+date: "2025-09-24"
 ---
-
-
 ![Digiport Ai Dragon Mascot](assets/dragon.png)
-
 # JASYTI's Project Management Professional Knowledge Base – HOME
 
 CMPA 3302 — Foundations of Information Organization & Management  
@@ -60,8 +64,8 @@ By combining structured navigation with inter-page links, the site supports **se
 ---
 
 ## Quick Links
-- [[#JASYTI's Project Management Professional Knowledge Base – HOME|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
+- [[2-references|References]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]

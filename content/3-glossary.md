@@ -5,7 +5,6 @@ tags:
   - cmpa3302
   - glossary
   - reference
-  - filename:04-glossary.md
 draft: false
 date: 2025-09-23
 permalink: /kb/04-glossary/
@@ -38,6 +37,10 @@ Actual Cost is exactly what it sounds like: how much money you’ve *actually* s
 > The correct answer is usually* **Actual Cost (AC)**, *because that’s the number that reflects actual expenses incurred.*
 ##### Related:  
 [[#Contingency Reserve|Contingency Reserve]], [[#Budget at Completion|Budget at Completion]], [[#Cost Baseline|Cost Baseline]]
+
+### Artifact
+TBP
+
 
 ---
 
@@ -108,6 +111,10 @@ Don’t confuse EF with actual finish.
 **Related:**  
 [[90-glossary#gloss-forward-pass|Forward pass]], [[90-glossary#gloss-critical-path|Critical path]], [[90-glossary#gloss-network-diagram|Schedule network diagram]]
 
+## Exam Content Outline
+### ECO
+TBP
+
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### F
@@ -138,8 +145,7 @@ It follows all beta, pilot, or limited-access phases.
 transition to **operations**, or full delivery.  
 GA is where value realization begins at scale.
 
-**Related:**  
-[[90-glossary#gloss-product-release|Product release]], [[90-glossary#gloss-transition|Transition]], [[90-glossary#gloss-benefits-realization|Benefits realization management]]
+### Governance
 
 ---
 
@@ -211,6 +217,9 @@ Common in DevOps or service teams.
 **Related:**  
 [[90-glossary#gloss-wip|Work in Progress (WIP)]], [[90-glossary#gloss-kanban-board|Kanban board]], [[90-glossary#gloss-flow-efficiency|Flow efficiency]]
 
+## Key Word Indicators
+TBP
+
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### L
@@ -257,8 +266,8 @@ They require close monitoring even if they’re not currently critical.
 or risk of becoming critical, this is the concept.  
 Look for float between 1–5 days.
 
-**Related:**  
-[[90-glossary#gloss-float|Float]], [[90-glossary#gloss-schedule-network-diagram|Schedule network diagram]], [[90-glossary#gloss-critical-path|Critical path]]
+
+### New Facts
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -286,7 +295,13 @@ They solve problems with minimal supervision.
 > **Exam cue.** Use this when the team is proactive, aligned, and delivering well.  
 The PM can delegate more and focus on strategy and value.
 
-**Related:** [[90-glossary#gloss-tuckman-stages|Tuckman stages]], [[90-glossary#gloss-team-performance|Team performance]], [[90-glossary#gloss-develop-team|Develop Team]]
+**Related:** 
+
+## Preventing Issues
+**Definition:** TBP 
+
+### Project Charter
+**Definition:** TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -324,6 +339,9 @@ RACI appears in **resource management**, stakeholder alignment, and communicatio
 
 **Related:** [[90-glossary#gloss-responsibility-assignment-matrix|Responsibility Assignment Matrix (RAM)]], [[90-glossary#gloss-team-charter|Team charter]], [[90-glossary#gloss-organizational-structure|Organizational structure]]
 
+### Risk Register
+TBP
+
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### S
@@ -338,7 +356,26 @@ especially when you have limited time or conflicting needs.
 If someone has all three attributes, they’re a **definitive stakeholder** and must be engaged closely.  
 Common in stakeholder analysis and strategy planning.
 
-**Related:** [[90-glossary#gloss-stakeholder-analysis|Stakeholder analysis]], [[90-glossary#gloss-engagement-assessment-matrix|Engagement assessment matrix]], [[90-glossary#gloss-communications-management|Communications management plan]]
+**Related:** 
+
+## Stakeholders
+TBP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -399,6 +436,9 @@ The WBS itself is just a structure—the dictionary is the definition.
 Expect it to show up in scope clarification and contract terms.
 
 **Related:** [[90-glossary#gloss-wbs|Work Breakdown Structure (WBS)]], [[90-glossary#gloss-scope-baseline|Scope baseline]], [[90-glossary#gloss-project-scope-statement|Project scope statement]]
+
+### Work Breakdown Structure
+TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
