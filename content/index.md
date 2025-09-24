@@ -6,7 +6,7 @@ tags:
   - lifecycle
 draft: false
 date: "2025-09-24"
-permalink: "/kb/lifecycle/"
+
 enableToc: true
 
 classification: public
