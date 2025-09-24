@@ -1,18 +1,5 @@
 ---
 title: "CMPA 3302 Knowledge Base Portal"
-description: "Home hub for course navigation and PMP study materials."
-tags:
-  - cmpa3302
-  - project-management
-  - pmp
-draft: false
-date: "2025-09-24"
-classification: public
-retention: permanent
-integrityCheck: true
-role: category
-function: home-index
-shortcode: "[idx]"
 ---
 
 
