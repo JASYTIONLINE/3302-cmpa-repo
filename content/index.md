@@ -1,15 +1,22 @@
 ---
-title: "CMPA 3302 Knowledge Base Portal"
-description: "Course portal and knowledge base on PMP exam preparation."
+title: "Lifecycle of a Project"
+description: "Index page for the five PMI process groups."
 tags:
   - cmpa3302
-  - project-management
-  - pmp
+  - lifecycle
 draft: false
 date: "2025-09-24"
-permalink: "/"
+permalink: "/kb/lifecycle/"
 enableToc: true
+
+classification: public
+retention: permanent
+integrityCheck: true
+role: category
+function: category-index
+shortcode: "[cat]"
 ---
+
 
 ![Digiport Ai Dragon Mascot](assets/dragon.png)
 
