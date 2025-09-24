@@ -91,8 +91,8 @@ Common in Agile, it’s held at the same time and place each day.
 quick feedback loops, or surfacing blockers, this is the go-to answer.  
 Often confused with status meetings—PMI prefers lightweight, team-led sessions.
 
-**Related:**  
-[[90-glossary#gloss-agile-ceremonies|Agile ceremonies]], [[90-glossary#gloss-blocker|Blocker (impediment)]], [[90-glossary#gloss-iteration|Iteration]]
+## Deliverable
+TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -287,6 +287,9 @@ Objectives must be defined early, aligned to business needs, and used to measure
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### P
 [[#Glossary|Top]]
+
+### PMI’s situational best practices
+TBP
 ### Performing  
 **Definition.** The **fourth stage** of team development—  
 where the group operates with high trust, autonomy, and shared accountability.  
@@ -340,6 +343,9 @@ RACI appears in **resource management**, stakeholder alignment, and communicatio
 **Related:** [[90-glossary#gloss-responsibility-assignment-matrix|Responsibility Assignment Matrix (RAM)]], [[90-glossary#gloss-team-charter|Team charter]], [[90-glossary#gloss-organizational-structure|Organizational structure]]
 
 ### Risk Register
+TBP
+
+## Role
 TBP
 
 ---

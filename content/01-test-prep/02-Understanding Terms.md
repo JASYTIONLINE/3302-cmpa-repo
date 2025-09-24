@@ -1,10 +1,11 @@
 # Understanding Terms in Project Management
 
-In PMBOK study and practice, **terms matter** because they represent the core “things” of project management: 
-- Artifacts (documents)
-- Deliverables
-- Roles
-These are all examples of the Terminology used in Project Management and found in the PMI Exam Content Outline.  Every process is built core values but convey through specific terminology that defines what is being created, tracked, or handed off. 
+In PMBOK study and practice, **terms matter** because they represent the core “things” of project management. Terms like: 
+- [[3-glossary#artifact|Artifacts (documents)]]
+- [[3-glossary#deliverable|Deliverables]]
+- [[3-glossary#role|Roles]]
+
+These are all examples of the Terminology used in Project Management and found in the [[01-test-prep/04-eco.md|PMI Exam Content Outline.]]  Every process is built core values but convey through specific terminology that defines what is being created, tracked, or handed off. 
 
 For example, the [[3-glossary#Risk Register|Risk Register,]] [[3-glossary#project charter|project charter,]] and [[3-glossary#work breakdown structure|work breakdown structure]] are all terms—concrete items that can be referenced and examined.
 
@@ -51,9 +52,10 @@ The **only reliable way to pass the PMP exam** is to develop [[01-test-prep/02-U
 ---
 ## Quick Links
 
--  [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]
-- [[01-test-prep/02-Understanding Terms.md| Test Prep - Understanding Terminology]]
--  [[01-test-prep/03-principles.md|Project Management Principles]]
+- [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]
+- [[01-test-prep/02-Understanding Terms.md|Test Prep - Understanding Terminology]]
+- [[01-test-prep/03-principles.md|Project Management Principles]]
+- [[01-test-prep/04-eco.md|PMI Exam Content Outline.]]  
 - [[3-glossary|Glossary]]
 - [[2-references.md|References]]
 

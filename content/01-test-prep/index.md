@@ -29,7 +29,8 @@ Strong preparation reduces anxiety and allows your understanding of project mana
 ## Quick Links
 
 -  [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]
-- [[01-test-prep/02-Understanding Terms.md| Test Prep - Understanding Terminology]]
+- [[01-test-prep/02-Understanding Terms.md|Test Prep - Understanding Terminology]]
+- [[01-test-prep/04-eco.md|PMI Exam Content Outline.]]  
 - [[3-glossary|Glossary]]
 - [[2-references.md|References]]
 

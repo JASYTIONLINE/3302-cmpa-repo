@@ -59,24 +59,27 @@ The goal is confidence under time pressure—not cramming.
 ---
 ## Exam Design Context
 
-The PMP exam is not about memorizing definitions — it is about **applying project management principles in context**. PMI writes questions to test whether you understand the underlying concepts, not whether you can recite terms. Many questions include two possible answers that look correct, but only one is the **“most right”** because it aligns best with PMI’s situational best practices. Practicing with scenario-based questions is the only way to build the skill of distinguishing good answers from better ones.  
+The PMP exam is not about memorizing definitions — it is about applying [[03-principles|project management principles in context.]] 
+
+PMI writes questions to test whether you understand the underlying concepts, not whether you can recite terms. Many questions include two possible answers that look correct, but only one is the **“most right”** because it aligns best with [[3-glossary#PMI’s situational best practices|PMI’s situational best practices.]] Practicing with scenario-based questions is the only way to build the skill of distinguishing good answers from better ones.  
 
 ---
 ## Official Study Resources
 
-While online tips and shared notes can be useful, the most reliable way to prepare is by joining the **Project Management Institute (PMI)** as a member. PMI’s official study resources, such as the **PMP Exam Prep Course (Version 3.2)**, include practice exams, answer explanations, and contextual learning materials that mirror the real test. These resources ensure you are preparing in the way PMI expects, not relying on shortcuts or questionable third-party sites.
+I recommend becoming a [Project Management Institute Member.](https://www.pmi.org/membership/benefits)  As a member of PMI you gain access to their official study resources. [The **PMP Exam Prep Course, Version 3.2** (available to members)](https://www.pmi.org/store/) includes practice questions, contextual examples, and detailed answer explanations. This resource is specifically designed to train you in **how to think like PMI**, not just what to memorize.
 
 ---
 ## Reading Tie-Back
 
-In *Range*, Epstein reminds us that **breadth and adaptability** often outperform rote specialization. For the PMP exam, this means focusing on **principle-driven reasoning** rather than memorization. Approaching questions with flexibility, context-awareness, and multiple perspectives helps ensure you choose PMI’s “most right” answer, not just a familiar fact.
+In *Range*, Epstein reminds us that **breadth and adaptability** often outperform rote specialization. For the PMP exam, this means focusing on [[03-principles#principle-driven reasoning|Principle Driven Reasoning]] rather than memorization. Approaching questions with flexibility, context-awareness, and multiple perspectives helps ensure you choose PMI’s “most right” answer, not just a familiar fact.
 
 ---
 ## Quick Links
 
 -  [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]
 - [[01-test-prep/02-Understanding Terms.md| Test Prep - Understanding Terminology]]
--  [[01-test-prep/03-principles.md|Project Management Principles]]
+- [[01-test-prep/03-principles.md|Project Management Principles]]
+- [[01-test-prep/04-eco.md|PMI Exam Content Outline.]]  
 - [[3-glossary|Glossary]]
 - [[2-references.md|References]]
 

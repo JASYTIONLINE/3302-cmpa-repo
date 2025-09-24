@@ -27,11 +27,14 @@ Test Preparation Essentials
 - TBP
 ---
 ## What are the Principle of Project Management
-- tbp
+- TBP
 
 ---
 ## Applying Project Management Principles in practice
-
+- TBP
+---
+## Principle-driven reasoning
+- TBP
 ---
 ## Applying Project Management Principle on Exam Day
 
@@ -42,7 +45,7 @@ The PMP exam is not about memorizing definitions — it is about **applying proj
 
 - [[#Project Management Principles]]
 - [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]
-- [[01-test-prep/02-Understanding Terms.md| Test Prep - Understanding Terminology]]
+- [[01-test-prep/02-Understanding Terms.md|Test Prep - Understanding Terminology]]
 - [[3-glossary|Glossary]]
 - [[2-references.md|References]]
 
