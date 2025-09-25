@@ -22,7 +22,6 @@ shortcode: "[doc]"
 ---
 
 # Test Preparation Essentials
-![image of students taking an exam](testing.png)
 
 ## What this page is about:  
 The [[01-test-prep/03-principles.md|Project Management Institutes Exam Content Outline]] makes it very clear that memorizing facts and definitions of terms will not be enough to pass the exam.  In fact, my training has shown me that memorization is a distractor from the real goal of understanding value delivery and the concepts of Project Management.

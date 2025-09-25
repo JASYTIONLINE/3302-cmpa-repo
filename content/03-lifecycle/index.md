@@ -21,16 +21,15 @@ function: category-index
 shortcode: "[idx]"
 ---
 ## The Lifecycle of a Project – Home
- ![[lifecycle.gif|300]]
- The **Project Management Lifecycle** is the backbone of how projects move from concept to completion. 
+ ![diagram of the Project lifecycle](lifecycle.jpg)]
+ *A Project moves in a linear fashion, but the Phases can circle back on each other*
+ 
+  ## The [[3-glossary#Project Management Lifecycle|Project Management Lifecycle]]
+  The Project Management Lifecycle is the backbone of how projects move from concept to completion. It is organized into 5(+1) unique process groups: [[0-plan-prerequisites.md|Pre-Project Requirements]]; [[1-Initiating|Initiating Process Group]]; [[2-planning|Planning Process Group]]; [[3-executing|Executing Process Group]]; [[4-monitor-control|Monitoring and Controlling Process Group]]; and [[5-closing|Closing Process Group]].  
 
-It is organized into 5(+1) unique process groups: [[0-plan-prerequisites.md|Pre-Project Requirements]]; [[1-Initiating|Initiating Process Group]]; [[2-planning|Planning Process Group]]; [[3-executing|Executing Process Group]]; [[4-monitor-control|Monitoring and Controlling Process Group]]; and [[5-closing|Closing Process Group]]. See [[content/references|References]].  
+Each stage has its own focus, [[3-glossary#deliverable|deliverables]], and challenges, but together they form a structured flow that ensures a project stays aligned with objectives and value delivery.  This section explores how [The Project Management Body of Knowledge](https://www.pmi.org/standards/pmbok) identifies the [[#The 3-glossary#Project Management Lifecycle|Project Management Lifecycle]] and [[3-glossary#process|Project Management Processes]] as the backbone of how projects move from concept to completion.
 
-Each stage has its own focus, deliverables, and challenges, but together they form a structured flow that ensures a project stays aligned with objectives and value delivery. See [[content/references|References]].  
-
-This section explores how [[02-pmbok/index|PMBOK 6]]’s process-driven ITTO approach and [[02-pmbok/7-pmbok/index|PMBOK 7]]’s principle-based perspective both apply to the lifecycle. See [[content/references|References]].  
-
-By studying the lifecycle, we connect theory, case studies, standards, and test preparation into a single framework. This helps ensure that knowledge is not memorized in isolation, but applied step by step, just as exam questions and real-world projects demand. See [[content/references|References]].  
+By studying the lifecycle, we connect theory, case studies, [[3-glossary#Standards|standards,]] and [[01-test-prep/index.md|test preparation]] into a single framework. This helps ensure that knowledge is not memorized in isolation, but applied step by step, just as exam questions and real-world projects demand. 
 
 ---
 ## Quick Links

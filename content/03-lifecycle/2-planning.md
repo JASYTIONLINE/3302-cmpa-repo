@@ -24,17 +24,16 @@ shortcode: "[doc]"
 
 # 02 Planning The Plan
 
-![[plan.jpg]]
+![image of man and woman planning a project](plan.jpg)
+The **Planning Process Group** establishes the roadmap for the project by transforming intent into a **workable plan**. In this group, the team defines scope, estimates effort and duration, sequences work, builds the schedule and budget, plans quality and communications, and identifies risks and responses. Planning is iterative and integrative: as new information emerges, the plan may be refined to keep the project aligned with objectives and constraints.
 
-The **Planning Process Group** establishes the roadmap for the project by transforming intent into a **workable plan**. In this group, the team defines scope, estimates effort and duration, sequences work, builds the schedule and budget, plans quality and communications, and identifies risks and responses. Planning is iterative and integrative: as new information emerges, the plan may be refined to keep the project aligned with objectives and constraints. See [[content/references|References]].  
-
-Planning produces the **baselines** (scope, schedule, cost) that guide Executing and Monitoring & Controlling. These baselines are not just paperwork—they are **control references** that let the team measure performance, forecast outcomes, and make informed decisions when change is requested. See [[content/references|References]].
+Planning produces the **baselines** (scope, schedule, cost) that guide Executing and Monitoring & Controlling. These baselines are not just paperwork—they are **control references** that let the team measure performance, forecast outcomes, and make informed decisions when change is requested.
 
 ---
 
 ## Key Processes in the Planning Group
 
-According to PMI, the Planning Process Group encompasses the following processes [[content/references|References]]:
+According to PMI, the Planning Process Group encompasses the following processes.
 
 1. **Plan Scope Management / Collect Requirements / Define Scope / Create WBS** — Clarify deliverables and decompose work.  
 2. **Define Activities / Sequence Activities / Estimate Durations / Develop Schedule** — Build a realistic timeline.  
@@ -43,7 +42,8 @@ According to PMI, the Planning Process Group encompasses the following processes
 5. **Plan Risk Management / Identify Risks / Perform Qualitative & Quantitative Analysis / Plan Risk Responses** — Anticipate threats and opportunities.  
 6. **Plan Stakeholder Engagement** — Set strategies for involvement and support.  
 
-> *Planning turns what we want into what we will do—and how we will know if we are still on course.* — Adapted from PMI guidance, see [[content/references|References]]
+> *Planning turns what we want into what we will do—and how we will know if we are still on course.* — Adapted from PMI guidance
+
 
 ---
 
@@ -51,7 +51,7 @@ According to PMI, the Planning Process Group encompasses the following processes
 
 The outputs of Planning form the **Project Management Plan** and its **baselines**. During [[3-executing|Executing]], the team works to the plan; during [[4-monitor-control|Monitoring & Controlling]], performance is measured against baselines to detect variance. When warranted, changes are proposed and, if approved, baselines are **updated** deliberately—not drifted.  
 
-This disciplined cycle preserves control while allowing for adaptive learning. Adapted from PMI process guidance, see [[content/references|References]].
+This disciplined cycle preserves control while allowing for adaptive learning. Adapted from PMI process guidance.
 
 ---
 

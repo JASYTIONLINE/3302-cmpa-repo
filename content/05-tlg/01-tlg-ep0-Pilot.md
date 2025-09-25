@@ -23,9 +23,9 @@ function: kb-page
 shortcode: "[doc]"
 story-scene: Prologue + Chaptered Narrative
 ---
-![[fubar6.png]]
-# Prologue: The Plan Forgotten
 
+# Prologue: The Plan Forgotten
+![[riya-and-the-team.png]]
 ## A long time ago
 A mysterious force kept the universe in order. This force, know only as *The Plan* was alive. Projects were guided by experienced, well-educated **Gurus and Mystics** - professionals who balanced [[#glossary|people,]] [[#glossary|process,]] and the dynamic and ever changing [[#glossary| Business Environment]] with a prowess that seemed magical and, more importantly, they always delivered [[#glossary|value.]] These guardians of [[#glossary|deliveriables,]] were entrusted to bring order to chaos and value to [[#glossary|stakeholders.]]  
 

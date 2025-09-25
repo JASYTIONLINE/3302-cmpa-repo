@@ -17,9 +17,10 @@ file name: lore-door-index
 ---
 
 # The Lore Door  
-## Your Portal to the PMP Universe of The Last Gate![[riya-and-the-team.png]]
+## Your Portal to the PMP Universe of The Last Gate!
+![image of Deep Space Station FUBAR](fubar6.png)
 
-Welcome to the story side of the system.
+*Welcome to Deep Space Station: F.U.B.A.R 6; the story side of this system.*
 
 This isn’t a case study. This isn’t a course. This is a record.
 

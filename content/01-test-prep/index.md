@@ -8,6 +8,7 @@ tags:
 draft: false
 date: 2025-09-13
 ---
+![image of students taking a test](testing.png)
 ## Test Preparation Tips and Tactics - Home
 
 Test preparation for the PMP exam is more than memorizing facts and [[01-test-prep/02-Understanding Terms.md|Understanding Terminology;]] it is about learning how to approach the exam with [[01-test-prep/01-test-prep.md|strategy and confidence.]] 

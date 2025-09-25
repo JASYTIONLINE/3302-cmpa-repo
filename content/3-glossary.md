@@ -368,6 +368,9 @@ Definition: TBP
 ## Project Management
 Definition: TBP
 
+## Project Management Lifecycle
+Definition: TBP
+
 ## Project Management Plan
 Definition: TBP
 
