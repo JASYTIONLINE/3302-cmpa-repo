@@ -85,7 +85,7 @@ Definition: TBP
 ## Business Case
 Definition: TBP
 
-### Blockers
+### Blocker
 Definition: TBP
 
 ---
@@ -102,7 +102,8 @@ to support root cause analysis and quality improvement.
 that involve identifying why a defect or issue occurred.  
 It does not solve the problem—it frames it for investigation.
 
-## Change
+## Change Request
+### Change
 Definition: TBP
 
 # Chief Information Officer
@@ -214,6 +215,11 @@ transition to **operations**, or full delivery.
 GA is where value realization begins at scale.
 
 ### Governance
+Definition: TBP
+
+## Green Yellow Red Status
+### GYR
+Definition: TBP
 
 ---
 
@@ -258,6 +264,9 @@ Definition: TBP
 Definition: TBP
 
 ## Intent
+Definition: TBP
+
+## Issue Log
 Definition: TBP
 
 ## Internet Technology
@@ -331,6 +340,10 @@ as an OPA (Organizational Process Asset).
 
 ## Mark and Move
 TBP
+
+
+## Managing Performance
+Definition: TBP
 
 ### McGregor, Douglas 
 #### Douglas McGregor
@@ -499,6 +512,8 @@ Common in stakeholder analysis and strategy planning.
 
 ## Servant Leadership
 #### Leadership
+Definition: TBP
+## Schedule
 Definition: TBP
 ## Scenario
 Definition: TBP
