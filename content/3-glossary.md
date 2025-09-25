@@ -113,9 +113,16 @@ Definition: TBP
 ## Communicate
 Definition: TBP
 
-## Communications Plan
+## Communications Management Plan
+### Communication Plan
  Definition: TBP
- 
+
+## Constraint
+Definition: TBP
+
+## Control Reference 
+Definition: TBP
+
 ## Corrective Actions
 Definition: TBP
 
@@ -143,6 +150,10 @@ TBD
 ## Deliverable
 TBP
 
+## Duration
+Definition: TBP
+
+
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### E
@@ -157,6 +168,8 @@ Used in forward-pass calculations.
 It helps determine float and identify schedule compression opportunities.  
 Don’t confuse EF with actual finish.
 
+## Effort
+Definition:  TBP
 ## End User
 Definition: TBP
 
@@ -271,6 +284,9 @@ Definition: TBP
 
 ## Internet Technology
 ### IT
+Definition: TBP
+
+## Iterative
 Definition: TBP
 
 ## Issue:
@@ -400,6 +416,9 @@ Definition: TBP
 ## Performance
 Definition: TBP
 
+## Planning Process Group
+Definition: TBP
+
 ## PMI’s situational best practices
 TBP
 
@@ -414,7 +433,8 @@ They solve problems with minimal supervision.
 > **Exam cue.** Use this when the team is proactive, aligned, and delivering well.  
 The PM can delegate more and focus on strategy and value.
 
-**Related:** 
+## Planning Team
+Definition: TBP
 
 ## Preventing Issues
 **Definition:** TBP 
@@ -466,6 +486,8 @@ PMI ties it directly to stakeholder risk perception, which may vary across teams
 ## Quality
 Definition: TBD
 
+## Quality Management Plan
+Definition: TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -490,7 +512,16 @@ Definition: TBP
 ## Rework
 Definition" TBD
 
+## Risk
+Definition: TBP
+
+## Risk Management Plan
+Definition: TBP
+
 ### Risk Register
+Definition: TBP
+
+## Risk Response
 Definition: TBP
 
 ## Role
@@ -535,6 +566,10 @@ Definition: TBD
 
 ## Status
 Definition: TBD
+
+## Strategic Objective
+Definition: TBP
+
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]

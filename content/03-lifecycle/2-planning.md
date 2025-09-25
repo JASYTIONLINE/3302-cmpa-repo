@@ -22,12 +22,12 @@ function: kb-page
 shortcode: "[doc]"
 ---
 
-# 02 Planning The Plan
+# 02 Preparing The Plan
 
 ![image of man and woman planning a project](plan.jpg)
-The **Planning Process Group** establishes the roadmap for the project by transforming intent into a **workable plan**. In this group, the team defines scope, estimates effort and duration, sequences work, builds the schedule and budget, plans quality and communications, and identifies risks and responses. Planning is iterative and integrative: as new information emerges, the plan may be refined to keep the project aligned with objectives and constraints.
+The [[3-glossary#Planning Process Group|Planning Process Group]] establishes the roadmap for the project by transforming [[3-glossary#Intent|intent]] into a [[3-glossary#Project Management Plan|workable plan.]] In this group, the team narrowly defines [[3-glossary#Scope|scope,]] estimates [[3-glossary#Effort|effort]] and [[3-glossary#Duration|duration]]. The [[3-glossary#Project Management Plan|project plan]] defines the [[3-glossary#Workflow|workflow]] by sequencing work. The [[3-glossary#Planning Team|Planning Team]] builds the schedule and budget, create a [[3-glossary#Quality Management Plan|plan to manage quality]] and [[3-glossary#Communications Management Plan|establishes communication protocols.]]  [[3-glossary#Risk|Risks]] are identified and [[3-glossary#Risk Response|responses]] are codified in the [[3-glossary#Risk Management Plan|Risk Management Plan.]] Planning is [[3-glossary#Iterative|iterative]] and integrative: as new information emerges, the plan may be refined to keep the project aligned with [[3-glossary#Strategic Objective|objectives]] and [[3-glossary#Constraint|constraints.]]
 
-Planning produces the **baselines** (scope, schedule, cost) that guide Executing and Monitoring & Controlling. These baselines are not just paperwork—they are **control references** that let the team measure performance, forecast outcomes, and make informed decisions when change is requested.
+Planning produces the [[3-glossary#Baseline|baselines]] like scope, [[3-glossary#Schedule|schedule,]] and cost. The baselines guide the [[03-lifecycle/3-executing.md|Executing Phase]] and performance is checked with [[03-lifecycle/4-monitor-control.md|Monitoring & Controlling]] to keep the plan on track. These baselines are not just paperwork—they are [[3-glossary#Control Reference|control references]] that let the team measure performance, forecast outcomes, and make informed decisions when change is requested.
 
 ---
 
