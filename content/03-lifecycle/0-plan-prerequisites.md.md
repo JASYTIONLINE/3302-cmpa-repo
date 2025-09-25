@@ -35,21 +35,21 @@ If the [[3-glossary### Project Management Plan|Project Management Plan]] is the 
 1. Engage [[3-glossary#Stakeholder|Stakeholders]] and establish trust.  
    Building trust through early engagement ensures the customer feels heard, and the project team gains clarity about needs and expectations.  
 
-2. Capture and document the customer request.  
-   Translate initial wants into a clear, documented request that reflects the customer’s true intent.  
-3. Work with [[3-glossary#Stakeholder|stakeholders]] to formalize the request into a business case.**  
-   The business case outlines the benefits, costs, risks, and strategic alignment, providing the foundation for deciding whether the project should move forward.  
+2. Capture and document the [[3-glossary#Customer Request|customer request.]]  
+   Translate initial wants into a clear, documented request that reflects the customer’s true [[3-glossary#intent|intent.]]  
+3. Work with [[3-glossary#Stakeholder|stakeholders]] to formalize the request into a [[3-glossary#Business Case|business case]] 
+   The business case outlines the [[3-glossary|Benefits|benefits,]] costs, [[3-glossary#Risk|risks,]] and [[3-glossary#Strategic Alignment|strategic alignment,]] providing the foundation for deciding whether a [[3-glossary#Project|project]] should move forward.  
 
-4. Identify the sponsor or authority.  
-   Determine who has the organizational power and financial responsibility to authorize the project.  
+4. Identify the [[3-glossary#Sponsor|sponsor]] or [[3-glossary#Authority|authority.]]  
+   Determine who has the [[3-glossary#Organizational Power|organizational power]] and [[3-glossary|Financial Responsibility|financial responsibility]] to [[3-glossary|Authorize|authorize]] the project.  
 
 5. Assess resource availability.  
    Verify that funding, staffing, and materials are realistically available to support the project if approved.  
 
 6. Secure business case approval.  
-   The business case must be endorsed by the sponsor or governing body. This approval provides the justification needed to advance the idea into a formal project.  
+   The business case must be [[3-glossary#Endorsement|endorsed]] by the sponsor or governing body. This approval provides the [[3-glossary#Justification|justification]] needed to advance the idea into a formal project.  
 
-> Once the business case is approved, the project can move into the [[1-Initiating|Initiation phase]], where the project charter is created and formally authorizes Planning to begin.
+> Once the business case is approved, the project can move into the [[1-Initiating|Initiation phase]], where the [[3-glossary#Project Charter|project charter]] is created and formally authorizes [[03-lifecycle/2-planning.md|Planning to begin.]]
 
 ---
 
@@ -59,12 +59,12 @@ The [[3-glossary#Customer Request|customer request]] is the basis of any project
 
 Often, customers do not fully understand what they need — they only know what they want. By engaging stakeholders early, the [[3-glossary#Project Manager|project manager]] or [[3-glossary#Sponsor|sponsor]] can validate what the customer actually needs versus what they initially asked for.  
 
-The fastest way to introduce failure into a project is by skipping this step. Taking time to interview stakeholders helps the team uncover the [[3-glossary#True Problem|true problem]] to be solved** and clarify the [[3-glossary#Success|definition of success]] from the customer’s perspective. Once this dialogue is complete, the request can be formalized into a [[3-glossary#Business Case|business case.]]  
+The fastest way to introduce failure into a project is by skipping this step. Taking time to interview stakeholders helps the team uncover the [[3-glossary#True Problem|true problem]] to be solved and clarify the [[3-glossary#Success|definition of success]] from the customer’s perspective. Once this dialogue is complete, the request can be formalized into a [[3-glossary#Business Case|business case.]]  
 
 This is especially important when the [[3-glossary#Customer|customer]] is not the [[3-glossary#sponsor|sponsor.]] In those situations, a clear and comprehensive business case is essential to [[3-glossary#Justification||justify]] the project to the sponsor — who usually bears the most financial risk.  
 
 If the business case is missing critical elements:  
-- Does not reflect the customer’s true need  
+- Does not reflect the customer’s [[#Example in Practice|true need]]  
 - Fails to justify the project  
 - Ignores high-level risks  
 

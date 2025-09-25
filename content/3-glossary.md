@@ -37,10 +37,7 @@ Actual Cost is exactly what it sounds like: how much money you’ve *actually* s
 > The correct answer is usually* **Actual Cost (AC)**, *because that’s the number that reflects actual expenses incurred.*
 
 ### Agile Practice Guide
-
-#### —
-
-##### Definition:
+Definition:
 
 A foundational reference guide co-developed by the Project Management Institute (PMI) and Agile Alliance that outlines agile values, principles, and common practices across multiple agile methodologies.
 ##### Why you should use it:
@@ -50,6 +47,10 @@ The Agile Practice Guide is essential for PMP exam prep because the exam include
 - [PMI Agile Practice Guide – Official Page](https://www.pmi.org/pmbok-guide-standards/foundational/agile-practice)
 - [PMI Membership Benefits – Free Access](https://www.pmi.org/membership/join)
 - [PMI Study Hall – Exam Preparation Tool](https://www.pmi.org/certifications/certification-resources/pmi-study-hall?utm_source_misc=examsimulator_PMP)
+
+
+## Alignment
+Definition: TBP
 
 ### Artifact
 TBP
@@ -78,7 +79,13 @@ They are not frozen scope documents—they flex as feedback is received.
 Don’t treat the backlog like a predictive WBS or scope baseline.  
 Near-term items are detailed, long-term items stay light until refined.
 
+## Baseline
+Definition: TBP
+
 ## Business Case
+Definition: TBP
+
+### Blockers
 Definition: TBP
 
 ---
@@ -95,13 +102,24 @@ to support root cause analysis and quality improvement.
 that involve identifying why a defect or issue occurred.  
 It does not solve the problem—it frames it for investigation.
 
-## Chief Information Officer
+## Change
+Definition: TBP
+
+# Chief Information Officer
 ### CIO
+Definition: TBP
+
+## Communicate
+Definition: TBP
+
+## Communications Plan
+ Definition: TBP
+ 
+## Corrective Actions
 Definition: TBP
 
 ## Customer
 Definition: TBP
-
 
 ## Customer Request
 Definition: TBP
@@ -119,6 +137,8 @@ Common in Agile, it’s held at the same time and place each day.
 quick feedback loops, or surfacing blockers, this is the go-to answer.  
 Often confused with status meetings—PMI prefers lightweight, team-led sessions.
 
+## Defect
+TBD
 ## Deliverable
 TBP
 
@@ -138,11 +158,29 @@ Don’t confuse EF with actual finish.
 
 ## End User
 Definition: TBP
+
+## Endorsement
+#### Endorse
+Definition: TBP
+
+## Engagement
+Definition: TBS
+
+## Escalation
+Definition: TBP
+
 ## Exam Content Outline
 ### ECO
 TBP
 
+## Execution Process Group
+#### Execution
+Definition
+
 ## Executive
+Definition: TBP
+
+## Expectation
 Definition: TBP
 
 ---
@@ -226,6 +264,9 @@ Definition: TBP
 ### IT
 Definition: TBP
 
+## Issue:
+Definition: TBP
+
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### J
@@ -241,6 +282,7 @@ or safety protocols—this term applies.
 It links to compliance, quality, and risk management.
 
 ## Justification
+#### Justify
 Definition: TBP
 
 ---
@@ -331,15 +373,26 @@ Objectives help define success.
 > **Exam cue.** If the exam asks “What is the goal of this project?” or “How do we define success?”—this is your term.  
 Objectives must be defined early, aligned to business needs, and used to measure value delivered.
 
-**Related:** [[90-glossary#gloss-business-value|Business value]], [[90-glossary#gloss-deliverable|Deliverable]], [[90-glossary#gloss-project-charter|Project charter]]
+## Organizational Power
+Definition" TBD
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### P
 [[#Glossary|Top]]
 
-### PMI’s situational best practices
+## People Centric
+Definition: TBP
+
+## Performance
+Definition: TBP
+
+## PMI’s situational best practices
 TBP
+
+## Performance
+Definition: TBP
+
 ### Performing  
 **Definition.** The **fourth stage** of team development—  
 where the group operates with high trust, autonomy, and shared accountability.  
@@ -355,6 +408,9 @@ The PM can delegate more and focus on strategy and value.
 
 ## Process
 Definition
+
+## Procurement
+Definition: TBP
 # Process Group
 Definition: TBP
 
@@ -394,8 +450,9 @@ Expect terms like “risk rating,” “P-I matrix,” “heat map,” or “urg
 This analysis guides which risks get monitored closely or escalated.  
 PMI ties it directly to stakeholder risk perception, which may vary across teams.
 
-**Related:**  
-[[90-glossary#gloss-risk-register|Risk register]], [[90-glossary#gloss-risk-strategy|Risk strategy]], [[90-glossary#gloss-risk-owner|Risk owner]]
+## Quality
+Definition: TBD
+
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -413,6 +470,12 @@ or how to ensure everyone knows their job, RACI is your answer.
 “Consulted” = gives input,  
 “Informed” = kept in the loop.  
 RACI appears in **resource management**, stakeholder alignment, and communication planning.
+
+## Resource
+Definition: TBP
+
+## Rework
+Definition" TBD
 
 ### Risk Register
 Definition: TBP
@@ -434,6 +497,9 @@ especially when you have limited time or conflicting needs.
 If someone has all three attributes, they’re a **definitive stakeholder** and must be engaged closely.  
 Common in stakeholder analysis and strategy planning.
 
+## Servant Leadership
+#### Leadership
+Definition: TBP
 ## Scenario
 Definition: TBP
 
@@ -445,8 +511,14 @@ Definition: TBP
 ## Stakeholder
 Definition: TBP
 
+## Stakeholder Engagement
+Definition: TBP
+
 ## Stakeholder Register
 #### Stakeholder Registry
+Definition: TBD
+
+## Status
 Definition: TBD
 
 ---
@@ -513,7 +585,12 @@ Expect it to show up in scope clarification and contract terms.
 
 **Related:** [[90-glossary#gloss-wbs|Work Breakdown Structure (WBS)]], [[90-glossary#gloss-scope-baseline|Scope baseline]], [[90-glossary#gloss-project-scope-statement|Project scope statement]]
 
-### Work Breakdown Structure
+### Work Breakdown Flow
+#### Workflow
+
+
+## Work Breakdown Structure
+### WBS
 TBP
 
 ---
