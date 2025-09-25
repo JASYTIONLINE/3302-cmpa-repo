@@ -47,12 +47,13 @@ She leaned back in her seat, scribbling notes into her paper [[3-glossary|logboo
 - [[02-tlg-rp1-agile-manifesto|The Agile Manifesto]]|
 - [[02-Understanding Terms|Understanding Terms]]
 - [[3-glossary|Glossary]]
-## Navigation
-- [[index.md|JASYTI's PMP KB Home]]
-- [[01-test-prep/index|Test Prep & Tactics]]
-- [[03-lifecycle/index|Lifecycle of a Project]]
-- [[02-pmbok/index|Theory Application]]
-- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok/index|PMBOK 6 Standards]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
 
+## Main Categories
+- [[index.md|JASYTI's PMP KB – HOME]]
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok/index|Project Management Body of Knowledge]]
+- [[03-lifecycle/index.md|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

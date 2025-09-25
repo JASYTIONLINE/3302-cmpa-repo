@@ -27,7 +27,7 @@ story-scene: Prologue + Chaptered Narrative
 # Prologue: The Plan Forgotten
 ![[riya-and-the-team.png]]
 ## A long time ago
-A mysterious force kept the universe in order. This force, know only as *The Plan* was alive. Projects were guided by experienced, well-educated **Gurus and Mystics** - professionals who balanced [[#glossary|people,]] [[#glossary|process,]] and the dynamic and ever changing [[#glossary| Business Environment]] with a prowess that seemed magical and, more importantly, they always delivered [[#glossary|value.]] These guardians of [[#glossary|deliveriables,]] were entrusted to bring order to chaos and value to [[#glossary|stakeholders.]]  
+A mysterious force kept the universe in order. This force, know only as *The Plan* was alive. Projects were guided by experienced, well-educated **Gurus and Mystics** - professionals who balanced [[#glossary|people,]] [[#glossary|process,]] and the dynamic and ever changing [[#glossary| Business Environment]] with a prowess that seemed magical and, more importantly, they always delivered [[#glossary|value.]] These guardians of [[#glossary|deliverable|Deliverables]] Brought order to chaos and value to [[#glossary|stakeholders.]]  
 
 At the heart of their craft was **The Plan**. Not a plan — *The Plan*. The Plan was the unseen force that bound People and Process together though [[#glossary|alignment,]] [[#glossary|purpose,]] and [[#glossary|trust.]]  These [[#glossary|"Project Managers"]] were a mystical group of Godlike Creatures, trained to sense The Plan, [[#glossary|tailor]] it, and bring order to chaos. Just as warriors carried carried pulse rifles, their tool was the art of [[#glossary|project management]] itself - sharp, disciplined, and deadly precise when wielded with wisdom.  
 #### But, somewhere along the way, that all went wrong.
@@ -178,12 +178,13 @@ Riya’s story doesn’t stop here. The voice in the static — **J.A.S.Y.T.I. (
 - [[02-tlg-rp1-agile-manifesto|The Agile Manifesto]]|
 - [[02-Understanding Terms|Understanding Terms]]
 - [[3-glossary|Glossary]]
-## Navigation
-- [[index.md|JASYTI's PMP KB Home]]
-- [[01-test-prep/index|Test Prep & Tactics]]
-- [[03-lifecycle/index|Lifecycle of a Project]]
-- [[02-pmbok/index|Theory Application]]
-- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok/index|PMBOK 6 Standards]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
 
+## Main Categories
+- [[index.md|JASYTI's PMP KB – HOME]]
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok/index|Project Management Body of Knowledge]]
+- [[03-lifecycle/index.md|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

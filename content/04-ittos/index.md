@@ -22,7 +22,7 @@ shortcode: "[idx]"
 ---
 
 ## Inputs Tasks Tools and Outputs Related to Process Groups
-
+![an image a diagram showing the relations ships between ITTOs](ittos.jpg)
 ## Place Holder
 
 ---

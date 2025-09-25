@@ -18,7 +18,7 @@ function: "kb-page"
 shortcode: "[ref]"
 ---
 
-# 1 — Initiating
+# 1 Initiating
 - Agreements
 - Stakeholders
 - EEFs (Enterprise Environmental Factors)
