@@ -8,18 +8,16 @@ date: 2025-09-14
 
 # Tailoring
 
-In PMBOK 6, **tailoring is treated as practical advice** rather than a core concept. It reminds project managers that the 49 processes, ITTOs, and knowledge areas should not be applied blindly. Instead, teams are encouraged to adjust the level of rigor based on project size, complexity, and environment. Tailoring here means *choosing which processes to emphasize, streamline, or omit* so the framework fits the project context.  
+In Project Management, **tailoring is treated as practical advice** rather than a core concept. It reminds project managers that the 49 processes, ITTOs, and knowledge areas should not be applied blindly. Instead, teams are encouraged to adjust the level of rigor based on project size, complexity, and environment. Tailoring here means *choosing which processes to emphasize, streamline, or omit* so the framework fits the project context.  
 
 Examples include simplifying documentation for a small internal effort or expanding quality controls for a regulated industry project. While tailoring is acknowledged, it does not alter the process-based structure of PMBOK 6.  
 
 This contrasts with **PMBOK 7**, where tailoring is elevated to a guiding principle that shapes all project management activity.  
 
-👉 For the principle-based perspective, see [[05-pmbok/7-pmbok/tailoring/index|Tailoring in PMBOK 7]], which reframes tailoring as a cornerstone of value delivery and adaptability.
-
 ---
 ## Quick Links
 
-- [[#PMBOK 6 Explained – Home|PMBOK 6 Explained]]
+- [[02-pmbok/index.md|Project Management Body of Knowledge]]
 - [[01-stakeholder|Stakeholder Management]]
 - [[02-risk|Risk]]
 - [[03-eef-opa|EEF's & OPA's]]  

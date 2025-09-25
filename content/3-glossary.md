@@ -54,6 +54,13 @@ The Agile Practice Guide is essential for PMP exam prep because the exam include
 ### Artifact
 TBP
 
+## Authority
+Definition: TBP
+
+## Authorize
+### Authorization
+Definition: TBP
+
 
 ---
 
@@ -71,8 +78,8 @@ They are not frozen scope documents—they flex as feedback is received.
 Don’t treat the backlog like a predictive WBS or scope baseline.  
 Near-term items are detailed, long-term items stay light until refined.
 
-**Related:**  
-[[90-glossary#gloss-adaptive-life-cycle|Adaptive (life cycle)]], [[90-glossary#gloss-iteration|Iteration]], [[90-glossary#gloss-scope-baseline|Scope baseline]]
+## Business Case
+Definition: TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -88,8 +95,16 @@ to support root cause analysis and quality improvement.
 that involve identifying why a defect or issue occurred.  
 It does not solve the problem—it frames it for investigation.
 
-**Related:**  
-[[90-glossary#gloss-control-quality|Control Quality]], [[90-glossary#gloss-quality-tools|Quality tools]]
+## Chief Information Officer
+### CIO
+Definition: TBP
+
+## Customer
+Definition: TBP
+
+
+## Customer Request
+Definition: TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -121,12 +136,14 @@ Used in forward-pass calculations.
 It helps determine float and identify schedule compression opportunities.  
 Don’t confuse EF with actual finish.
 
-**Related:**  
-[[90-glossary#gloss-forward-pass|Forward pass]], [[90-glossary#gloss-critical-path|Critical path]], [[90-glossary#gloss-network-diagram|Schedule network diagram]]
-
+## End User
+Definition: TBP
 ## Exam Content Outline
 ### ECO
 TBP
+
+## Executive
+Definition: TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -193,8 +210,21 @@ and potential impact—both positive and negative.
 Use it when the question involves mapping influence, interests, or engagement levels.  
 Also linked to stakeholder analysis and register creation.
 
-**Related:**  
-[[90-glossary#gloss-stakeholder-register|Stakeholder register]], [[90-glossary#gloss-stakeholder-analysis|Stakeholder analysis]], [[90-glossary#gloss-engagement-assessment-matrix|Engagement assessment matrix]]
+## Initiating Phase
+Definition: TBP
+
+## Initiating Process Group
+Definition: TBP
+
+## Initiating Process Phase
+Definition: TBP
+
+## Intent
+Definition: TBP
+
+## Internet Technology
+### IT
+Definition: TBP
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -210,8 +240,8 @@ It is often required in regulated industries or government environments.
 or safety protocols—this term applies.  
 It links to compliance, quality, and risk management.
 
-**Related:**  
-[[90-glossary#gloss-compliance|Compliance]], [[90-glossary#gloss-risk-register|Risk register]], [[90-glossary#gloss-issue-log|Issue log]]
+## Justification
+Definition: TBP
 
 ---
 
@@ -231,7 +261,10 @@ Common in DevOps or service teams.
 [[90-glossary#gloss-wip|Work in Progress (WIP)]], [[90-glossary#gloss-kanban-board|Kanban board]], [[90-glossary#gloss-flow-efficiency|Flow efficiency]]
 
 ## Key Word Indicators
-TBP
+Definition: TBP
+
+## Key Process
+Definition
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -320,11 +353,29 @@ The PM can delegate more and focus on strategy and value.
 ## Preventing Issues
 **Definition:** TBP 
 
+## Process
+Definition
+# Process Group
+Definition: TBP
+
 ### Project Charter
+#### Charter
 **Definition:** TBP
+
+## Project
+Definition: TBP
 
 ## Project Management
 Definition: TBP
+
+## Project Management Plan
+Definition: TBP
+
+## Project Manager
+Definition: TBP
+
+## Project Team
+Definition
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -383,24 +434,17 @@ Common in stakeholder analysis and strategy planning.
 ## Scenario
 Definition: TBP
 
-## Stakeholders
+## Scope
+Definition: TBD
+## Sponsor
 Definition: TBP
 
+## Stakeholder
+Definition: TBP
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-]]
+## Stakeholder Register
+#### Stakeholder Registry
+Definition: TBD
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -446,6 +490,9 @@ It’s not technical verification (that’s Quality Control), it’s business va
 Expect this in scope management, customer satisfaction, or project closure questions.
 
 ##  Value
+Definition: TBP
+
+## Vendor
 Definition: TBP
 
 ---

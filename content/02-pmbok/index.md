@@ -8,7 +8,9 @@ tags:
 draft: false
 date: 2025-09-14
 ---
+
 # Project Management Body of Knowledge
+![[pmbok.png|300]]
 
 ## How to use this section
 PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** for processes and ITTO patterns. The *why* and *how* behind these lists are developed elsewhere: apply the concepts in [[02-pmbok/index|Theory Application]], watch them play out in [[05-tlg/index|Case Studies]], see where they land across the [[03-lifecycle/index|Project Management Lifecycle]], and turn recall into points with [[test-prep/index|Test Prep & Tactics]]. Learn the facts here—use the other sections to understand, practice, and perform.
@@ -38,12 +40,11 @@ PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** fo
 ---
 ## Quick Links
 
-- [[#PMBOK 6 Explained – Home|PMBOK 6 Explained]]
 - [[01-stakeholder|Stakeholder Management]]
 - [[02-risk|Risk]]
 - [[03-eef-opa|EEF's & OPA's]]  
 - [[04-change|Change - From PM Perspective]]
-- [[05-tailoring|05-Tailoring in PM]]
+- [[05-tailoring|Tailoring in PM]]
 - [[3-glossary|Glossary]]
 - [[2-references.md|References]]
 
@@ -52,7 +53,7 @@ PMBOK 6 is fact-dense by design. Treat this area as your **memorization hub** fo
 
 - [[index.md|JASYTI's PMP KB – HOME]]
 - [[01-test-prep/index.md|Test Preparation Tips and Tactics]]
-- [[#Project Management Body of Knowledge]] 
+- [[02-pmbok/index.md|Project Management Body of Knowledge]] 
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
 - [[05-tlg/index|The Last Gate]]

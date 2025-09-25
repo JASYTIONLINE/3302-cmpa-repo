@@ -1,27 +1,32 @@
 ---
-title: "Closing Process Group"
-description: "Overview of the Closing Process Group, its purpose, key processes, and role in final acceptance, handoff, and lessons learned."
-tags: [cmpa3302, project-management, process-groups, closing, "filename:5-closing-process-group.md"]
+title: 05 Closing The Plan
+description: Overview of the Closing Process Group, its purpose, key processes, and role in final acceptance, handoff, and lessons learned.
+tags:
+  - cmpa3302
+  - project-management
+  - process-groups
+  - closing
 draft: false
-date: "2025-09-23"
-permalink: "/kb/5-closing-process-group/"
+date: 2025-09-23
+permalink: /kb/5-closing-process-group/
 enableToc: true
-
-aliases: ["Closing Group", "Closing Process Group Overview"]
+aliases:
+  - Closing Group
+  - Closing Process Group Overview
 cssclasses: []
-
-h1: "Closing Process Group"
-course: "cmpa3302"
-filename: "5-closing-process-group.md"
-role: "article"
-function: "kb-page"
+h1: Closing Process Group
+course: cmpa3302
+filename: 5-closing-process-group.md
+role: article
+function: kb-page
 shortcode: "[doc]"
 ---
 
-![image of a document showing deliverables accepted](https://jasytionline.github.io/r72-pmp-exam-prep-knowledge-base/assets/accepted.jpg)  
-*Closing Process Group — Accepted Work Order*
 
-# Closing Process Group
+# 05 Closing The Plan
+
+![[a-accepted.jpg]]  
+*Closing Process Group — Accepted Work Order*
 
 The **Closing Process Group** formally completes the project or a phase and transfers the final product, service, or result to operations or the requesting organization. During Closing, we confirm the work has been completed to standard, the definition of success has been met, and formal acceptance is secured. See [[content/references|References]].  
 
@@ -64,26 +69,31 @@ Just finishing the product or deliverables does not close the project; there are
 
 ---
 
-## Visual Representation
+## The Closing Procedure
 
-![Closing the project—acceptance, handoff, and lessons learned](close.jpg)  
+![Image of Closing the project—acceptance, handoff, and lessons learned](close.jpg)  
 
 *Closing verifies acceptance, completes administration, and captures learning for the next effort.*  
 
 ---
-
 ## Quick Links
-- [[0-pre-project-requirements.md|Pre-Project Requirements – Before the Project Becomes a Project]]
-- [[1-Initiating-process-group|Initiating Process Group]]
-- [[2-planning-process-group|Planning Process Group]]
-- [[3-executing-process-group|Executing Process Group]]
-- [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]
-- [[5-closing-process-group|Closing Process Group]]
+- [[03-lifecycle/index.md|Lifecycle of a Project - Home]]
+- [[03-lifecycle/0-plan-prerequisites.md.md|Planning Perquisites]]
+- [[1-Initiating|Initiating The Plan]]
+- [[2-planning|Planning The Plan]]
+- [[3-executing|Executing The Plan]]
+- [[4-monitor-control|Monitoring and Controlling The Plan]]
+- [[5-closing|Closing The Plan]]
+- [[3-glossary|Glossary]]
+- [[2-references.md|References]]
 
-## Navigation
-- [[index.md|JASYTI's PMP KB Home]]
-- [[test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok/index|Theory Application]]
-- [[05-tlg/index|Case Studies (6 vs. 7 in Action)]]
-- [[02-pmbok/index|PMBOK 6 Standards]]
-- [[02-pmbok/7-pmbok/index|PMBOK 7 Standards]]
+---
+## Main Categories
+- [[index.md|JASYTI's PMP KB – HOME]]
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok/index|Project Management Body of Knowledge]]
+- [[03-lifecycle/index.md|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index|The Last Gate]]
+
+---

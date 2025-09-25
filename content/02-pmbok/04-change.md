@@ -27,7 +27,7 @@ Together, these controls protect the integrity of both the project’s managemen
 ---
 ## Quick Links
 
-- [[#PMBOK 6 Explained – Home|PMBOK 6 Explained]]
+- [[02-pmbok/index.md|Project Management Body of Knowledge]]
 - [[01-stakeholder|Stakeholder Management]]
 - [[02-risk|Risk]]
 - [[03-eef-opa|EEF's & OPA's]]  

@@ -20,11 +20,11 @@ role: index
 function: category-index
 shortcode: "[idx]"
 ---
+## The Lifecycle of a Project – Home
+ ![[lifecycle.gif|300]]
+ The **Project Management Lifecycle** is the backbone of how projects move from concept to completion. 
 
-## PMI Guide to the Lifecycle of a Project – Home
-The **Project Management Lifecycle** is the backbone of how projects move from concept to completion. See [[content/references|References]].  
-
-It is organized into 5(+1) unique process groups: [[0-pre-project-requirements.md|Pre-Project Requirements]]; [[1-Initiating-process-group|Initiating Process Group]]; [[2-planning-process-group|Planning Process Group]]; [[3-executing-process-group|Executing Process Group]]; [[4-monitoring-and-controlling-process-group|Monitoring and Controlling Process Group]]; and [[5-closing-process-group|Closing Process Group]]. See [[content/references|References]].  
+It is organized into 5(+1) unique process groups: [[0-plan-prerequisites.md|Pre-Project Requirements]]; [[1-Initiating|Initiating Process Group]]; [[2-planning|Planning Process Group]]; [[3-executing|Executing Process Group]]; [[4-monitor-control|Monitoring and Controlling Process Group]]; and [[5-closing|Closing Process Group]]. See [[content/references|References]].  
 
 Each stage has its own focus, deliverables, and challenges, but together they form a structured flow that ensures a project stays aligned with objectives and value delivery. See [[content/references|References]].  
 
@@ -34,14 +34,19 @@ By studying the lifecycle, we connect theory, case studies, standards, and test 
 
 ---
 ## Quick Links
-- [[index.md|JASYTI's PMP KB – HOME]]
-- [[1-about|About JASYTI]]
+
+- [[03-lifecycle/0-plan-prerequisites.md.md|Planning Perquisites]]
+- [[1-Initiating|Initiating The Plan]]
+- [[2-planning|Planning The Plan]]
+- [[3-executing|Executing The Plan]]
+- [[4-monitor-control|Monitoring and Controlling The Plan]]
+- [[5-closing|Closing The Plan]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
 - [[2-references.md|References]]
 
 ---
 ## Main Categories
+- [[index.md|JASYTI's PMP KB – HOME]]
 - [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok/index|Project Management Body of Knowledge]]
 - [[#PMI Guide to the Lifecycle of a Project – Home|Lifecycle of a Project]]

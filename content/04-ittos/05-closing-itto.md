@@ -18,7 +18,7 @@ function: "kb-page"
 shortcode: "[ref]"
 ---
 
-# 5 — Closing
+# 05 Closing (ITTOs)
 - Lessons learned
 - Claims administration (close procurements/claims)
 - Procurements (close/settle/transition)
