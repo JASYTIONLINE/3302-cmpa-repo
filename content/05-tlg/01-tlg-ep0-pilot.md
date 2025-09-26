@@ -137,13 +137,13 @@ She leaned in.
 ## Would you Like to Know More?
 
 Riya’s story doesn’t stop here. The voice in the static — **J.A.S.Y.T.I. (Justified Agile Systems Yielding Tactical Insight)** — is waiting to be understood.  
-Continue the story:  [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|Meet JASYTI – and learn about the Agile Manifesto]]
+Continue the story:  [[02-tlg-ep0.1-the-fire-below|Meet JASYTI – and learn about the Agile Manifesto]]
 
 ---
 ## Episodes
 
-0.0 [[01-tlg-ep0-newpilot|The Last Gate - EP 0 (Pilot)]]
-0.1 [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|The Fire Beneath the Code EP 0.1]]
+0.0 [[01-tlg-ep0-pilot|The Last Gate - EP 0 (Pilot)]]
+0.1 [[02-tlg-ep0.1-the-fire-below|The Fire Beneath the Code EP 0.1]]
 
 ---
 ## Quick Links

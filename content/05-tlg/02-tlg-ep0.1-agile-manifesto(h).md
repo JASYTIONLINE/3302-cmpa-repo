@@ -54,8 +54,8 @@ She leaned back in her seat, scribbling notes into her paper [[3-glossary|logboo
 
 ## Episodes
 
-0.0 [[01-tlg-ep0-newpilot|The Last Gate - EP 0 (Pilot)]]
-0.1 [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|The Fire Beneath the Code EP 0.1]]
+0.0 [[01-tlg-ep0-pilot|The Last Gate - EP 0 (Pilot)]]
+0.1 [[02-tlg-ep0.1-the-fire-below|The Fire Beneath the Code EP 0.1]]
 
 ---
 ## Quick Links
