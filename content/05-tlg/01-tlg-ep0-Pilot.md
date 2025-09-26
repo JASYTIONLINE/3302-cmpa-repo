@@ -6,10 +6,10 @@ tags:
   - the-last-gate
   - episode-0
   - manuscript
-draft: true
+draft: false
 date: 2025-09-23
 permalink: /kb/tlg-ep0-manuscript/
-enableToc: true
+enableToc: false
 aliases:
   - Episode 0 — The Grey Gate (Manuscript)
   - The Last Gate Pilot Draft
