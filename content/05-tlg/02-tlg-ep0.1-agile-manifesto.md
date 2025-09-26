@@ -15,9 +15,9 @@ course: cmpa3302
 ---
 
 # The Fire Beneath the Code
-Riya had the jumpsuit peeled to her waist — thermal regulator was out of [[3-glossary#compliance|compliance]] again, and the [[3-glossary#project environment|project environment]] was sitting at 101 Fahrenheit, stubborn and climbing. 
+Riya had the jumpsuit peeled to her waist — the thermal regulator was out of [[3-glossary#compliance|compliance]] again, and the [[3-glossary#project environment|project environment]] was sitting at 101 Fahrenheit, stubborn and climbing. 
 
-![[image of our Hero Relaxing](riya-chillin.png)
+![[riya-chillin.png]]
   *She looked like the kind of tired you earn. Not fatigue from motion, but the burn of persistent*
 
 Her shirt clung in streaks of effort, salt and stubbornness stitched into the seams. Laces undone. Knees up. One foot tapping to no rhythm, the other pressed against the wall like she was holding the <a href="glossary#">system</a>  together with just that heel.
