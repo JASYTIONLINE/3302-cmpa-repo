@@ -1,5 +1,5 @@
 ---
-title: The Fire Beneath the Code (ep 0.1)
+title: Ep 0.1 The Fire Beneath the Code
 description: A lore-driven retelling of the Agile Manifesto's history, told by JASYTI — part myth, part memory, all Plan.
 tags:
   - backstory
@@ -11,7 +11,6 @@ tags:
 draft: false
 date: 2025-09-23
 course: cmpa3302
-
 ---
 
 # The Fire Beneath the Code

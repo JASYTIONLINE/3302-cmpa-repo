@@ -1,5 +1,5 @@
 ---
-title: The Last Gate -Episode 0 (pilot)
+title: EP 0 The Last Gate -Episode (pilot)
 description: Book-style narrative draft of The Last Gate pilot, beginning with a mythic Prologue and continuing into full chapter form.
 tags:
   - the-last-gate
@@ -7,7 +7,6 @@ tags:
   - manuscript
 draft: false
 date: 2025-09-23
-
 ---
 
 # Prologue: The Plan Forgotten
