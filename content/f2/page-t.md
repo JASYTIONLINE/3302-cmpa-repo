@@ -12,6 +12,75 @@ draft: false
 
 ### earned-value
 **Definition.** A measure of project performance — the value of work actually completed to date.
+l
+'
+
+
+
+
+
+
+;;;;
+
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+
+afa
+sdfa
+
+d
+d
+d
+d
+
+dd
+
+d
+dd
+
+d
+dd
+d
+
+d
+dd
+
+dd
+d
+d
+dd
+d
+d
+d
 
 ### cost-variance
 **Definition.** The difference between earned value and actual cost. It indicates budget performance.
