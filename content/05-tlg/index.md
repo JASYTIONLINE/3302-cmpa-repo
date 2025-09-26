@@ -56,6 +56,6 @@ If you're here, the system thinks you're ready. If you're wrong... the Gate will
 - [[02-pmbok/index|Project Management Body of Knowledge]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
 - [[04-ittos/index|ITTOs]]
-- [[#Your Portal to the PMP Universe of The Last Gate! riya-and-the-team.png|The Last Gate]]
+- [[## The Lore Door|The Last Gate]]
 
 ---
