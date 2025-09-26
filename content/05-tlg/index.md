@@ -39,8 +39,8 @@ If you're here, the system thinks you're ready. If you're wrong... the Gate will
 
 ## Episodes
 
-- [[00-pmo/hub/tlg-stub-ep0-the-last-gate-pilot.md|EP0 – The Grey Gate (Pilot)]]
-- 
+- [[05-tlg/01-tlg-ep0-Pilot.md|EP0 – The Grey Gate (Pilot)]]
+- [[05-tlg/02-tlg-rp1-agile-manifesto.md|0.1 The Agile Manifesto]]
 - [EP1 – Strategic Alignment, Optional](../100/stub-s1e01-strategic-align.md)
 - [EP2 – Stakeholder Ping](../300/stub-s1e02-stakeholder-ping.md)
 - [EP3 – Scope Drift 3000](../200/stub-s1e03-scope-drift-3000.md)
