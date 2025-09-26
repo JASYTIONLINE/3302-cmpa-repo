@@ -1,27 +1,26 @@
 ---
-title: Episode 0 — Manuscript Draft
+title: The Last Gate -Episode 0 (pilot)
 description: Book-style narrative draft of The Last Gate pilot, beginning with a mythic Prologue and continuing into full chapter form.
 tags:
-  - cmpa3302
   - the-last-gate
   - episode-0
   - manuscript
 draft: false
 date: 2025-09-23
-permalink: /kb/tlg-ep0-manuscript/
-enableToc: false
+permalink: /kb/01-tlg-ep0-pilot.md/
+enableToc: true
 aliases:
   - Episode 0 — The Grey Gate (Manuscript)
   - The Last Gate Pilot Draft
 cssclasses:
   - sc-std
-h1: Episode 0 — The Grey Gate (Manuscript Draft)
+h1: "Prologue: The Plan Forgotten"
 course: cmpa3302
-filename: tlg-ep0-manuscript.md
+filename: 01-tlg-ep0-pilot.md
 role: article
 function: kb-page
 shortcode: "[doc]"
-story-scene: Prologue + Chaptered Narrative
+story-scene: Prologue + Pilot
 ---
 
 # Prologue: The Plan Forgotten
