@@ -38,8 +38,6 @@ If you're here, the system thinks you're ready. If you're wrong... the Gate will
 
 ## Episodes
 
-- [[05-tlg/01-tlg-ep0-pilot.md|EP0 – The Grey Gate (Pilot)]]
-- [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|0.1 The Fire Beneath the Code]]
 
 ---
 ## Quick Links
