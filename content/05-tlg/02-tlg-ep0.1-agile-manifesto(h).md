@@ -65,3 +65,4 @@ She leaned back in her seat, scribbling notes into her paper [[3-glossary|logboo
 - [[05-tlg/index|The Last Gate]]
 
 ---
+[[05-tlg/02-tlg-ep0.1-agile-manifesto.md|1]]
