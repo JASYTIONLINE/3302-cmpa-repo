@@ -11,9 +11,8 @@ tags:
   - story-mode
 draft: false
 date: 2025-09-21
-layout: default
-status: complete
-file name: lore-door-index
+
+
 ---
 
 # The Lore Door  

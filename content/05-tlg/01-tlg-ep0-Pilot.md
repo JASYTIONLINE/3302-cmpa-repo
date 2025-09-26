@@ -7,20 +7,7 @@ tags:
   - manuscript
 draft: false
 date: 2025-09-23
-permalink: /kb/01-tlg-ep0-pilot/
-enableToc: true
-aliases:
-  - Episode 0 — The Grey Gate (Manuscript)
-  - The Last Gate Pilot Draft
-cssclasses:
-  - sc-std
-h1: "Prologue: The Plan Forgotten"
-course: cmpa3302
-filename: 01-tlg-ep0-pilot.md
-role: article
-function: kb-page
-shortcode: "[doc]"
-story-scene: Prologue + Pilot
+
 ---
 
 # Prologue: The Plan Forgotten

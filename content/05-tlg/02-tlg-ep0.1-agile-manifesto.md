@@ -10,21 +10,8 @@ tags:
   - manifesto-origins
 draft: false
 date: 2025-09-23
-permalink: /kb/02-tlg-ep0.1-agile-manifesto/
-enableToc: true
-aliases:
-  - Fire Beneath the Code
-  - Lore Narrative — Agile Origins
-cssclasses:
-  - sc-std
-h1: The Fire Beneath the Code
-author: JASYTI (narrated)
 course: cmpa3302
-filename: 02-tlg-rp1-agile-manifesto
-role: article
-function: kb-page
-shortcode: "[doc]"
-story-scene: JASYTI Introduces the Agile Manifesto
+
 ---
 
 # The Fire Beneath the Code
@@ -57,4 +44,3 @@ She leaned back in her seat, scribbling notes into her paper [[3-glossary|logboo
 - [[05-tlg/index|The Last Gate]]
 
 ---
-[[02-tlg-ep0.1-agile-manifesto(h)|2]]
