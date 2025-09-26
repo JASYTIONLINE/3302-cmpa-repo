@@ -7,7 +7,7 @@ tags:
   - manuscript
 draft: false
 date: 2025-09-23
-permalink: /kb/01-tlg-ep0-pilot.md/
+permalink: /kb/01-tlg-ep0-pilot/
 enableToc: true
 aliases:
   - Episode 0 — The Grey Gate (Manuscript)
@@ -151,11 +151,11 @@ She leaned in.
 ## Would you Like to Know More?
 
 Riya’s story doesn’t stop here. The voice in the static — **J.A.S.Y.T.I. (Justified Agile Systems Yielding Tactical Insight)** — is waiting to be understood.  
-➡️ Continue the story:  [[02-tlg-rp1-agile-manifesto|Meet JASYTI – and learn about the Agile Manifesto]]
+➡️ Continue the story:  [[02-tlg-ep0.1-agile-manifesto|Meet JASYTI – and learn about the Agile Manifesto]]
 
 ---
 ## Quick Links
-- [[02-tlg-rp1-agile-manifesto|The Agile Manifesto]]|
+- [[02-tlg-ep0.1-agile-manifesto|The Agile Manifesto]]|
 - [[02-Understanding Terms|Understanding Terms]]
 - [[3-glossary|Glossary]]
 

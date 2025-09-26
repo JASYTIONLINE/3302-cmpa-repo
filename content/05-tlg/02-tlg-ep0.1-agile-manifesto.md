@@ -1,8 +1,7 @@
 ---
-title: The Fire Beneath the Code
+title: The Fire Beneath the Code (ep 0.1)
 description: A lore-driven retelling of the Agile Manifesto's history, told by JASYTI — part myth, part memory, all Plan.
 tags:
-  - cmpa3302
   - backstory
   - agile-manifesto
   - the-plan
@@ -11,7 +10,7 @@ tags:
   - manifesto-origins
 draft: false
 date: 2025-09-23
-permalink: /kb/the-fire-beneath-the-code/
+permalink: /kb/02-tlg-ep0.1-agile-manifesto/
 enableToc: true
 aliases:
   - Fire Beneath the Code
@@ -21,14 +20,14 @@ cssclasses:
 h1: The Fire Beneath the Code
 author: JASYTI (narrated)
 course: cmpa3302
-filename: the-fire-beneath-the-code.md
+filename: 02-tlg-rp1-agile-manifesto
 role: article
 function: kb-page
 shortcode: "[doc]"
-story-scene: Commlink Reflection with Riya
+story-scene: JASYTI Introduces the Agile Manifesto
 ---
 
-## The Story
+# The Fire Beneath the Code
 Riya had the jumpsuit peeled to her waist — thermal regulator was out of [[3-glossary#compliance|compliance]]]] again, and the [[3-glossary#project environment|project environment]] was sitting at 101 Fahrenheit, stubborn and climbing. 
 ![[image of our Hero Relaxing](riya-chillin.png)
   *She looked like the kind of tired you earn. Not fatigue from motion, but the burn of persistent*
@@ -45,7 +44,7 @@ She leaned back in her seat, scribbling notes into her paper [[3-glossary|logboo
 
 ---
 ## Quick Links
-- [[02-tlg-rp1-agile-manifesto|The Agile Manifesto]]|
+- [[02-tlg-ep0.1-agile-manifesto|The Agile Manifesto]]|
 - [[02-Understanding Terms|Understanding Terms]]
 - [[3-glossary|Glossary]]
 
@@ -58,4 +57,4 @@ She leaned back in her seat, scribbling notes into her paper [[3-glossary|logboo
 - [[05-tlg/index|The Last Gate]]
 
 ---
-[[02-tlg-rp1-agile-manifesto(h)|2]]
+[[02-tlg-ep0.1-agile-manifesto(h)|2]]
