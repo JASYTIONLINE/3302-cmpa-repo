@@ -51,18 +51,24 @@ The signal held. A rare thing. I pulsed a projection into the comms channel — 
 She leaned back in her seat, scribbling notes into her paper [[3-glossary|logbook]]. Analog. Always analog, that one. No [[01-test-prep/0]()]()
 
 ---
-## Quick Links
-- [[02-tlg-ep0.1-agile-manifesto|The Agile Manifesto]]|
-- [[02-Understanding Terms|Understanding Terms]]
-- [[3-glossary|Glossary]]
 
-## Main Categories
-- [[index.md|JASYTI's PMP KB – HOME]]
-- [[01-test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok/index|Project Management Body of Knowledge]]
-- [[03-lifecycle/index.md|Lifecycle of a Project]]
-- [[04-ittos/index|ITTOs]]
-- [[05-tlg/index|The Last Gate]]
+## Episodes
+
+0.0 [[05-tlg/01-tlg-ep0-pilot.md|The Last Gate - EP 0 (Pilot)]]
+0.1 [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|The Fire Beneath the Code EP 0.1]]
 
 ---
-[[05-tlg/02-tlg-ep0.1-agile-manifesto.md|1]]
+## Quick Links
+- [[index.md|JASYTI's PMP KB – HOME]]
+- [[1-about|About JASYTI]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
+
+---
+## Main Categories
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok/index|Project Management Body of Knowledge]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index.md|The Lore Door]]

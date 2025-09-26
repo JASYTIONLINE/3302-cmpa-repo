@@ -138,20 +138,26 @@ She leaned in.
 ## Would you Like to Know More?
 
 Riya’s story doesn’t stop here. The voice in the static — **J.A.S.Y.T.I. (Justified Agile Systems Yielding Tactical Insight)** — is waiting to be understood.  
-➡️ Continue the story:  [[02-tlg-ep0.1-agile-manifesto|Meet JASYTI – and learn about the Agile Manifesto]]
+Continue the story:  [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|Meet JASYTI – and learn about the Agile Manifesto]]
+
+---
+## Episodes
+
+0.0 [[05-tlg/01-tlg-ep0-pilot.md|The Last Gate - EP 0 (Pilot)]]
+0.1 [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|The Fire Beneath the Code EP 0.1]]
 
 ---
 ## Quick Links
-- [[02-tlg-ep0.1-agile-manifesto|The Agile Manifesto]]|
-- [[02-Understanding Terms|Understanding Terms]]
-- [[3-glossary|Glossary]]
-
-## Main Categories
 - [[index.md|JASYTI's PMP KB – HOME]]
-- [[01-test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok/index|Project Management Body of Knowledge]]
-- [[03-lifecycle/index.md|Lifecycle of a Project]]
-- [[04-ittos/index|ITTOs]]
-- [[05-tlg/index|The Last Gate]]
+- [[1-about|About JASYTI]]
+- [[3-glossary|Glossary]]
+- [[readme|Repository README]]
+- [[2-references.md|References]]
 
 ---
+## Main Categories
+- [[01-test-prep/index|Test Prep & Tactics]]
+- [[02-pmbok/index|Project Management Body of Knowledge]]
+- [[03-lifecycle/index|Lifecycle of a Project]]
+- [[04-ittos/index|ITTOs]]
+- [[05-tlg/index.md|The Lore Door]]
