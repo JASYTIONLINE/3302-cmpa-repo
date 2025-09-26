@@ -142,7 +142,7 @@ Continue the story:  [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|Meet JASYTI – an
 ---
 ## Episodes
 
-0.0 [[05-tlg/01-tlg-ep0-pilot.md|The Last Gate - EP 0 (Pilot)]]
+0.0 [[01-tlg-ep0-newpilot|The Last Gate - EP 0 (Pilot)]]
 0.1 [[05-tlg/02-tlg-ep0.1-agile-manifesto.md|The Fire Beneath the Code EP 0.1]]
 
 ---
