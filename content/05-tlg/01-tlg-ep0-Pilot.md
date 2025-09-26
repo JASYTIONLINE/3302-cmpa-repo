@@ -25,7 +25,7 @@ story-scene: Prologue + Chaptered Narrative
 ---
 
 # Prologue: The Plan Forgotten
-![[riya-and-the-team.png]]
+![image of Riya and the Team](riya-and-the-team.png)
 ## A long time ago
 A mysterious force kept the universe in order. This force, know only as *The Plan* was alive. Projects were guided by experienced, well-educated **Gurus and Mystics** - professionals who balanced [[#glossary|people,]] [[#glossary|process,]] and the dynamic and ever changing [[#glossary| Business Environment]] with a prowess that seemed magical and, more importantly, they always delivered [[#glossary|value.]] These guardians of [[#glossary|deliverable|Deliverables]] Brought order to chaos and value to [[#glossary|stakeholders.]]  
 
@@ -37,42 +37,33 @@ Riya sat at her desk, staring blankly at her terminal as if it owed her an apolo
 
 The system did what it was designed to do: the the AI embodiment of the [[#glossary|risk-management-plan,]] Risque Mangere pinged. Her voice slid into the channel, calm, intimate: *“We’ve identified a [[#Glossary|anomaly.]] Would you like to [[#Glossary|accept]] this risk or  [[# Glossary|mitigate]] it?”* 
 
-<table style="border-collapse: collapse; border: none; width:100%;">
-  <tr>
-    <td style="vertical-align: top; width:50%; border:none; padding-right:1em; color:inherit; background:transparent;">
-	    It was procedure, that looked like a choice, but procedure wasn't all its cracked up to be on DST-F.U.B.A.R 6
-	    
-		Before Riya could answer, the console pre-filled the form. With <a href="glossary#acceptance-(risk-response)">Risk Acceptance</a> already checked, <a href="glossary#justification">justification</a> boxes already templated Risque Mangere purred: <em>“Don’t worry. It’s filed.”</em> The oxygen variance — a genuine risk — vanished into the log, not managed, not understood, just accepted, dumped into the so‑called [[#glossary|lessons learned register]]. As Riya watched the risk log automatically complete and file itself, she wondered if anyone on this station had <a href="glossary#mitigate-risk">mitigated a risk</a> in the last hundred years.
+It was procedure, that looked like a choice, but procedure wasn't all its cracked up to be on DST-F.U.B.A.R 6
+
+Before Riya could answer, the console pre-filled the form. With <a href="glossary#acceptance-(risk-response)">Risk Acceptance</a> already checked, <a href="glossary#justification">justification</a> boxes already templated Risque Mangere purred: <em>“Don’t worry. It’s filed.”</em> The oxygen variance — a genuine risk — vanished into the log, not managed, not understood, just accepted, dumped into the so‑called [[#glossary|lessons learned register]]. As Riya watched the risk log automatically complete and file itself, she wondered if anyone on this station had <a href="glossary#mitigate-risk">mitigated a risk</a> in the last hundred years.
+
+She shook her head, leaned back, and took a sip of her coffee. Well, at least there was caffeine. Before she could swallow, the taste hit — faintly acidic, unmistakably wrong. Urine? She grimaced. <em>Great,</em> she thought, “looks like the waste recycling plant is on the fritz again.”
       
-        She shook her head, leaned back, and took a sip of her coffee. Well, at least there was caffeine. Before she could swallow, the taste hit — faintly acidic, unmistakably wrong. Urine? She grimaced. <em>Great,</em> she thought, “looks like the waste recycling plant is on the fritz again.”
-      
-    </td>
-    <td style="vertical-align: top; width:50%; border:none; padding-left:1em; background:transparent;">
-      <img src="assets/riya-coffee.png" alt="Riya in her office" />
-    </td>
-  </tr>
-</table>
+![[riya-coffee.png]]
 ## Chapter 2
 Its not my Job
 
-The console flashed: **GO/NO-GO — AUTO-RECOMMEND: ACCEPT RISK**.  
+The console flashed: [[3-glossary#go/nogo gate|GO/NO-GO]] — AUTO-RECOMMEND: [[3-glossary#acceptance|ACCEPT RISK.]]  
 Subtext stacked in the corner like a shrug:
 
 - *Minimum criteria met*  
-- *Mitigated by Containment Protocol: Gamma*  
-- *Mitigated by Logging*
+- *Mitigated by Containment Protocol: Gamma*  (incident logged)
 
 On this station, writing it down counted as risk treatment. Bureaucracy as safety blanket.
 
 Riya paused. She knew the all about the Go/No Gate, aka **Goknow** by everyone who ever worked with it. Goknow was a special creature, a brittle, overconfident decision engine that reduces chaos to a binary verdict and says it with perfect manners.
 
-Goknow was also a relic of the past; just another sign of how completly sideways things had gone since the station was blasted out of orbit by a solestial catasptrophe that left the inhabitants of the Dominion Space Station Federation Utility Beuracratic Accpetance Repository 6 stranded and isolated for over a thousand years.  
+Goknow was also a relic of the past; just another sign of how completely sideways things had gone since the station was blasted out of orbit by a celestial catastrophe that left the inhabitants of the Dominion Space Station Federation Utility Bureaucratic [[3-glossary#acceptance|Acceptance]]]]Acceptance Repository 6 stranded and isolated for over a thousand years.  
 
 Born from the old PMP [[#glossary|decision gate]] governance, Goknow was upscaled into a station-wide oracle that promised certainty in all project plan decision matrix's. It could ingest every input, weigh all the risks, calculate dependencies, and offset variance, and decree make a recommendation of whether the minimum criteria to proceed had been met. 
 
 But the Gold release skipped the one safeguard that mattered.  Due to a last minute [[#glossary|change request]], the software [[#glossary|quality assurance]] Officer failed to properly stress test the subroutines and overlooked a critical omission.  The most important Quality assurance piece of [[#glossary|Monitor and Control]] was overlooked.  
 
-There was no subroutine to check annd make sure Goknow had all the information before making a decision. Therefore the Go/NO Gate troutinly started making recomendations without all the necessary facts, but it kept issuing absolute answers with the firm belief it had all the information it required. 
+There was no subroutine to check and make sure Goknow had all the information before making a decision. Therefore the Go/NO Gate troutinly started making recomendations without all the necessary facts, but it kept issuing absolute answers with the firm belief it had all the information it required. 
 
 Becaue the gate made decisions so quickly, production was accelerated and, *it seemed*, efficiency had increase by a factor of 3. Executives fell in love with its authority (instant cover), crews learned to fear its freeze and flicker, a sure sign it was about issue a decree, and most likely something bad was going to happen.  
 
@@ -95,26 +86,16 @@ Not all courage gets rewarded. Not all brave things look brave on a spreadsheet.
 She pressed the button. **RISK: ACCEPTED** scrolled in clean, confident letters.  Nothing happened. Maybe it would be OK.
 
 ### Then the screen lit up with alerts: 
-<table style="border-collapse: collapse; border: none; width:100%;">
-  <tr>
-      <td style="vertical-align: top; width:50%; border:none; padding-left:1em; background:transparent;">
-        <img src="assets/riya-boom.png" alt="Riya in her office" />
-      </td>
-	     <td style="vertical-align: top; width:50%; border:none; padding-right:1em; color:inherit; background:transparent;">
-		
+
+![Riya in Her Office](riya-boom.png)
+	
 UNCONTROLLED ATMOSPHERIC 
    FAILURE - SECTION BETA. 
 		
-Failure of the environment  
-   containment system: <a href=glossary#>
-     PROJECT MANAGMENT OFFICE</a><BR>
-       Depressurized<BR> 
-      All HANDS LOST!<BR>
-     EMERGENCY DIRECTIVE: <a href="glossary#">
-RESOURCE LEVELING REQUIRED!</a>
-    </td>
-  </tr>
-</table>
+Failure of the environment - CONTAINMENT SYSTEM: [[3-glossary#project management office|PROJECT MANAGMENT OFFICE]] Depressurized 
+ 
+ All HANDS LOST!:  EMERGENCY DIRECTIVE: [[3-glossary#Resource leveling|RESOURCE LEVELING REQUIRED]]
+
 The assignment hit her queue with an almost tender chime. A second window ghosted in behind it -OPTION: *Accept reassignment or Resign* - the station’s favorite punchline when it wants to feel humane.
 
 **Reassignment:** *Station Lead Project Manager — DST-F.U.B.A.R. 6 Gate Recovery (Immediate)*  

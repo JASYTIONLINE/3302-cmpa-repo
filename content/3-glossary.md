@@ -227,7 +227,10 @@ It follows all beta, pilot, or limited-access phases.
 transition to **operations**, or full delivery.  
 GA is where value realization begins at scale.
 
-### Governance
+
+## Go/Nogo Gate
+Definition: TBP
+## Governance
 Definition: TBP
 
 ## Green Yellow Red Status
@@ -507,6 +510,9 @@ or how to ensure everyone knows their job, RACI is your answer.
 RACI appears in **resource management**, stakeholder alignment, and communication planning.
 
 ## Resource
+Definition: TBP
+
+## Requirement
 Definition: TBP
 
 ## Rework
