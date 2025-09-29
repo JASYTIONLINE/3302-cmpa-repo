@@ -9,6 +9,7 @@ tags:
 draft: false
 date: "2025-09-13"
 ---
+
 # JASYTI's PMP KB (README)
 
 This repository is for my work in CMPA 3302 – Foundations of Information Organization and Management.  The assignment requires building a single-topic knowledge base using GitHub, Obsidian, and Quartz.
