@@ -1,21 +1,10 @@
 ---
 title: "Planning Process Group – ITTOs"
 description: "Inputs, Tools & Techniques, and Outputs for the Planning Process Group."
-tags: [cmpa3302, project-management, ittos, planning, "filename:02-planning-itto.md"]
+tags: [cmpa3302, ittos, planning, project-management]
 draft: false
-date: "2025-09-23"
-permalink: "/kb/02-planning-itto/"
+date: "2025-09-29"
 enableToc: true
-
-aliases: ["Planning ITTOs", "Process Group 02 ITTOs"]
-cssclasses: []
-
-h1: "Planning Process Group – ITTOs"
-course: "cmpa3302"
-filename: "02-planning-itto.md"
-role: "reference"
-function: "kb-page"
-shortcode: "[ref]"
 ---
 
 # 2 — Planning

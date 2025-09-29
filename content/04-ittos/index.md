@@ -1,24 +1,10 @@
 ---
-title: 04-Inputs Tasks Tools and Outputs
-description: Course portal and knowledge base overview for the 5(+1) Process Groups in the Project Management Lifecycle.
-tags:
-  - cmpa3302
-  - project-management
-  - pmp
+title: "ITTOs Overview"
+description: "Portal to Inputs, Tools & Techniques, and Outputs across all project management process groups."
+tags: [cmpa3302, ittos, project-management, pmp]
 draft: false
-date: 2025-09-23
-permalink: /kb/lifecycle-index/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Lifecycle Home
-  - Lifecycle of a Project Index
-cssclasses: []
-h1: PMI Guide to the Lifecycle of a Project – Home
-course: cmpa3302
-filename: index.md
-role: index
-function: category-index
-shortcode: "[idx]"
 ---
 
 ## Inputs Tasks Tools and Outputs Related to Process Groups

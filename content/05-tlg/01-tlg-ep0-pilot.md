@@ -1,13 +1,12 @@
 ---
-title: EP 0 The Last Gate -Episode (pilot)
-description: Book-style narrative draft of The Last Gate pilot, beginning with a mythic Prologue and continuing into full chapter form.
-tags:
-  - the-last-gate
-  - episode-0
-  - manuscript
+title: "The Last Gate — Episode 0 (Pilot)"
+description: "Narrative pilot of The Last Gate: mythic prologue, Riya’s story, and the first glimpse of The Plan."
+tags: [cmpa3302, the-last-gate, story, pilot, narrative]
 draft: false
-date: 2025-09-23
+date: "2025-09-29"
+enableToc: true
 ---
+
 
 # Prologue: The Plan Forgotten
 ![image of Riya and the Team](riya-and-the-team.png)

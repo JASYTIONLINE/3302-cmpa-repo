@@ -1,21 +1,10 @@
 ---
 title: "Executing Process Group – ITTOs"
 description: "Inputs, Tools & Techniques, and Outputs for the Executing Process Group."
-tags: [cmpa3302, project-management, ittos, executing, "filename:03-executing-itto.md"]
+tags: [cmpa3302, ittos, executing, project-management]
 draft: false
-date: "2025-09-23"
-permalink: "/kb/03-executing-itto/"
+date: "2025-09-29"
 enableToc: true
-
-aliases: ["Executing ITTOs", "Process Group 03 ITTOs"]
-cssclasses: []
-
-h1: "Executing Process Group – ITTOs"
-course: "cmpa3302"
-filename: "03-executing-itto.md"
-role: "reference"
-function: "kb-page"
-shortcode: "[ref]"
 ---
 
 # 3 — Executing

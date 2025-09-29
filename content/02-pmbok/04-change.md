@@ -1,14 +1,12 @@
 ---
-title: 4-Change - From a Project Management Perspective
-description: Placeholder content introducing change and configuration control in projects
-tags:
-  - pmbok
-  - change-control
-  - configuration-management
-  - governance
+title: "Change Management"
+description: "Introduction to change and configuration control in project management."
+tags: [cmpa3302, pmbok, change-control, configuration-management, governance]
 draft: false
-date: 2025-09-14
+date: "2025-09-29"
+enableToc: true
 ---
+
 
 # Change - From a Project Management Perspective
 TBP

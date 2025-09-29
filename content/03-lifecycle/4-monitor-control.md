@@ -1,14 +1,12 @@
 ---
-title: 04 Monitoring & Controlling The Plan
-description: Overview of the Monitoring & Controlling Process Group—tracking performance against baselines, managing changes, and steering outcomes toward objectives.
-tags:
-  - cmpa3302
-  - project-management
-  - process-groups
-  - monitoring-and-controlling
+title: "Monitoring and Controlling"
+description: "Overview of the Monitoring & Controlling Process Group—tracking baselines, managing change, and ensuring alignment."
+tags: [cmpa3302, project-management, lifecycle, monitoring, controlling]
 draft: false
-date: 2025-09-14
+date: "2025-09-29"
+enableToc: true
 ---
+
 # Monitoring & Controlling The Plan
 ![[mandc.jpg|200]]
 

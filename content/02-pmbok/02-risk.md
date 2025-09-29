@@ -1,15 +1,12 @@
 ---
-title: 02-Risk
-description: Placeholder content introducing risk response planning and strategies
-tags:
-  - pmbok
-  - risk
-  - risk-response
-  - mitigation
-  - opportunity
+title: "Risk Management"
+description: "Overview of project risk identification, analysis, and response strategies for threats and opportunities."
+tags: [cmpa3302, pmbok, risk, mitigation, opportunity]
 draft: false
-date: 2025-09-14
+date: "2025-09-29"
+enableToc: true
 ---
+
 
 # Risk Management
 

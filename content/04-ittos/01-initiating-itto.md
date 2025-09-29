@@ -1,21 +1,10 @@
 ---
 title: "Initiating Process Group – ITTOs"
 description: "Inputs, Tools & Techniques, and Outputs for the Initiating Process Group."
-tags: [cmpa3302, project-management, ittos, initiating, "filename:01-initiating-itto.md"]
+tags: [cmpa3302, ittos, initiating, project-management]
 draft: false
-date: "2025-09-23"
-permalink: "/kb/01-initiating-itto/"
+date: "2025-09-29"
 enableToc: true
-
-aliases: ["Initiating ITTOs", "Process Group 01 ITTOs"]
-cssclasses: []
-
-h1: "Initiating Process Group – ITTOs"
-course: "cmpa3302"
-filename: "01-initiating-itto.md"
-role: "reference"
-function: "kb-page"
-shortcode: "[ref]"
 ---
 
 # 1 Initiating

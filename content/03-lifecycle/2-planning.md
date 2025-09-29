@@ -1,25 +1,10 @@
 ---
-title: P02 Planning The Plan
-description: Overview of the Planning Process Group, its purpose, key processes, and role in building project baselines.
-tags:
-  - cmpa3302
-  - project-management
-  - process-groups
-  - planning
+title: "Planning the Plan"
+description: "Explains the Planning Process Group—building baselines, management plans, and examples of real planning cycles."
+tags: [cmpa3302, project-management, lifecycle, planning]
 draft: false
-date: 2025-09-23
-permalink: /kb/2-planning-process-group/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Planning Group
-  - Planning Process Group Overview
-cssclasses: []
-h1: Planning Process Group
-course: cmpa3302
-filename: 2-planning-process-group.md
-role: article
-function: kb-page
-shortcode: "[doc]"
 ---
 
 # 02 Preparing The Plan

@@ -1,21 +1,10 @@
 ---
 title: "Monitoring & Controlling Process Group – ITTOs"
 description: "Inputs, Tools & Techniques, and Outputs for the Monitoring & Controlling Process Group."
-tags: [cmpa3302, project-management, ittos, monitoring-controlling, "filename:04-monitor-and-control-itto.md"]
+tags: [cmpa3302, ittos, monitoring, controlling, project-management]
 draft: false
-date: "2025-09-23"
-permalink: "/kb/04-monitor-and-control-itto/"
+date: "2025-09-29"
 enableToc: true
-
-aliases: ["Monitoring & Controlling ITTOs", "Process Group 04 ITTOs"]
-cssclasses: []
-
-h1: "Monitoring & Controlling Process Group – ITTOs"
-course: "cmpa3302"
-filename: "04-monitor-and-control-itto.md"
-role: "reference"
-function: "kb-page"
-shortcode: "[ref]"
 ---
 
 # 4 — Monitoring & Controlling

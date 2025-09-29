@@ -1,25 +1,12 @@
 ---
-title: 02-Lifecycle of a Project – Home
-description: Course portal and knowledge base overview for the 5(+1) Process Groups in the Project Management Lifecycle.
-tags:
-  - cmpa3302
-  - project-management
-  - pmp
+title: "Lifecycle of a Project"
+description: "Portal for the project lifecycle: prerequisites, initiating, planning, executing, monitoring/controlling, and closing."
+tags: [cmpa3302, project-management, pmp, lifecycle]
 draft: false
-date: 2025-09-23
-permalink: /kb/lifecycle-index/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Lifecycle Home
-  - Lifecycle of a Project Index
-cssclasses: []
-h1: PMI Guide to the Lifecycle of a Project – Home
-course: cmpa3302
-filename: index.md
-role: index
-function: category-index
-shortcode: "[idx]"
 ---
+
 ## The Lifecycle of a Project – Home
  ![diagram of the Project lifecycle](lifecycle.jpg)]
  *A Project moves in a linear fashion, but the Phases can circle back on each other*

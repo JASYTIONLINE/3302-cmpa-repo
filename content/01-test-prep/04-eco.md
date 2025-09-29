@@ -1,23 +1,10 @@
 ---
-title: 4-PMI Exam Content Outline
-description: PMI's Written Explanation of the contents and breakdown of the PMI PMP Certification Exam.
-tags:
-  - exam-strategy
-  - test-prep
-  - study-habits
+title: "PMI Exam Content Outline"
+description: "Overview of the ECO — PMI's framework for PMP exam domains, tasks, and enablers."
+tags: [cmpa3302, test-prep, ECO, exam-structure]
 draft: false
-date: 2025-09-23
-permalink: /kb/04-eco/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Exam Prep Essentials
-cssclasses: [n/a]
-h1: Exam Content Outline
-course: cmpa3302
-filename: 04-eco.md
-role: article
-function: kb-page
-shortcode: "[doc]"
 ---
 
 # Project Management Institutes Exam Content Outline

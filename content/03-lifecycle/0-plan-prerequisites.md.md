@@ -1,26 +1,12 @@
 ---
-title: 00 Project Prerequisites
-description: Foundation activities and conditions that must be met before Initiating a project.
-tags:
-  - cmpa3302
-  - project-management
-  - process-groups
-  - pre-project
+title: "Project Prerequisites"
+description: "Foundation activities and conditions that must be met before initiating a project."
+tags: [cmpa3302, project-management, lifecycle, prerequisites]
 draft: false
-date: 2025-09-23
-permalink: /kb/0-pre-project-requirments/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Pre-Project
-  - Pre-Project Requirements – Before Initiation
-cssclasses: []
-h1: Pre-Project Requirements
-course: cmpa3302
-filename: 0-pre-project-requirments.md
-role: reference
-function: kb-page
-shortcode: "[ref]"
 ---
+
 
 # 00 Project Prerequisites
 

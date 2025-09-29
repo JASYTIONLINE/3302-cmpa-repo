@@ -1,26 +1,12 @@
 ---
-title: 03 Executing The Plan
-description: Overview of the Executing Process Group, its purpose, key processes, and role in turning plans into deliverables.
-tags:
-  - cmpa3302
-  - project-management
-  - process-groups
-  - executing
+title: "Executing the Plan"
+description: "Covers the Executing Process Group—coordinated teamwork, communication, and producing deliverables."
+tags: [cmpa3302, project-management, lifecycle, executing]
 draft: false
-date: 2025-09-23
-permalink: /kb/3-executing-process-group/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Executing Group
-  - Executing Process Group Overview
-cssclasses: []
-h1: Executing Process Group
-course: cmpa3302
-filename: 3-executing-process-group.md
-role: article
-function: kb-page
-shortcode: "[doc]"
 ---
+
 # 03 Executing The Plan
 ![[exec.jpg|300]]
 *Executing relies on coordinated teamwork, strong communication, and continuous stakeholder engagement to produce deliverables. The executing phase is where the actual deliverables are created. Up until this point all lines of effort are focused on scaffolding.*

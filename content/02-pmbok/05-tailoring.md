@@ -1,9 +1,10 @@
 ---
-title: Tailoring in PMBOK 6
-description: Placeholder content explaining tailoring in PMBOK 6 and linking forward to PMBOK 7
-tags: [pmbok6, tailoring, processes, adjustment, exam-prep]
+title: "Tailoring in PMBOK 6"
+description: "Explains how PMBOK 6 treats tailoring and contrasts with PMBOK 7’s principle-driven approach."
+tags: [cmpa3302, pmbok, tailoring, processes, adjustment]
 draft: false
-date: 2025-09-14
+date: "2025-09-29"
+enableToc: true
 ---
 
 # Tailoring

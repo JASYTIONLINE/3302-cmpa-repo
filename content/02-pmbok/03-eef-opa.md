@@ -1,14 +1,10 @@
 ---
-title: 3 EEF's and OPA's
-description: Placeholder content explaining enterprise environmental factors in projects
-tags:
-  - pmbok
-  - EEF
-  - environment
-  - constraints
-  - enablers
+title: "EEFs and OPAs"
+description: "Explains enterprise environmental factors and organizational process assets, and their impact on projects."
+tags: [cmpa3302, pmbok, eef, opa, environment, assets]
 draft: false
-date: 2025-09-14
+date: "2025-09-29"
+enableToc: true
 ---
 
 # EEF's and OPA's

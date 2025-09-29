@@ -1,15 +1,12 @@
 ---
-title: 01-Stakeholder Management
-description: Placeholder content introducing stakeholder identification, engagement, and management
-tags:
-  - pmbok
-  - stakeholders
-  - engagement
-  - communication
-  - management
+title: "Stakeholder Management"
+description: "Introduction to stakeholder identification, engagement, and management in PMBOK 6 and 7."
+tags: [cmpa3302, pmbok, stakeholders, engagement, communication]
 draft: false
-date: 2025-09-14
+date: "2025-09-29"
+enableToc: true
 ---
+
 # Stakeholders 
 
 ## Stakeholder Management

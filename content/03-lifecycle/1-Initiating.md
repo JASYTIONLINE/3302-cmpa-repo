@@ -1,25 +1,10 @@
 ---
-title: 01 Initiating The Plan
-description: Overview of the Initiating Process Group, its purpose, key processes, and role in project success.
-tags:
-  - cmpa3302
-  - project-management
-  - process-groups
-  - initiating
+title: "Initiating the Plan"
+description: "Overview of the Initiating Process Group—purpose, key processes, and examples in practice."
+tags: [cmpa3302, project-management, lifecycle, initiating]
 draft: false
-date: 2025-09-23
-permalink: /kb/1-initiating-process-group/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Initiation
-  - Initiating Process Group Overview
-cssclasses: []
-h1: Initiating Process Group
-course: cmpa3302
-filename: 1-Initiating-process-group.md
-role: article
-function: kb-page
-shortcode: "[doc]"
 ---
 
 # 01 Initiating The Plan

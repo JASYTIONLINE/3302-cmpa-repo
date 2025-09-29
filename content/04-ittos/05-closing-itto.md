@@ -1,21 +1,10 @@
 ---
 title: "Closing Process Group – ITTOs"
 description: "Inputs, Tools & Techniques, and Outputs for the Closing Process Group."
-tags: [cmpa3302, project-management, ittos, closing, "filename:05-closing-itto.md"]
+tags: [cmpa3302, ittos, closing, project-management]
 draft: false
-date: "2025-09-23"
-permalink: "/kb/05-closing-itto/"
+date: "2025-09-29"
 enableToc: true
-
-aliases: ["Closing ITTOs", "Process Group 05 ITTOs"]
-cssclasses: []
-
-h1: "Closing Process Group – ITTOs"
-course: "cmpa3302"
-filename: "05-closing-itto.md"
-role: "reference"
-function: "kb-page"
-shortcode: "[ref]"
 ---
 
 # 05 Closing (ITTOs)

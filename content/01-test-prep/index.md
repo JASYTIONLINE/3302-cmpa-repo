@@ -1,13 +1,12 @@
 ---
-title: 01-Test Preparation Tips and Tactics - Home
-description: Course portal and knowledge base on PMP exam preparation.
-tags:
-  - cmpa3302
-  - project-management
-  - pmp
+title: "Test Preparation Tips and Tactics – Home"
+description: "Section home for PMP exam preparation strategies, covering test-day habits, principles, and contextual learning."
+tags: [cmpa3302, test-prep, exam-strategy]
 draft: false
-date: 2025-09-13
+date: "2025-09-29"
+enableToc: true
 ---
+
 ![image of students taking a test](testing.png)
 ## Test Preparation Tips and Tactics - Home
 

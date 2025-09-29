@@ -1,18 +1,10 @@
 ---
-title: 05-The Lore Door
-description: Portal to the Lore and Story of The Last Gate Universe — where satire meets certification.
-author: JASYTI
-tags:
-  - project-management
-  - pmp
-  - sci-fi
-  - the-last-gate
-  - canon
-  - story-mode
+title: "The Lore Door"
+description: "Portal to The Last Gate — a sci-fi narrative that embeds PMP principles into story form."
+tags: [cmpa3302, the-last-gate, story, pmp, narrative]
 draft: false
-date: 2025-09-21
-
-
+date: "2025-09-29"
+enableToc: true
 ---
 
 # The Lore Door  

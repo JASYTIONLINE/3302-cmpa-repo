@@ -1,31 +1,10 @@
 ---
-title: The Fire Beneath the Code (ep 0.1) (h)
-description: A lore-driven retelling of the Agile Manifesto's history, told by JASYTI — part myth, part memory, all Plan.
-tags:
-  - cmpa3302
-  - backstory
-  - agile-manifesto
-  - the-plan
-  - jasyti-perspective
-  - lore-narrative
-  - manifesto-origins
-draft: true
-date: 2025-09-23
-permalink: /kb/02-tlg-rp1-agile-manifesto(h)/
+title: "The Fire Beneath the Code (Agile Manifesto Retelling)"
+description: "A lore-driven retelling of the Agile Manifesto’s origins, blending myth, memory, and The Plan."
+tags: [cmpa3302, the-last-gate, agile-manifesto, backstory, lore]
+draft: false
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Fire Beneath the Code
-  - Lore Narrative — Agile Origins
-cssclasses:
-  - sc-std
-h1: The Fire Beneath the Code
-author: JASYTI (narrated)
-course: cmpa3302
-filename: the-fire-beneath-the-code.md
-role: article
-function: kb-page
-shortcode: "[doc]"
-story-scene: Commlink Reflection with Riya
 ---
 
 # The Fire Beneath the Code

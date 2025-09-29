@@ -1,16 +1,10 @@
 ---
-title: Ep 0.1 The Fire Beneath the Code
-description: A lore-driven retelling of the Agile Manifesto's history, told by JASYTI — part myth, part memory, all Plan.
-tags:
-  - backstory
-  - agile-manifesto
-  - the-plan
-  - jasyti-perspective
-  - lore-narrative
-  - manifesto-origins
+title: "The Fire Beneath the Code — Episode 0.1"
+description: "Episode 0.1 of The Last Gate: Riya faces chaos as The Plan and Agile principles weave into her story."
+tags: [cmpa3302, the-last-gate, agile, story, episode-0.1]
 draft: false
-date: 2025-09-23
-course: cmpa3302
+date: "2025-09-29"
+enableToc: true
 ---
 
 # The Fire Beneath the Code

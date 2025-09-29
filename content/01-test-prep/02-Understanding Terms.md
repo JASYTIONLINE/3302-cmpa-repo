@@ -1,3 +1,11 @@
+---
+title: "Understanding Terms in Project Management"
+description: "Focus on key terms, artifacts, and deliverables for PMP exam success, emphasizing context over memorization."
+tags: [cmpa3302, test-prep, terminology, glossary]
+draft: false
+date: "2025-09-29"
+enableToc: true
+---
 # Understanding Terms in Project Management
 
 In PMBOK study and practice, **terms matter** because they represent the core “things” of project management. Terms like: [[3-glossary#artifact|Artifacts, ]][[3-glossary#deliverable|Deliverables, ]][[3-glossary#role|Roles]] are all examples of the terminology used in [[3-glossary#Project Management|Project Management]] and found in the [[01-test-prep/04-eco.md|PMI Exam Content Outline.]]  Every process is built core values but convey through specific terminology that defines what is being created, tracked, or handed off. 

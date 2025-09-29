@@ -1,12 +1,10 @@
 ---
-title: 03-PMBOK 6 Explained
-description: Your memorization hub for PMBOK 6—process groups, 49 processes, and ITTO patterns—linked to sections that explain, apply, and score.
-tags:
-  - cmpa3302
-  - project-management
-  - pmp
+title: "PMBOK 6 Explained"
+description: "Memorization hub for PMBOK 6: process groups, ITTO patterns, and knowledge areas, linked to applied sections."
+tags: [cmpa3302, project-management, pmp, pmbok]
 draft: false
-date: 2025-09-14
+date: "2025-09-29"
+enableToc: true
 ---
 
 # Project Management Body of Knowledge

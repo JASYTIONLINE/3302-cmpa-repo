@@ -1,23 +1,10 @@
 ---
-title: PMI Project Managment Principles
-description: Core strategies for PMP exam readiness, covering healthy habits, test-day tactics, and principle-driven decision-making.
-tags:
-  - exam-strategy
-  - test-prep
-  - study-habits
+title: "PMI Project Management Principles"
+description: "Principle-driven strategies for applying project management concepts in both exam scenarios and practice."
+tags: [cmpa3302, test-prep, principles, exam-strategy]
 draft: false
-date: 2025-09-23
-permalink: /kb/03-principles/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Exam Prep Essentials
-cssclasses: []
-h1: Test Preparation Essentials
-course: cmpa3302
-filename: 03-principles.md
-role: article
-function: kb-page
-shortcode: "[doc]"
 ---
 
 # Project Management Principles 

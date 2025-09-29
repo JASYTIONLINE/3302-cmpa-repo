@@ -1,27 +1,11 @@
 ---
-title: 05 Closing The Plan
-description: Overview of the Closing Process Group, its purpose, key processes, and role in final acceptance, handoff, and lessons learned.
-tags:
-  - cmpa3302
-  - project-management
-  - process-groups
-  - closing
+title: "Closing the Plan"
+description: "Explains the Closing Process Group—final acceptance, handoff, resource release, and lessons learned."
+tags: [cmpa3302, project-management, lifecycle, closing]
 draft: false
-date: 2025-09-23
-permalink: /kb/5-closing-process-group/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Closing Group
-  - Closing Process Group Overview
-cssclasses: []
-h1: Closing Process Group
-course: cmpa3302
-filename: 5-closing-process-group.md
-role: article
-function: kb-page
-shortcode: "[doc]"
 ---
-
 
 # 05 Closing The Plan
 

@@ -1,25 +1,12 @@
 ---
-title: Test Preparation Essentials
-description: Core strategies for PMP exam readiness, covering healthy habits, test-day tactics, and principle-driven decision-making.
-tags:
-  - cmpa3302
-  - exam-strategy
-  - test-prep
-  - study-habits
+title: "Test Preparation Essentials"
+description: "Core strategies for PMP exam readiness, including healthy habits, test-day tactics, and principle-driven reasoning."
+tags: [cmpa3302, test-prep, exam-strategy, study-habits]
 draft: false
-date: 2025-09-23
-permalink: /kb/01-test-prep/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Exam Prep Essentials
-cssclasses: []
-h1: Test Preparation Essentials
-course: cmpa3302
-filename: 01-test-prep.md
-role: article
-function: kb-page
-shortcode: "[doc]"
 ---
+
 
 # Test Preparation Essentials
 
