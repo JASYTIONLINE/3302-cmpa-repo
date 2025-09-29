@@ -100,8 +100,13 @@ Definition: TBP
 Definition: TBP
 
 ## Communications Management Plan
+Definition: TBP
+
 ### Communication Plan
  Definition: TBP
+
+## Compliance
+Definition: TBP
 
 ## Constraint
 Definition: TBP
@@ -278,12 +283,44 @@ Definition: TBP
 ## Iterative
 Definition: TBP
 
-## Issue:
+### Issue:
 Definition: TBP
+### Issue Log  
 
----
+#### Definition  
+A project document used to record and track issues that require resolution. Each entry typically includes the issue description, owner, priority, status, and target resolution date.  
+#### Context  
+In PMI’s framework, an issue log is created during the **Manage Project Team** or **Direct and Manage Project Work** processes and is maintained throughout the project.  
+Unlike a [risk register](#risk-register), which documents uncertain events, the issue log tracks **problems that have already occurred** and must be addressed.  
+On the exam, recognizing the difference between **potential risks** (future, uncertain) and **issues** (present, real) is critical.  
+#### Exam Cue  
+On the exam, the [issue log](#issue-log) appears when the project manager must document and monitor an existing problem and assign responsibility for resolution.  
+Do not confuse this with the [risk register](#risk-register), which deals with uncertain future events.  
+### Sample Question 1  
+A team member reports that a critical supplier has already missed two deliveries, delaying work on a major component. What should the project manager do first?  
+
+**Answer Choices (with why)**  
+
+- **A. Update the risk register with the supplier problem.**  
+  ❌ Wrong. The risk register is for potential future events, not current problems.  
+  **Why:** This is not a risk; it is an issue that has already occurred.  
+
+- **B. Document the situation in the issue log and assign an owner.**  
+  ✅ Correct. The supplier delay is an active problem, so it must be logged and tracked in the issue log.  
+  **Why:** PMI expects the issue log to be the formal tool for monitoring and resolving existing issues.  
+
+- **C. Escalate the problem immediately to the project sponsor.**  
+  ❌ Wrong. Escalation may be necessary later, but the first step is to log and assign the issue for tracking.  
+  **Why:** Proper process is to capture and manage the issue before escalating.  
+
+- **D. Add a new risk response to account for supplier delays.**  
+  ❌ Wrong. A response plan belongs in the risk register for uncertain future risks, not current issues.  
+  **Why:** This event has already happened and must be managed as an issue.  
+
+--- 
+
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
-### J
+## J
 [[#Glossary|Top]]
 ### Job Hazard/Safety Analysis
 #### H&S  
@@ -326,7 +363,10 @@ Definition
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ### L
 [[#Glossary|Top]]
-### Lessons Learned Register  
+
+## Lessons Learned
+Definition: TBP
+## Lessons Learned Register  
 **Definition.** A project document used to record knowledge gained  
 during the project—what went well, what didn’t, and recommendations for future efforts.  
 It’s updated throughout the project and finalized at closure.
@@ -562,6 +602,46 @@ Definition: TBD
 ## Strategic Objective
 Definition: TBP
 
+## Sustainable Development  
+### SD  
+
+##### Definition  
+Development that meets present needs without compromising the ability of future generations to meet their own needs, achieved by balancing economic growth, environmental protection, and social responsibility.  
+
+##### Context  
+In the PMP framework, [SD](#sd) connects directly to **PMI’s Code of Ethics and Professional Conduct** and the **ECO’s Business Environment domain**.  
+It emphasizes that projects should create value not only for immediate stakeholders but also for society and the environment over the long term.  
+On the exam, it may be contrasted with purely financial success metrics, reminding candidates that project outcomes must consider environmental and social impacts alongside cost and schedule.  
+
+##### Exam Cue  
+On the exam, [SD](#sd) is tested as the principle of ensuring projects deliver long-term value while minimizing harm to people and the environment.  
+If a question asks about balancing profit, social benefit, and environmental impact, the correct perspective is sustainable development.  
+
+#### Sample Question 1  
+A project team is pressured to cut costs by using cheaper materials. This option would meet budget goals but would increase environmental waste and reduce the community’s trust in the organization.  
+What should the project manager do?  
+
+**Answer Choices (with why)**  
+
+- **A. Approve the cheaper materials to satisfy the budget.**  
+  ❌ Wrong. Short-term cost savings do not align with sustainability goals and can damage reputation.  
+  **Why:** PMP standards require consideration of long-term social and environmental impacts.  
+
+- **B. Escalate the decision to the sponsor for financial approval.**  
+  ❌ Wrong. Escalation ignores the project manager’s duty to advocate for sustainable practices.  
+  **Why:** PMI expects project managers to incorporate ethics and sustainability into decisions.  
+
+- **C. Recommend an option that meets requirements while considering environmental and social impacts.**  
+  ✅ Correct. Sustainable development means balancing cost, environmental, and social concerns.  
+  **Why:** This aligns with PMI’s business environment focus and sustainable value delivery.  
+
+- **D. Delay the decision until after the next phase gate review.**  
+  ❌ Wrong. Deferring the issue avoids responsibility and can lead to poor outcomes.  
+  **Why:** Proactive decision-making is required to align with sustainability principles.  
+
+## System
+Definition: TBP
+
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -607,6 +687,9 @@ It’s not technical verification (that’s Quality Control), it’s business va
 Expect this in scope management, customer satisfaction, or project closure questions.
 
 ##  Value
+Definition: TBP
+
+## Value Delivery
 Definition: TBP
 
 ## Vendor
