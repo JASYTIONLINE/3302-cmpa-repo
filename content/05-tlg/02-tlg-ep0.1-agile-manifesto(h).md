@@ -1,9 +1,14 @@
 ---
-title: "The Fire Beneath the Code (Agile Manifesto Retelling)"
-description: "A lore-driven retelling of the Agile Manifesto’s origins, blending myth, memory, and The Plan."
-tags: [cmpa3302, the-last-gate, agile-manifesto, backstory, lore]
-draft: false
-date: "2025-09-29"
+title: The Fire Beneath the Code (Agile Manifesto Retelling)
+description: A lore-driven retelling of the Agile Manifesto’s origins, blending myth, memory, and The Plan.
+tags:
+  - cmpa3302
+  - the-last-gate
+  - agile-manifesto
+  - backstory
+  - lore
+draft: true
+date: 2025-09-29
 enableToc: true
 ---
 
