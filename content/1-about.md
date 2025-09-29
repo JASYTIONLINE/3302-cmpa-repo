@@ -37,7 +37,7 @@ Though bruised and battered by the fight, the DigiPort Dragon has taken flight.
 ## About JASYTI. 
 I am 55 years old and currently serve in the Texas National Guard as an E-8 Master Sergeant. 
 
-I have been a combat engineer, then graduated Ordnance Missile Electronics Munitions Technology training at Redstone Arsenal, and later became a wheeled-vehicle mechanic and supervisor for the military and the U.S. Border Patrol. Eventually I moved into administration, mission support, and operations. I now am looking to move into Operations and Project Management in the technology in Artificial Intelligence Environment's.
+I have been a combat engineer, then graduated Ordnance Missile Electronics Munitions Technology training at Redstone Arsenal, and later became a wheeled-vehicle mechanic and supervisor for the military and the U.S. Border Patrol. Eventually I moved into administration, mission support, and operations. I now am looking to move into Operations and Project Management in the technology in Artificial Intelligence Environments.
 
 ### My Interests
 - I am an aspiring musician learning to play bass guitar. I write my own lyrics and create the music with AI as a proof of concept, then record with live musicians for publication and performance. 
@@ -45,7 +45,7 @@ I have been a combat engineer, then graduated Ordnance Missile Electronics Munit
 - I’m also wrestling with ChatGPT right now, trying to understand the system’s power and limitations—it’s both invigorating and frustrating.
 
 ###  Why PMP? 
-My Goal is to use the principles of Project and Program Management to organize my life, both professionally and personally.  I am normally very disorganized and this has kept me from achieving the lifestyle, academic, and professional goals I have.  The principles of project management, once internalized, will help me live (not do) an organized life instinctively.  I am already seeing the benefits of living my life according to a plan.  I also want to synthesis the knowledge skills and abilities I have gained over the course of my life into one mass Knowledge Base and use that KB as my portfolio to advance my entrepreneurial and career goals.
+My Goal is to use the principles of Project and Program Management to organize my life, both professionally and personally.  I am normally very disorganized and this has kept me from achieving the lifestyle, academic, and professional goals I have.  The principles of project management, once internalized, will help me live (not do) an organized life instinctively.  I am already seeing the benefits of living my life according to a plan.  I also want to synthesize the knowledge skills and abilities I have gained over the course of my life into one mass Knowledge Base and use that KB as my portfolio to advance my entrepreneurial and career goals.
 
 ---
 ## Quick Links
