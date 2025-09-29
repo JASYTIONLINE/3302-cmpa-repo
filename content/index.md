@@ -38,7 +38,7 @@ This site is organized into **categories**, each representing a major domain of 
 Here’s how to navigate effectively:
 
 1. **Start with Quick Links**  
-   - Use the **Quick Links panel** below to jump directly to About, References, Glossary, or the repository README.  
+   - Use the **Quick Links panel** below to jump directly to About, References, Glossary, or the repository README.  Generaly: Quick links take you to other pages in the same folder and Navigation Links take you to other index pages in related catagories outside the folders.
    - These pages give you context and supporting resources.  
 
 2. **Explore Main Categories**  
