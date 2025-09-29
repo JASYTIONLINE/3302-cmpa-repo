@@ -1,27 +1,14 @@
 ---
-title: 2 References
-description: Centralized, canonical references for PMI, TTU syllabi, case studies, and international standards.
-tags:
-  - cmpa3301
-  - cmpa3302
-  - references
-  - bibliography
+
+title: "References"
+description: "Canonical references for PMI standards, TTU course syllabi, and supporting case studies."
+tags: [cmpa3302, references, bibliography]
 draft: false
-date: 2025-09-23
-permalink: /kb/references/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - Bibliography
-  - Source List
-cssclasses:
-  - sc-std
-h1: References
-course: general
-filename: references.md
-role: reference
-function: kb-page
-shortcode: "[ref]"
+
 ---
+
 # References
 
 ## PM Core Materials

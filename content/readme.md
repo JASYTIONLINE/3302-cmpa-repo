@@ -1,14 +1,14 @@
 ---
-title: "CMPA 3302 Knowledge Base Repository (ReadMe)"
-description: "First README for CMPA 3302. States the topic, explains structure, and points to the live site."
-tags:
-  - cmpa3302
-  - readme
-  - project-management
-  - pmp
+
+title: "Repository README"
+description: "Repository overview for CMPA 3302 knowledge base: structure, topic, and purpose."
+tags: [cmpa3302, readme, project-management, pmp]
 draft: false
-date: "2025-09-13"
+date: "2025-09-29"
+enableToc: true
+
 ---
+
 # JASYTI's PMP KB (README)
 
 This repository is for my work in CMPA 3302 – Foundations of Information Organization and Management.  The assignment requires building a single-topic knowledge base using GitHub, Obsidian, and Quartz.

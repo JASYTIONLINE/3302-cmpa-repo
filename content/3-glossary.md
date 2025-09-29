@@ -1,26 +1,12 @@
 ---
-title: 3 Glossary
-description: A-Z glossary of PMP/ECO-aligned terms with exam cues and related links.
-tags:
-  - cmpa3302
-  - glossary
-  - reference
+title: "Glossary"
+description: "A-Z glossary of PMP/ECO-aligned terms with exam cues and related links."
+tags: [cmpa3302, glossary, reference]
 draft: false
-date: 2025-09-23
-permalink: /kb/04-glossary/
+date: "2025-09-29"
 enableToc: true
-aliases:
-  - PMP Glossary
-  - Project Management Glossary
-cssclasses:
-  - sc-std
-h1: Glossary
-course: cmpa3302
-filename: 04-glossary.md
-role: reference
-function: kb-page
-shortcode: "[ref]"
 ---
+
 # Glossary
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]

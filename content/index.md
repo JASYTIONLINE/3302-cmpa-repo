@@ -1,12 +1,10 @@
 ---
 title: "CMPA 3302 Knowledge Base Portal"
 description: "Home hub for course navigation and PMP study materials."
-tags:
-  - cmpa3302
-  - project-management
-  - pmp
+tags: [cmpa3302, project-management, pmp]
 draft: false
-date: "2025-09-24"
+date: "2025-09-29"
+enableToc: true
 ---
 ![Digiport Ai Dragon Mascot](assets/dragon.png)
 # JASYTI's Project Management Professional Knowledge Base – HOME
