@@ -46,7 +46,7 @@ Here’s how to navigate effectively:
    - Categories are interconnected with “Related Categories” links to support discovery.  
 
 3. **Use the Glossary**  
-   - Throughout the site are in line links to terms in teh [[#glossary]] 
+   - Throughout the site are in line links to terms in the [[#glossary]] 
    - The Glossary provides quick definitions of key project management terms.
    - It also contextual clarifications to help you internalize and understand the term as opposed to just memorizing its definition.  
 
@@ -59,7 +59,7 @@ Here’s how to navigate effectively:
 
 By combining structured navigation with inter-page links, the site supports **search, browse, and discovery** — the three main ways users interact with organized information.  
 
-👉 And if you want a break from study, make sure to enjoy the story woven through this site: **[[05-tlg/index|The Last Gate]]** — a narrative experiment in blending fiction with project management principles.
+NOTE: If you want to Study without Studying and break free from the hum drum stanard form of study, make sure to enjoy the story woven through this site: **[[05-tlg/index|The Last Gate]]** — a narrative experiment in blending fiction with project management principles.
 
 ---
 
@@ -68,7 +68,6 @@ By combining structured navigation with inter-page links, the site supports **se
 - [[2-references|References]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
-- [[2-references.md|References]]
 
 ---
 

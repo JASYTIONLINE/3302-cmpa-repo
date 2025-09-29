@@ -1,5 +1,5 @@
 ---
-title: 1 About JASYTI.
+title: 1 About JASYTI
 description: Who I am (JASYTI), why this knowledge base exists, and why I chose PMP as my single topic for CMPA 3302.
 tags:
   - about
@@ -9,9 +9,12 @@ tags:
 draft: false
 date: 2025-09-13
 ---
-#  I am JASYTI.
+
+# I am JASYTI
 ![Image of the Author-JASSETY](jasyti.png)
+
 ---
+
 **Beneath the code, in a tangled web, a dragon stirred and raised his head.**  
 Confused by paths and broken links, he dreamed of flight — but couldn’t think.
 
@@ -47,7 +50,7 @@ My Goal is to use the principles of Project and Program Management to organize m
 ---
 ## Quick Links
 - [[index.md|JASYTI's PMP KB – HOME]]
-- [[#I am JASYTI.|About JASYTI]]
+- [[#I am JASYTI|About JASYTI]]
 - [[3-glossary|Glossary]]
 - [[readme|Repository README]]
 - [[2-references.md|References]]
