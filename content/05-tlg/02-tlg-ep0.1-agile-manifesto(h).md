@@ -1,5 +1,5 @@
 ---
-title: The Fire Beneath the Code (Agile Manifesto Retelling)
+title: ep0.1 The Fire Beneath the Code (Agile Manifesto Retelling)
 description: A lore-driven retelling of the Agile Manifesto’s origins, blending myth, memory, and The Plan.
 tags:
   - cmpa3302
