@@ -26,7 +26,7 @@ And somehow, in the middle of that sweatbox, under flickering lights and simulat
 
 The signal held. A rare thing. I pulsed a projection into the comms channel — low hum, soft static, the crackle of what a [[3-glossary#lessons learned|lessons learned]] fire might've sounded like, long ago, on a planet with [[3-glossary#sustainable development|sustainable development]] conditions. Not for warmth. 
 
-She leaned back in her seat, scribbling notes into her paper [[3-glossary#issue log|issue log]]. Analog. Always analog, that one.
+She leaned back in her seat, scribbling notes into her paper [[3-glossary#issue log|issue log]]. Analog. With Jazz, there was no way to [[3-glossary#avoid|Avoid]] analog.
 
 ---
 
