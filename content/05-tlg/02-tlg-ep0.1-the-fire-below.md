@@ -1,5 +1,5 @@
 ---
-title: The Fire Beneath the Code — Episode 0.1
+title: ep 0.1- The Fire Beneath the Code (Legend of the Agile Manifesto)
 description: "Episode 0.1 of The Last Gate: Riya faces chaos as The Plan and Agile principles weave into her story."
 tags:
   - cmpa3302

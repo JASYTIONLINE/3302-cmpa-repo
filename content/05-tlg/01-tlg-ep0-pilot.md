@@ -1,9 +1,14 @@
 ---
-title: "The Last Gate — Episode 0 (Pilot)"
+title: ep 0 -The Last Gate -The Plan Forgotten (Pilot)
 description: "Narrative pilot of The Last Gate: mythic prologue, Riya’s story, and the first glimpse of The Plan."
-tags: [cmpa3302, the-last-gate, story, pilot, narrative]
+tags:
+  - cmpa3302
+  - the-last-gate
+  - story
+  - pilot
+  - narrative
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
