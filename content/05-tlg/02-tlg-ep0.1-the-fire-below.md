@@ -1,9 +1,13 @@
 ---
-title: "The Fire Beneath the Code — Episode 0.1"
+title: The Fire Beneath the Code — Episode 0.1
 description: "Episode 0.1 of The Last Gate: Riya faces chaos as The Plan and Agile principles weave into her story."
-tags: [cmpa3302, the-last-gate, agile, story, episode-0.1]
+tags:
+  - cmpa3302
+  - the-last-gate
+  - agile
+  - story
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # The Fire Beneath the Code
@@ -17,11 +21,11 @@ Her shirt clung in streaks of effort, salt and stubbornness stitched into the se
 
  She looked... composed in chaos. Not composed like a [[3-glossary#baseline|performance baseline]] — no, never that. Composed like someone who knew the [[3-glossary#requirement|requirements]] were unclear, the [[3-glossary#schedule|schedule]] was on fire, and still refused to break pace. Hair tied back in a frayed band. A smudge of grease on her cheek she hadn’t noticed. Cheekbones like corner lines. Eyes scanning, always scanning, even when they were still.
 
-And somehow, in the middle of that sweatbox, under flickering lights and simulated flames, she looked more aligned with [[3-glossary#project managment plan|The Plan]] than any executive ever did in dress whites. There was no ceremony. Just presence, pacing, and quiet [[3-glossary|value delivery]].
+And somehow, in the middle of that sweatbox, under flickering lights and simulated flames, she looked more aligned with [[3-glossary#Project Management Plan|The Plan]] than any executive ever did in dress whites. There was no ceremony. Just presence, pacing, and quiet [[3-glossary#value delivery|value delivery]].
 
 The signal held. A rare thing. I pulsed a projection into the comms channel — low hum, soft static, the crackle of what a [[3-glossary#lessons learned|lessons learned]] fire might've sounded like, long ago, on a planet with [[3-glossary|sustainable development]] conditions. Not for warmth. 
 
-She leaned back in her seat, scribbling notes into her paper [issue log](#issue-log). Analog. Always analog, that one.
+She leaned back in her seat, scribbling notes into her paper [[3-glossary#requirement|]]. Analog. Always analog, that one.
 
 ---
 
