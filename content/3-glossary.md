@@ -12,15 +12,22 @@ enableToc: true
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ## A
 ---
-### Actual Cost
-#### AC
-##### Definition:
-The realized cost incurred for the work performed on an activity during a specific time period.  
-##### Context:
-Actual Cost is exactly what it sounds like: how much money you’ve *actually* spent. It’s not a plan, and it’s not earned — it’s just what has been paid. Unlike [[#Planned Value|Planned Value (PV)]] and [[#Earned Value|Earned Value (EV)]], which are about expectations or progress, AC is the raw number pulled from your financial records. If you see: “How much did we spend so far?”, you’re talking about AC. Because it reflects *only completed work*, it’s also key in [[#variance]] and [[#forecasting]] metrics like [[#CPI|CPI]] and [[#EAC|EAC]].
-##### Exam cue:  
-> *You’re asked how much has been* ***spent so far*** *on a task or phase, regardless of planned budget or work completed.  
-> The correct answer is usually* **Actual Cost (AC)**, *because that’s the number that reflects actual expenses incurred.*
+### Actual Cost  
+#### AC  
+
+##### Definition  
+The total expenditure incurred for completed project work during a specific time period, including labor, materials, equipment, and overhead.  
+
+##### Context  
+In PMI’s earned value management framework, [AC](#ac) is one of the three core data points, along with [EV](#ev) and [PV](#pv).  
+It reflects the **money already spent**, drawn directly from financial records.  
+AC is essential for interpreting performance indicators like [CPI](#cpi) and [EAC](#eac).  
+On the exam, questions will test whether you can distinguish AC (actual spending) from EV (value earned) and PV (planned progress).  
+
+##### Exam Cue  
+On the exam, [AC](#ac) is tested as the metric that answers: *“How much has been spent so far?”*  
+It is always based on actual expenditures, not on planned or projected values.  
+Do not confuse it with [PV](#pv), which is planned work, or [EV](#ev), which is earned progress.  
 
 ### Agile Practice Guide
 Definition:
@@ -35,7 +42,7 @@ The Agile Practice Guide is essential for PMP exam prep because the exam include
 - [PMI Study Hall – Exam Preparation Tool](https://www.pmi.org/certifications/certification-resources/pmi-study-hall?utm_source_misc=examsimulator_PMP)
 
 
-## Alignment
+### Alignment
 Definition: TBP
 
 ### Artifact
@@ -69,6 +76,9 @@ Near-term items are detailed, long-term items stay light until refined.
 Definition: TBP
 
 ## Business Case
+Definition: TBP
+
+### Business Environment
 Definition: TBP
 
 ### Blocker
@@ -439,6 +449,8 @@ Definition" TBD
 ### P
 [[#Glossary|Top]]
 
+## People
+Definition: TBP
 ## People Centric
 Definition: TBP
 
@@ -492,14 +504,17 @@ Definition: TBP
 ## Project Management Lifecycle
 Definition: TBP
 
-## Project Management Plan
+### Project Management Plan
 Definition: TBP
 
-## Project Manager
+### Project Manager
 Definition: TBP
 
-## Project Team
+### Project Team
 Definition
+
+### Purpose
+Definition:
 
 ---
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
@@ -620,7 +635,7 @@ On the exam, it may be contrasted with purely financial success metrics, remindi
 On the exam, [SD](#sd) is tested as the principle of ensuring projects deliver long-term value while minimizing harm to people and the environment.  
 If a question asks about balancing profit, social benefit, and environmental impact, the correct perspective is sustainable development.  
 
-#### Sample Question 1  
+#### Sample Question   
 A project team is pressured to cut costs by using cheaper materials. This option would meet budget goals but would increase environmental waste and reduce the community’s trust in the organization.  
 What should the project manager do?  
 

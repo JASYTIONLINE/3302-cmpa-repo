@@ -1,9 +1,13 @@
 ---
-title: "The Fire Beneath the Code — Episode 0.1"
+title: The Fire Beneath the Code — Episode 0.1
 description: "Episode 0.1 of The Last Gate: Riya faces chaos as The Plan and Agile principles weave into her story."
-tags: [cmpa3302, the-last-gate, agile, story, episode-0.1]
+tags:
+  - cmpa3302
+  - the-last-gate
+  - agile
+  - story
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # The Fire Beneath the Code
