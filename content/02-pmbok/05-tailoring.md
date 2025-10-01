@@ -8,7 +8,7 @@ enableToc: true
 ---
 
 # Tailoring
-
+ [[2-references.md|References]]
 In Project Management, **tailoring is treated as practical advice** rather than a core concept. It reminds project managers that the 49 processes, ITTOs, and knowledge areas should not be applied blindly. Instead, teams are encouraged to adjust the level of rigor based on project size, complexity, and environment. Tailoring here means *choosing which processes to emphasize, streamline, or omit* so the framework fits the project context.  
 
 Examples include simplifying documentation for a small internal effort or expanding quality controls for a regulated industry project. While tailoring is acknowledged, it does not alter the process-based structure of PMBOK 6.  

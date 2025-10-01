@@ -1,14 +1,18 @@
 ---
-title: "Planning the Plan"
-description: "Explains the Planning Process Group—building baselines, management plans, and examples of real planning cycles."
-tags: [cmpa3302, project-management, lifecycle, planning]
+title: 2 Preparing the Plan
+description: Explains the Planning Process Group—building baselines, management plans, and examples of real planning cycles.
+tags:
+  - cmpa3302
+  - project-management
+  - lifecycle
+  - planning
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
 # 02 Preparing The Plan
-
+ [[2-references.md|References]]
 ![image of man and woman planning a project](plan.jpg)
 The [[3-glossary#Planning Process Group|Planning Process Group]] establishes the roadmap for the project by transforming [[3-glossary#Intent|intent]] into a [[3-glossary#Project Management Plan|workable plan.]] In this group, the team narrowly defines [[3-glossary#Scope|scope,]] estimates [[3-glossary#Effort|effort]] and [[3-glossary#Duration|duration]]. The [[3-glossary#Project Management Plan|project plan]] defines the [[3-glossary#Workflow|workflow]] by sequencing work. The [[3-glossary#Planning Team|Planning Team]] builds the schedule and budget, create a [[3-glossary#Quality Management Plan|plan to manage quality]] and [[3-glossary#Communications Management Plan|establishes communication protocols.]]  [[3-glossary#Risk|Risks]] are identified and [[3-glossary#Risk Response|responses]] are codified in the [[3-glossary#Risk Management Plan|Risk Management Plan.]] Planning is [[3-glossary#Iterative|iterative]] and integrative: as new information emerges, the plan may be refined to keep the project aligned with [[3-glossary#Strategic Objective|objectives]] and [[3-glossary#Constraint|constraints.]]
 

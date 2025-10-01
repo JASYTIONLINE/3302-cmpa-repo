@@ -40,7 +40,7 @@ She leaned back in her seat, scribbling notes into her paper [[3-glossary#issue 
 - [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
+- [[README|Repository README]]
 - [[2-references.md|References]]
 
 ---

@@ -8,6 +8,7 @@ enableToc: true
 ---
 
 ## Inputs Tasks Tools and Outputs Related to Process Groups
+ [[2-references.md|References]]
 ![an image a diagram showing the relations ships between ITTOs](ittos.jpg)
 ## Place Holder
 
@@ -16,7 +17,7 @@ enableToc: true
 - [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
+- [[README|Repository README]]
 - [[2-references.md|References]]
 
 ---

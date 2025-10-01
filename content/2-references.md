@@ -75,7 +75,7 @@ enableToc: true
 - [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
+- [[README|Repository README]]
 - [[#References]]
 
 ---

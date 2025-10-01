@@ -159,7 +159,7 @@ Continue the story: [[02-tlg-ep0.1-the-fire-below|Meet JASYTI – and learn abou
 - [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
+- [[README|Repository README]]
 - [[2-references.md|References]]
 
 ---

@@ -1,13 +1,18 @@
 ---
-title: "Planning Process Group – ITTOs"
-description: "Inputs, Tools & Techniques, and Outputs for the Planning Process Group."
-tags: [cmpa3302, ittos, planning, project-management]
+title: 2 Planning Process - ITTOs
+description: Inputs, Tools & Techniques, and Outputs for the Planning Process Group.
+tags:
+  - cmpa3302
+  - ittos
+  - planning
+  - project-management
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
-# 2 — Planning
+# Planning Process ITTOs
+ [[2-references.md|References]]
 - Project management plan
 - Project documents (plans/baselines/sub-plans)
 - Requirements traceability

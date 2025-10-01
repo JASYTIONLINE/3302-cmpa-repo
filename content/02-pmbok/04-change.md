@@ -9,7 +9,7 @@ enableToc: true
 
 
 # Change - From a Project Management Perspective
-TBP
+ [[2-references.md|References]]
 ## Is Change Bad in PM
 TBP
 

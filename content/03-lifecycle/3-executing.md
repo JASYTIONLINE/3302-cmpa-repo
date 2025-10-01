@@ -1,14 +1,19 @@
 ---
-title: "Executing the Plan"
-description: "Covers the Executing Process Group—coordinated teamwork, communication, and producing deliverables."
-tags: [cmpa3302, project-management, lifecycle, executing]
+title: 3 Executing the Plan
+description: Covers the Executing Process Group—coordinated teamwork, communication, and producing deliverables.
+tags:
+  - cmpa3302
+  - project-management
+  - lifecycle
+  - executing
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
-
-# 03 Executing The Plan
-![[exec.jpg|300]]
+# Executing The Plan
+ [[2-references.md|References]]
+ ![[exec.jpg|300]]
+ 
 *Executing relies on coordinated teamwork, strong communication, and continuous stakeholder engagement to produce deliverables. The executing phase is where the actual deliverables are created. Up until this point all lines of effort are focused on scaffolding.*
 
 The **Executing Process Group** is where the [[3-glossary#Project Management Plan|plan]] becomes action—and action becomes [[3-glossary#Deliverable|deliverables.]]The [[3-glossary#Project Manager|Project Manager]] and [[3-glossary#Project Team|Project Team]] coordinate people, [[3-glossary#resource|resources]], and vendors to perform the [[3-glossary#WBS|work defined]] in the plan, while the [[3-glossary#Communications Plan|communications plan]] keeps everyone informed. The risk management plan puts response mechanisms in place so anticipated risks can be handled if they become events, and execution remains aligned with [[4-monitor-control|Monitoring and Controlling]] to help keep deliverables on time and to standard.  

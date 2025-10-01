@@ -6,8 +6,8 @@ draft: false
 date: "2025-09-29"
 enableToc: true
 ---
-
 ## The Lifecycle of a Project – Home
+ [[2-references.md|References]]
  ![diagram of the Project lifecycle](lifecycle.jpg)]
  *A Project moves in a linear fashion, but the Phases can circle back on each other*
  

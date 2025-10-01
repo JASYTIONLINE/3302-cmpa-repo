@@ -7,7 +7,8 @@ date: "2025-09-29"
 enableToc: true
 ---
 
-# 05 Closing (ITTOs)
+# Closing Process ITTOs
+ [[2-references.md|References]]
 - Lessons learned
 - Claims administration (close procurements/claims)
 - Procurements (close/settle/transition)

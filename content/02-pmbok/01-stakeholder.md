@@ -8,7 +8,7 @@ enableToc: true
 ---
 
 # Stakeholders 
-
+ [[2-references.md|References]]
 ## Stakeholder Management
 
 Stakeholder management is the process of identifying all individuals, groups, or organizations affected by a project and actively engaging them to ensure expectations are aligned. In PMBOK 6, this knowledge area emphasizes identifying stakeholders, planning engagement, managing expectations, and monitoring interactions throughout the life cycle. PMBOK 7 broadens the focus, framing stakeholder engagement as a principle that influences value delivery and continuous collaboration.  

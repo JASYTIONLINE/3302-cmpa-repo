@@ -7,12 +7,13 @@ date: "2025-09-29"
 enableToc: true
 ---
 
-![image of students taking a test](testing.png)
+*Preparation is the key to success on Exam Day*
 ## Test Preparation Tips and Tactics - Home
+ [[2-references.md|References]]
+ ![image of students taking a test](testing.png)
+*Test preparation for the PMP exam is more than memorizing facts and [[01-test-prep/02-Understanding Terms.md|Understanding Terminology;]]*
 
-Test preparation for the PMP exam is more than memorizing facts and [[01-test-prep/02-Understanding Terms.md|Understanding Terminology;]] it is about learning how to approach the exam with [[01-test-prep/01-test-prep.md|strategy and confidence.]] 
-
-This section focuses on the skills that help candidates turn their project management knowledge of core foundational principles like [[03-lifecycle/index.md|Project Management Lifecycles]] into high test performance. Here, you will find content on study methods, time management, and memory techniques that make sense of the large body of material covered by the PMBOK guides.  
+The Key to success in test taking is to  learn how to approach the exam with [[01-test-prep/01-test-prep.md|strategy and confidence.]] This section focuses on the skills that help candidates turn their project management knowledge of core foundational principles like [[03-lifecycle/index.md|Project Management Lifecycles]] into high test performance. Here, you will find content on study methods, time management, and memory techniques that make sense of the large body of material covered by the PMBOK guides.  
 
 Equally important, this section highlights tactics for [[01-test-prep#Study Habits for Exam Day|Study Habits for Exam Day]] itself: how to read questions carefully, eliminate obviously wrong answers, avoid red-herring distractors, and choose the “most right” option when two answers appear correct.  
 

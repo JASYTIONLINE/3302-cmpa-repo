@@ -6212,7 +6212,7 @@ Like haggling at a market where you’re willing to pay $10–$15 and the seller
 - [[index.md|JASYTI's PMP KB – HOME]]
 - [[1-about|About JASYTI]]
 - [[#Glossary]]
-- [[readme|Repository README]]
+- [[README|Repository README]]
 - [[2-references.md|References]]
 
 ---

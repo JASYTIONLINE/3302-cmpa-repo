@@ -6,7 +6,7 @@ draft: false
 date: "2025-09-29"
 enableToc: true
 ---
-![Digiport Ai Dragon Mascot](assets/dragon.png)
+![Digiport Ai Dragon Mascot](dragon.png)
 *Digiportai.com is the home of DragonEy Industries and [[1-about.md|JASYTI's]] Main Public Portal*
 
 ---
@@ -14,7 +14,6 @@ enableToc: true
 
 CMPA 3302 — Foundations of Information Organization & Management  
 Welcome to my Website. I am JASYTI, but I'm not just another social you Tube influencer.
-
 
 ---
 ## Purpose
@@ -34,13 +33,12 @@ For professional development, it is intended to:
 The site is not just for assignments — it is designed to be **a living system** that blends coursework with ongoing PMP exam study and professional project management practice.
 
 ---
-
 ## How to Use This Site
 This site is organized into **categories**, each representing a major domain of project management knowledge.  
 Here’s how to navigate effectively:
 
 1. **Start with Quick Links**  
-   - Use the **Quick Links panel** below to jump directly to About, References, Glossary, or the repository README.  Generaly: Quick links take you to other pages in the same folder and Navigation Links take you to other index pages in related catagories outside the folders.
+   - Use the **Quick Links panel** below to jump directly to About, References, Glossary, or the repository README.  Generally: Quick links take you to other pages in the same folder and Navigation Links take you to other index pages in related categories outside the folders.
    - These pages give you context and supporting resources.  
 
 2. **Explore Main Categories**  
@@ -64,15 +62,14 @@ By combining structured navigation with inter-page links, the site supports **se
 NOTE: If you want to Study without Studying and break free from the hum drum standard form of study, make sure to enjoy the story woven through this site: **[[05-tlg/index|The Last Gate]]** — a narrative experiment in blending fiction with project management principles.
 
 ---
-
 ## Quick Links
 - [[1-about|About JASYTI]]
 - [[2-references|References]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
+- [[README|Repository README]]
+- [[4-site-map.md|Site Map]]
 
 ---
-
 ## Main Categories
 - [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok/index|Project Management Body of Knowledge]]

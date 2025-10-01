@@ -1,15 +1,19 @@
 ---
-title: "Project Prerequisites"
-description: "Foundation activities and conditions that must be met before initiating a project."
-tags: [cmpa3302, project-management, lifecycle, prerequisites]
+title: 0 Project Prerequisites
+description: Foundation activities and conditions that must be met before initiating a project.
+tags:
+  - cmpa3302
+  - project-management
+  - lifecycle
+  - prerequisites
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
 
-# 00 Project Prerequisites
-
+# Project Prerequisites
+ [[2-references.md|References]]
 Although not officially one of the 5 PMP [[3-glossary#Process Group|Process Groups]] it would be remiss not to include the pre-project requirements that must be satisfied before a project can be established. These prerequisites form the foundation on which the entire effort is built. Specifically, the [[1-Initiating|Initiating Phase]] of the Project cannot begin until these are met; without them, any attempt to plan or execute is likely to fail.  
 
 If the [[3-glossary### Project Management Plan|Project Management Plan]] is the road we’ll travel, the [[3-glossary#Business Case|business case]] and the [[3-glossary#Project Charter|project charter]] define the destination—because if we don’t know where we’re going, any road will do.

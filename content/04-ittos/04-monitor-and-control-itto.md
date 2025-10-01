@@ -1,13 +1,19 @@
 ---
-title: "Monitoring & Controlling Process Group – ITTOs"
-description: "Inputs, Tools & Techniques, and Outputs for the Monitoring & Controlling Process Group."
-tags: [cmpa3302, ittos, monitoring, controlling, project-management]
+title: 4 Monitoring & Controlling Process Group – ITTOs
+description: Inputs, Tools & Techniques, and Outputs for the Monitoring & Controlling Process Group.
+tags:
+  - cmpa3302
+  - ittos
+  - monitoring
+  - controlling
+  - project-management
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
-# 4 — Monitoring & Controlling
+# Monitoring & Controlling
+ [[2-references.md|References]]
 - Monitor and control project work
 - Perform integrated change control
 - Change requests

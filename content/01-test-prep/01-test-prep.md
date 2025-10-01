@@ -1,27 +1,29 @@
 ---
-title: "Test Preparation Essentials"
-description: "Core strategies for PMP exam readiness, including healthy habits, test-day tactics, and principle-driven reasoning."
-tags: [cmpa3302, test-prep, exam-strategy, study-habits]
+title: 1 Test Preparation Essentials
+description: Core strategies for PMP exam readiness, including healthy habits, test-day tactics, and principle-driven reasoning.
+tags:
+  - cmpa3302
+  - test-prep
+  - exam-strategy
+  - study-habits
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
-
-
 # Test Preparation Essentials
-
+ [[2-references.md|References]]
+![image of a test preparation kit](test-prep-kit.png)
+*A good PMP Essentials tool kit helps you prepare to pass*
 ## What this page is about:  
-The [[01-test-prep/03-principles.md|Project Management Institutes Exam Content Outline]] makes it very clear that memorizing facts and definitions of terms will not be enough to pass the exam.  In fact, my training has shown me that memorization is a distractor from the real goal of understanding value delivery and the concepts of Project Management.
+The [[01-test-prep/04-eco.md|Project Management Institutes Exam Content Outline]] makes it very clear that memorizing facts and definitions of terms will not be enough to pass the exam.  In fact, my training has shown me that memorization is a distractor from the real goal of understanding value delivery and the concepts of Project Management.
 
 This page is your quick start to PMP test readiness. It explains how to arrive at the exam calm, clear, and primed to choose the best answer. Use it as a hub: 
 
-Here you learn tips like how to first to set healthy, repeatable habits for test day, apply principle-driven tactics when reading questions, and eliminating distractors. 
-
-The goal is confidence under time pressure—not cramming.
+Here you learn tips like how to first to set [healthy, repeatable habits](https://praxis.ets.org/tomorrows-teacher/10-Test-Day-Tactics-to-Help-You-Perform-at-Your-Peak.html) for test day, [apply principle-driven tactics when reading questions, and eliminating distractors.](https://www.studygs.net/10-test-taking-tricks-for-tough-questions-you-cant-answer/) 
+The goal is to [build confidence under time pressure](https://www.sciencenewstoday.org/the-neuroscience-of-confidence-and-how-to-build-it)—not cramming.
 
 ---
 ## Studying for the Exam
-TBP
 
 Preparing for the PMP exam requires a strategic approach that combines deep understanding of project management principles with focused practice. Start by thoroughly reviewing the *[[01-test-prep/04-eco.md|PMI Exam Content Outline]]* and the *[[3-glossary#Agile Practice Guide|Agile Practice Guide]]*, as these are foundational to the exam content. Enroll in a PMP prep course to gain structured learning and earn the required 35 contact hours. Complement your study with [PMI Study Hall](https://www.pmi.org/certifications/certification-resources/pmi-study-hall?utm_source_misc=examsimulator_PMP), which offers a realistic simulation of the exam environment and adaptive practice questions. Use flashcards to reinforce key concepts, formulas, and terminology. 
 
@@ -31,7 +33,7 @@ And OF COURSE: Use this website
 
 ---
 ## Tips for Exam Day
-
+[[# Test Preparation Essentials|Top]]
 - Sleep 7–9 Hours the Night Before
 Sleep improves memory consolidation and executive function. Lack of sleep is directly linked to lower academic performance. [[2-references#Hagger, M. S., & Yusainy, C. (2022)|Hagger, M. S., & Yusainy, C. (2022);]]
 
@@ -67,7 +69,7 @@ Brief structured breathing reduces anxiety and improves readiness. Try mindful s
 
 ---
 ## Exam Design Context
-
+[[# Test Preparation Essentials|Top]]
 The PMP exam is not about memorizing definitions — it is about applying [[03-principles|project management principles in context.]] 
 
 PMI writes questions to test whether you understand the underlying concepts, not whether you can recite terms. Many questions include two possible answers that look correct, but only one is the **“most right”** because it aligns best with [[3-glossary#PMI’s situational best practices|PMI’s situational best practices.]] Practicing with scenario-based questions is the only way to build the skill of distinguishing good answers from better ones.  
@@ -83,6 +85,7 @@ I recommend becoming a [Project Management Institute Member.](https://www.pmi.or
 In [[2-references#Range|Range]], Epstein reminds us that **breadth and adaptability** often outperform rote specialization.  For the PMP exam, this means focusing on [[03-principles#Principle Driven Reasoning|Principle Driven Reasoning]] rather than memorization. Approaching questions with flexibility, context-awareness, and multiple perspectives helps ensure you choose PMI’s “most right” answer, not just a familiar fact.
 
 ---
+[[# Test Preparation Essentials|Top]]
 ## Quick Links
 
 - [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]

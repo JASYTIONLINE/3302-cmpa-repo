@@ -6,10 +6,9 @@ draft: false
 date: "2025-09-29"
 enableToc: true
 ---
-
 # Monitoring & Controlling The Plan
+ [[2-references.md|References]]
 ![[mandc.jpg|200]]
-
 *Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives.*
 
 ## What it is Monitoring & Controlling

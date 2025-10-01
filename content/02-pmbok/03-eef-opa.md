@@ -8,7 +8,7 @@ enableToc: true
 ---
 
 # EEF's and OPA's
-
+ [[2-references.md|References]]
 ## What are EEFs and OPA?
 
 ### EEF

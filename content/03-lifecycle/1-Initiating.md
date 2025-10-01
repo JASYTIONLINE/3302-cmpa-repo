@@ -1,16 +1,20 @@
 ---
-title: "Initiating the Plan"
-description: "Overview of the Initiating Process Group—purpose, key processes, and examples in practice."
-tags: [cmpa3302, project-management, lifecycle, initiating]
+title: 1 Initiating the Plan
+description: Overview of the Initiating Process Group—purpose, key processes, and examples in practice.
+tags:
+  - cmpa3302
+  - project-management
+  - lifecycle
+  - initiating
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
-# 01 Initiating The Plan
-![[init.jpg|200]]
-
-*This image symbolizes the closing ceremony of the Initiating Process, where the project charter is handed off to the planning team, who then begin the formal planning phase.*  
+# Initiating The Plan
+ [[2-references.md|References]]
+![image of teh project closing the initiation phase](init.jpg)
+*Each projects start with the basic to ensure a solid foundation*
 ## [[3-glossary#Initiating Process Group|Initiating Process Group]]
 The initiating Process Group is the collection of [[3-glossary#process|processes]] performed to formally start a new [[3-glossary#project|project]] or a new phase of an existing project. It ensures that a project’s purpose is clearly defined, that [[3-glossary#authorization|authorization]] is granted, and that the [[3-glossary#project manager|project manager]] has the [[3-glossary#authority|authority]] to apply organizational resources.
 

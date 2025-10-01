@@ -49,7 +49,7 @@ My Goal is to use the principles of Project and Program Management to organize m
 - [[index.md|JASYTI's PMP KB – HOME]]
 - [[#I am JASYTI|About JASYTI]]
 - [[3-glossary|Glossary]]
-- [[readme|Repository README]]
+- [[README|Repository README]]
 - [[2-references.md|References]]
 
 ---

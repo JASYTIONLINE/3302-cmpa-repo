@@ -7,7 +7,8 @@ date: "2025-09-29"
 enableToc: true
 ---
 # Understanding Terms in Project Management
-
+ [[2-references.md|References]]
+![image of the scales of comprehension](terms.png)
 In PMBOK study and practice, **terms matter** because they represent the core “things” of project management. Terms like: [[3-glossary#artifact|Artifacts, ]][[3-glossary#deliverable|Deliverables, ]][[3-glossary#role|Roles]] are all examples of the terminology used in [[3-glossary#Project Management|Project Management]] and found in the [[01-test-prep/04-eco.md|PMI Exam Content Outline.]]  Every process is built core values but convey through specific terminology that defines what is being created, tracked, or handed off. 
 
 For example, the [[3-glossary#Risk Register|Risk Register,]] [[3-glossary#project charter|project charter,]] and [[3-glossary#work breakdown structure|work breakdown structure]] are all terms—concrete items that can be referenced and examined.
@@ -30,7 +31,7 @@ This means:
 - Use **example questions with explanations** to see not only why the correct answer is right, but also why the wrong-but-tempting answers are incorrect.  
 - When reading terms in the [[3-glossary.md|Glossary,]] don't try to memorize the definition of the term. Focus on understanding the how and why of the term. 
 ---
-
+[[#Understanding Terms in Project Management|Top]]
 ## Practical Study Guidance
 
 The best way to prepare is to **immerse yourself in situational content**:  
@@ -53,6 +54,7 @@ I have created an engaging and fun-to-read science fiction novella, which uses t
 The **only reliable way to pass the PMP exam** is to develop consistent study habits, take ownership of the [[01-test-prep/03-principles.md|PMI Project Management Principles]] of [[3-glossary#Value|Value Delivery]] and the Agile Manifesto, and develop [[01-test-prep/02-Understanding Terms.md|contextual understanding]] of terminology and how it is applied in situational theory. Memorization may give you confidence with flashcards, but it won’t help on test day when PMI challenges you with tricky, realistic scenarios. Success requires **thinking in context, choosing the most correct answer, and applying PMI’s principles to real-world project situations**.
 
 ---
+[[#Understanding Terms in Project Management|Top]]
 ## Quick Links
 
 - [[01-test-prep/01-test-prep.md|Test Prep - Preparing For Test Day]]

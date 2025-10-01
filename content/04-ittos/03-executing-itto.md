@@ -1,13 +1,18 @@
 ---
-title: "Executing Process Group – ITTOs"
-description: "Inputs, Tools & Techniques, and Outputs for the Executing Process Group."
-tags: [cmpa3302, ittos, executing, project-management]
+title: 3 Executing Process – ITTOs
+description: Inputs, Tools & Techniques, and Outputs for the Executing Process Group.
+tags:
+  - cmpa3302
+  - ittos
+  - executing
+  - project-management
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
-# 3 — Executing
+# Executing Process
+ [[2-references.md|References]]
 - Resources (acquire/develop/manage team & physical resources)
 - Communications (manage communications)
 - Quality (manage quality)

@@ -6,9 +6,8 @@ draft: false
 date: "2025-09-29"
 enableToc: true
 ---
-
 # 05 Closing The Plan
-
+ [[2-references.md|References]]
 ![[a-accepted.jpg]]  
 *Closing Process Group — Accepted Work Order*
 

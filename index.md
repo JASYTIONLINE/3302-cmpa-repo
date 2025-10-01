@@ -1,0 +1,508 @@
+# 📚 Folder Index
+
+This is an auto-generated file listing the contents of this folder for publishing with Quartz.
+
+- 📁 **.git**
+  - 📁 **hooks**
+  - 📁 **info**
+  - 📁 **logs**
+    - 📁 **refs**
+      - 📁 **heads**
+      - 📁 **remotes**
+        - 📁 **origin**
+          - 📁 **dependabot**
+            - 📁 **submodules**
+  - 📁 **modules**
+    - 📁 **quartz**
+      - 📁 **hooks**
+      - 📁 **info**
+      - 📁 **logs**
+        - 📁 **refs**
+          - 📁 **heads**
+          - 📁 **remotes**
+            - 📁 **origin**
+      - 📁 **objects**
+        - 📁 **03**
+        - 📁 **04**
+        - 📁 **05**
+        - 📁 **06**
+        - 📁 **13**
+        - 📁 **15**
+        - 📁 **19**
+        - 📁 **20**
+        - 📁 **21**
+        - 📁 **24**
+        - 📁 **25**
+        - 📁 **2a**
+        - 📁 **32**
+        - 📁 **35**
+        - 📁 **36**
+        - 📁 **38**
+        - 📁 **39**
+        - 📁 **3b**
+        - 📁 **3c**
+        - 📁 **3d**
+        - 📁 **3e**
+        - 📁 **3f**
+        - 📁 **49**
+        - 📁 **4a**
+        - 📁 **4b**
+        - 📁 **4c**
+        - 📁 **55**
+        - 📁 **5b**
+        - 📁 **5e**
+        - 📁 **61**
+        - 📁 **62**
+        - 📁 **63**
+        - 📁 **64**
+        - 📁 **66**
+        - 📁 **6a**
+        - 📁 **6b**
+        - 📁 **6e**
+        - 📁 **7a**
+        - 📁 **7b**
+        - 📁 **7e**
+        - 📁 **7f**
+        - 📁 **87**
+        - 📁 **88**
+        - 📁 **8c**
+        - 📁 **8d**
+        - 📁 **95**
+        - 📁 **97**
+        - 📁 **9a**
+        - 📁 **9c**
+        - 📁 **ac**
+        - 📁 **af**
+        - 📁 **b1**
+        - 📁 **b9**
+        - 📁 **bb**
+        - 📁 **bd**
+        - 📁 **c1**
+        - 📁 **cc**
+        - 📁 **e4**
+        - 📁 **e7**
+        - 📁 **e8**
+        - 📁 **eb**
+        - 📁 **ed**
+        - 📁 **ee**
+        - 📁 **ef**
+        - 📁 **f2**
+        - 📁 **fa**
+        - 📁 **fc**
+        - 📁 **fd**
+        - 📁 **info**
+        - 📁 **pack**
+      - 📁 **refs**
+        - 📁 **heads**
+        - 📁 **remotes**
+          - 📁 **origin**
+        - 📁 **tags**
+  - 📁 **objects**
+    - 📁 **00**
+    - 📁 **01**
+    - 📁 **02**
+    - 📁 **03**
+    - 📁 **04**
+    - 📁 **05**
+    - 📁 **06**
+    - 📁 **07**
+    - 📁 **08**
+    - 📁 **09**
+    - 📁 **0a**
+    - 📁 **0b**
+    - 📁 **0c**
+    - 📁 **0d**
+    - 📁 **0e**
+    - 📁 **0f**
+    - 📁 **10**
+    - 📁 **11**
+    - 📁 **12**
+    - 📁 **13**
+    - 📁 **14**
+    - 📁 **15**
+    - 📁 **16**
+    - 📁 **17**
+    - 📁 **18**
+    - 📁 **19**
+    - 📁 **1a**
+    - 📁 **1b**
+    - 📁 **1c**
+    - 📁 **1d**
+    - 📁 **1e**
+    - 📁 **1f**
+    - 📁 **21**
+    - 📁 **22**
+    - 📁 **23**
+    - 📁 **24**
+    - 📁 **25**
+    - 📁 **26**
+    - 📁 **27**
+    - 📁 **28**
+    - 📁 **29**
+    - 📁 **2a**
+    - 📁 **2b**
+    - 📁 **2c**
+    - 📁 **2d**
+    - 📁 **2e**
+    - 📁 **2f**
+    - 📁 **30**
+    - 📁 **31**
+    - 📁 **32**
+    - 📁 **33**
+    - 📁 **34**
+    - 📁 **35**
+    - 📁 **36**
+    - 📁 **37**
+    - 📁 **38**
+    - 📁 **39**
+    - 📁 **3a**
+    - 📁 **3b**
+    - 📁 **3c**
+    - 📁 **3d**
+    - 📁 **3e**
+    - 📁 **3f**
+    - 📁 **40**
+    - 📁 **41**
+    - 📁 **42**
+    - 📁 **43**
+    - 📁 **44**
+    - 📁 **45**
+    - 📁 **46**
+    - 📁 **47**
+    - 📁 **48**
+    - 📁 **49**
+    - 📁 **4b**
+    - 📁 **4c**
+    - 📁 **4d**
+    - 📁 **4e**
+    - 📁 **4f**
+    - 📁 **50**
+    - 📁 **51**
+    - 📁 **52**
+    - 📁 **53**
+    - 📁 **54**
+    - 📁 **55**
+    - 📁 **56**
+    - 📁 **57**
+    - 📁 **58**
+    - 📁 **59**
+    - 📁 **5a**
+    - 📁 **5b**
+    - 📁 **5c**
+    - 📁 **5d**
+    - 📁 **5e**
+    - 📁 **5f**
+    - 📁 **60**
+    - 📁 **61**
+    - 📁 **62**
+    - 📁 **63**
+    - 📁 **64**
+    - 📁 **65**
+    - 📁 **66**
+    - 📁 **67**
+    - 📁 **68**
+    - 📁 **69**
+    - 📁 **6a**
+    - 📁 **6b**
+    - 📁 **6c**
+    - 📁 **6d**
+    - 📁 **6e**
+    - 📁 **6f**
+    - 📁 **70**
+    - 📁 **71**
+    - 📁 **72**
+    - 📁 **73**
+    - 📁 **74**
+    - 📁 **75**
+    - 📁 **76**
+    - 📁 **77**
+    - 📁 **78**
+    - 📁 **79**
+    - 📁 **7a**
+    - 📁 **7b**
+    - 📁 **7c**
+    - 📁 **7d**
+    - 📁 **7e**
+    - 📁 **7f**
+    - 📁 **80**
+    - 📁 **81**
+    - 📁 **82**
+    - 📁 **83**
+    - 📁 **84**
+    - 📁 **85**
+    - 📁 **86**
+    - 📁 **88**
+    - 📁 **89**
+    - 📁 **8a**
+    - 📁 **8b**
+    - 📁 **8c**
+    - 📁 **8d**
+    - 📁 **8e**
+    - 📁 **8f**
+    - 📁 **90**
+    - 📁 **91**
+    - 📁 **92**
+    - 📁 **93**
+    - 📁 **94**
+    - 📁 **95**
+    - 📁 **96**
+    - 📁 **97**
+    - 📁 **98**
+    - 📁 **99**
+    - 📁 **9a**
+    - 📁 **9b**
+    - 📁 **9c**
+    - 📁 **9d**
+    - 📁 **9e**
+    - 📁 **9f**
+    - 📁 **a0**
+    - 📁 **a1**
+    - 📁 **a2**
+    - 📁 **a3**
+    - 📁 **a4**
+    - 📁 **a5**
+    - 📁 **a6**
+    - 📁 **a7**
+    - 📁 **a8**
+    - 📁 **a9**
+    - 📁 **aa**
+    - 📁 **ab**
+    - 📁 **ac**
+    - 📁 **ad**
+    - 📁 **ae**
+    - 📁 **af**
+    - 📁 **b0**
+    - 📁 **b1**
+    - 📁 **b2**
+    - 📁 **b3**
+    - 📁 **b4**
+    - 📁 **b5**
+    - 📁 **b6**
+    - 📁 **b7**
+    - 📁 **b8**
+    - 📁 **b9**
+    - 📁 **ba**
+    - 📁 **bb**
+    - 📁 **bc**
+    - 📁 **bd**
+    - 📁 **be**
+    - 📁 **bf**
+    - 📁 **c0**
+    - 📁 **c1**
+    - 📁 **c2**
+    - 📁 **c3**
+    - 📁 **c4**
+    - 📁 **c5**
+    - 📁 **c6**
+    - 📁 **c7**
+    - 📁 **c8**
+    - 📁 **c9**
+    - 📁 **ca**
+    - 📁 **cb**
+    - 📁 **cc**
+    - 📁 **cd**
+    - 📁 **ce**
+    - 📁 **cf**
+    - 📁 **d0**
+    - 📁 **d1**
+    - 📁 **d2**
+    - 📁 **d3**
+    - 📁 **d4**
+    - 📁 **d5**
+    - 📁 **d6**
+    - 📁 **d7**
+    - 📁 **d8**
+    - 📁 **d9**
+    - 📁 **da**
+    - 📁 **db**
+    - 📁 **dc**
+    - 📁 **dd**
+    - 📁 **de**
+    - 📁 **df**
+    - 📁 **e0**
+    - 📁 **e1**
+    - 📁 **e2**
+    - 📁 **e3**
+    - 📁 **e4**
+    - 📁 **e5**
+    - 📁 **e6**
+    - 📁 **e7**
+    - 📁 **e8**
+    - 📁 **e9**
+    - 📁 **ea**
+    - 📁 **eb**
+    - 📁 **ec**
+    - 📁 **ed**
+    - 📁 **ee**
+    - 📁 **ef**
+    - 📁 **f0**
+    - 📁 **f1**
+    - 📁 **f2**
+    - 📁 **f3**
+    - 📁 **f4**
+    - 📁 **f5**
+    - 📁 **f6**
+    - 📁 **f7**
+    - 📁 **f8**
+    - 📁 **f9**
+    - 📁 **fa**
+    - 📁 **fb**
+    - 📁 **fc**
+    - 📁 **fd**
+    - 📁 **fe**
+    - 📁 **ff**
+    - 📁 **info**
+    - 📁 **pack**
+  - 📁 **refs**
+    - 📁 **heads**
+    - 📁 **remotes**
+      - 📁 **origin**
+        - 📁 **dependabot**
+          - 📁 **submodules**
+    - 📁 **tags**
+- 📁 **.github**
+  - 📁 **workflows**
+- 📁 **content**
+  - 📁 **.obsidian**
+  - 📁 **01-test-prep**
+    - [01-test-prep](content/01-test-prep/01-test-prep.md)
+    - [02-Understanding Terms](content/01-test-prep/02-Understanding Terms.md)
+    - [03-principles](content/01-test-prep/03-principles.md)
+    - [04-eco](content/01-test-prep/04-eco.md)
+  - 📁 **02-pmbok**
+    - [01-stakeholder](content/02-pmbok/01-stakeholder.md)
+    - [02-risk](content/02-pmbok/02-risk.md)
+    - [03-eef-opa](content/02-pmbok/03-eef-opa.md)
+    - [04-change](content/02-pmbok/04-change.md)
+    - [05-tailoring](content/02-pmbok/05-tailoring.md)
+  - 📁 **03-lifecycle**
+    - [0-plan-prerequisites.md](content/03-lifecycle/0-plan-prerequisites.md.md)
+    - [1-Initiating](content/03-lifecycle/1-Initiating.md)
+    - [2-planning](content/03-lifecycle/2-planning.md)
+    - [3-executing](content/03-lifecycle/3-executing.md)
+    - [4-monitor-control](content/03-lifecycle/4-monitor-control.md)
+    - [5-closing](content/03-lifecycle/5-closing.md)
+  - 📁 **04-ittos**
+    - [01-initiating-itto](content/04-ittos/01-initiating-itto.md)
+    - [02-planning-itto](content/04-ittos/02-planning-itto.md)
+    - [03-executing-itto](content/04-ittos/03-executing-itto.md)
+    - [04-monitor-and-control-itto](content/04-ittos/04-monitor-and-control-itto.md)
+    - [05-closing-itto](content/04-ittos/05-closing-itto.md)
+  - 📁 **05-tlg**
+    - [01-tlg-ep0-pilot](content/05-tlg/01-tlg-ep0-pilot.md)
+    - [02-tlg-ep0.1-agile-manifesto(h)](content/05-tlg/02-tlg-ep0.1-agile-manifesto(h).md)
+    - [02-tlg-ep0.1-the-fire-below](content/05-tlg/02-tlg-ep0.1-the-fire-below.md)
+  - [1-about](content/1-about.md)
+  - [2-references](content/2-references.md)
+  - [3-glossary](content/3-glossary.md)
+  - 📁 **assets**
+  - [readme](content/readme.md)
+  - [_site-map](content/_site-map.md)
+- 📁 **quartz**
+  - 📁 **.github**
+    - 📁 **ISSUE_TEMPLATE**
+      - [bug_report](quartz/.github/ISSUE_TEMPLATE/bug_report.md)
+      - [feature_request](quartz/.github/ISSUE_TEMPLATE/feature_request.md)
+    - [pull_request_template](quartz/.github/pull_request_template.md)
+    - 📁 **workflows**
+  - [CODE_OF_CONDUCT](quartz/CODE_OF_CONDUCT.md)
+  - 📁 **content**
+  - 📁 **docs**
+    - 📁 **advanced**
+      - [architecture](quartz/docs/advanced/architecture.md)
+      - [creating components](quartz/docs/advanced/creating components.md)
+      - [making plugins](quartz/docs/advanced/making plugins.md)
+      - [paths](quartz/docs/advanced/paths.md)
+    - [authoring content](quartz/docs/authoring content.md)
+    - [build](quartz/docs/build.md)
+    - [configuration](quartz/docs/configuration.md)
+    - 📁 **features**
+      - [backlinks](quartz/docs/features/backlinks.md)
+      - [breadcrumbs](quartz/docs/features/breadcrumbs.md)
+      - [callouts](quartz/docs/features/callouts.md)
+      - [Citations](quartz/docs/features/Citations.md)
+      - [comments](quartz/docs/features/comments.md)
+      - [darkmode](quartz/docs/features/darkmode.md)
+      - [Docker Support](quartz/docs/features/Docker Support.md)
+      - [explorer](quartz/docs/features/explorer.md)
+      - [folder and tag listings](quartz/docs/features/folder and tag listings.md)
+      - [full-text search](quartz/docs/features/full-text search.md)
+      - [graph view](quartz/docs/features/graph view.md)
+      - [i18n](quartz/docs/features/i18n.md)
+      - [Latex](quartz/docs/features/Latex.md)
+      - [Mermaid diagrams](quartz/docs/features/Mermaid diagrams.md)
+      - [Obsidian compatibility](quartz/docs/features/Obsidian compatibility.md)
+      - [OxHugo compatibility](quartz/docs/features/OxHugo compatibility.md)
+      - [popover previews](quartz/docs/features/popover previews.md)
+      - [private pages](quartz/docs/features/private pages.md)
+      - [reader mode](quartz/docs/features/reader mode.md)
+      - [recent notes](quartz/docs/features/recent notes.md)
+      - [Roam Research compatibility](quartz/docs/features/Roam Research compatibility.md)
+      - [RSS Feed](quartz/docs/features/RSS Feed.md)
+      - [social images](quartz/docs/features/social images.md)
+      - [SPA Routing](quartz/docs/features/SPA Routing.md)
+      - [syntax highlighting](quartz/docs/features/syntax highlighting.md)
+      - [table of contents](quartz/docs/features/table of contents.md)
+      - [upcoming features](quartz/docs/features/upcoming features.md)
+      - [wikilinks](quartz/docs/features/wikilinks.md)
+    - [hosting](quartz/docs/hosting.md)
+    - 📁 **images**
+    - [layout-components](quartz/docs/layout-components.md)
+    - [layout](quartz/docs/layout.md)
+    - [migrating from Quartz 3](quartz/docs/migrating from Quartz 3.md)
+    - [philosophy](quartz/docs/philosophy.md)
+    - 📁 **plugins**
+      - [AliasRedirects](quartz/docs/plugins/AliasRedirects.md)
+      - [Assets](quartz/docs/plugins/Assets.md)
+      - [Citations](quartz/docs/plugins/Citations.md)
+      - [CNAME](quartz/docs/plugins/CNAME.md)
+      - [ComponentResources](quartz/docs/plugins/ComponentResources.md)
+      - [ContentIndex](quartz/docs/plugins/ContentIndex.md)
+      - [ContentPage](quartz/docs/plugins/ContentPage.md)
+      - [CrawlLinks](quartz/docs/plugins/CrawlLinks.md)
+      - [CreatedModifiedDate](quartz/docs/plugins/CreatedModifiedDate.md)
+      - [CustomOgImages](quartz/docs/plugins/CustomOgImages.md)
+      - [Description](quartz/docs/plugins/Description.md)
+      - [ExplicitPublish](quartz/docs/plugins/ExplicitPublish.md)
+      - [Favicon](quartz/docs/plugins/Favicon.md)
+      - [FolderPage](quartz/docs/plugins/FolderPage.md)
+      - [Frontmatter](quartz/docs/plugins/Frontmatter.md)
+      - [GitHubFlavoredMarkdown](quartz/docs/plugins/GitHubFlavoredMarkdown.md)
+      - [HardLineBreaks](quartz/docs/plugins/HardLineBreaks.md)
+      - [Latex](quartz/docs/plugins/Latex.md)
+      - [NotFoundPage](quartz/docs/plugins/NotFoundPage.md)
+      - [ObsidianFlavoredMarkdown](quartz/docs/plugins/ObsidianFlavoredMarkdown.md)
+      - [OxHugoFlavoredMarkdown](quartz/docs/plugins/OxHugoFlavoredMarkdown.md)
+      - [RemoveDrafts](quartz/docs/plugins/RemoveDrafts.md)
+      - [RoamFlavoredMarkdown](quartz/docs/plugins/RoamFlavoredMarkdown.md)
+      - [Static](quartz/docs/plugins/Static.md)
+      - [SyntaxHighlighting](quartz/docs/plugins/SyntaxHighlighting.md)
+      - [TableOfContents](quartz/docs/plugins/TableOfContents.md)
+      - [TagPage](quartz/docs/plugins/TagPage.md)
+    - [setting up your GitHub repository](quartz/docs/setting up your GitHub repository.md)
+    - [showcase](quartz/docs/showcase.md)
+    - 📁 **tags**
+      - [component](quartz/docs/tags/component.md)
+      - [plugin](quartz/docs/tags/plugin.md)
+    - [upgrading](quartz/docs/upgrading.md)
+  - 📁 **quartz**
+    - 📁 **cli**
+    - 📁 **components**
+      - 📁 **pages**
+      - 📁 **scripts**
+      - 📁 **styles**
+    - 📁 **i18n**
+      - 📁 **locales**
+    - 📁 **plugins**
+      - 📁 **emitters**
+      - 📁 **filters**
+      - 📁 **transformers**
+    - 📁 **processors**
+    - 📁 **static**
+      - 📁 **giscus**
+    - 📁 **styles**
+    - 📁 **util**
+  - [README](quartz/README.md)
+- [README](README.md)
+- 📁 **unpublished**
+

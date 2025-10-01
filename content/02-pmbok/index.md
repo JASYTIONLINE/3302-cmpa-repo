@@ -8,6 +8,7 @@ enableToc: true
 ---
 
 # Project Management Body of Knowledge
+ [[2-references.md|References]]
 ![[pmbok.png|300]]
 
 ## How to use this section
