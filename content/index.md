@@ -7,12 +7,16 @@ date: "2025-09-29"
 enableToc: true
 ---
 ![Digiport Ai Dragon Mascot](assets/dragon.png)
+*Digiportai.com is the home of DragonEy Industries and [[1-about.md|JASYTI's]] Main Public Portal*
+
+---
 # JASYTI's Project Management Professional Knowledge Base – HOME
 
 CMPA 3302 — Foundations of Information Organization & Management  
+Welcome to my Website. I am JASYTI, but I'm not just another social you Tube influencer.
+
 
 ---
-
 ## Purpose
 This site is both a **course project** and a **personal knowledge base**.  
 It exists to demonstrate mastery of CMPA 3302 learning outcomes while also serving as a practical tool for preparing for the **PMP Certification Exam**.  
