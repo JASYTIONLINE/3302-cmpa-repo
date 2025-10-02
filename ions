@@ -1,0 +1,29 @@
+[33m631f44a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m DOCS: Updated Contents and links to glossary for all pages
+[33mb074806[m docs: cleaning form and fit of docs to improve presentation.
+[33md07e16b[m Docs: Cleaned up wording , syntax, and links in content
+[33ma3e67f6[m docs: Updates Front Matter to new Simpler Format
+[33m36c5220[m Docs: cleaned up content
+[33m2b2367c[m docs: cleaned up content on the page
+[33m07bef3e[m DOCs: Updates page content
+[33meff5607[m Docs: Added Content to 02-PMBOK Section - Fixed Links
+[33md67e546[m docs: Add 03-principles and fix quick links to the doc
+[33mf4bd1f4[m fix: Repair Broken Nav Links to top of each index
+[33m2de5953[m fix: removed extra links from nav
+[33mcea5f17[m fix  temp to see if the fm is the problem
+[33m86fbf9f[m fix repaired yaml removed toc
+[33m8af7a6b[m Fix: Fixed Yaml Again (fingers Crossed)
+[33m8a510f1[m fix: Repaired YAML so Quartz would load
+[33m791eb6d[m Fix: Repaired Navigation Links on all primary Pages
+[33m8886c55[m FIX: Repaired Broken Links on Index home page
+[33me6cd34c[m DOCS: removed excess content to streamline the site
+[33mdcb67d5[m Refactor: Moved pages around for flow
+[33mde2adcc[m refactor: Changed image folder to assets to comply with course requirements
+[33m3106f78[m fix: Repaired broken and Missed Links
+[33m1cdc009[m chore(docs): finalize Week 5 process group pages and index for FOC
+[33m9964f06[m fix: Repaired all links added links where missing - Created a closed loop link system
+[33m2252073[m refactor: change the number order list of categories for a more logical flow
+[33mdffb07d[m docs: add all category index pages + wire up homepage & cross-links
+[33md09f52d[m fix: removed front matter blocking publishing.
+[33m363dcb6[m docs: Cleaned Wording and made Clarifications on readme and index
+[33m48d14d7[m docs(week2): finalize homepage, about, and readme; add wikilinks; fix typos
+[33me58c3ba[m Initial commit
