@@ -1,9 +1,13 @@
 ---
-title: "Project Management Body of Knowledge – Home"
+title: 3 Project Management Body of Knowledge – Home
 description: "Overview of PMBOK-aligned concepts: stakeholders, risk, environment, change, and tailoring — framed for the ECO and exam prep."
-tags: [cmpa3302, pmbok, eco, exam-strategy]
+tags:
+  - cmpa3302
+  - pmbok
+  - eco
+  - exam-strategy
 draft: false
-date: "2025-10-02"
+date: 2025-10-02
 enableToc: true
 ---
 

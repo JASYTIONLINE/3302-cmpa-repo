@@ -1,9 +1,12 @@
 ---
-title: "Test Preparation Tips and Tactics – Home"
-description: "Section home for PMP exam preparation strategies, covering test-day habits, principles, and contextual learning."
-tags: [cmpa3302, test-prep, exam-strategy]
+title: 1 Test Preparation Tips and Tactics – Home
+description: Section home for PMP exam preparation strategies, covering test-day habits, principles, and contextual learning.
+tags:
+  - cmpa3302
+  - test-prep
+  - exam-strategy
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 

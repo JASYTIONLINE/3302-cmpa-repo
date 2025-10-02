@@ -1,7 +1,11 @@
 ---
-title: ITTOs Overview
+title: 4 ITTOs Overview
 description: Portal to Inputs, Tools & Techniques, and Outputs across all project management process groups.
-tags: [cmpa3302, ittos, project-management, pmp]
+tags:
+  - cmpa3302
+  - ittos
+  - project-management
+  - pmp
 draft: false
 date: 2025-10-02
 enableToc: true

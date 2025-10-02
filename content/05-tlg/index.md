@@ -1,9 +1,14 @@
 ---
-title: "The Lore Door"
-description: "Portal to The Last Gate — a sci-fi narrative that embeds PMP principles into story form."
-tags: [cmpa3302, the-last-gate, story, pmp, narrative]
+title: 5 The Lore Door
+description: Portal to The Last Gate — a sci-fi narrative that embeds PMP principles into story form.
+tags:
+  - cmpa3302
+  - the-last-gate
+  - story
+  - pmp
+  - narrative
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
