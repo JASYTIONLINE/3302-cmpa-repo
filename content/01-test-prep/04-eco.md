@@ -14,10 +14,10 @@ enableToc: true
 
 ---
 ## What this page is about  
+This page breaks down the **PMI Exam Content Outline (ECO)** — the official blueprint used by PMI
+to structure the PMP® exam. 
 
-This page breaks down the **PMI Exam Content Outline (ECO)** — the official blueprint used by PMI to structure the PMP® exam. While the *PMBOK® Guide* explains what project management is, the ECO defines how it will be tested.
-
-The ECO organizes the exam around **three performance domains**: *People*, *Process*, and *Business Environment*. Each domain contains **tasks**, which describe responsibilities of project managers, and **enablers**, which illustrate how those tasks show up in practice.
+While the *PMBOK® Guide* explains what project management is, the ECO defines how it will be tested. The ECO organizes the exam around **three performance domains**: *People*, *Process*, and *Business Environment*. Each domain contains **tasks**, which describe responsibilities of project managers, and **enablers**, which illustrate how those tasks show up in practice.
 
 Understanding the ECO helps you:
 - Know what PMI expects you to *do* as a project manager  
@@ -29,20 +29,20 @@ For definitions of terms used on this page, refer to the [[3-glossary|Glossary]]
 ---
 [[#PMI Exam Content Outline|Top]]
 ## Exam Content Breakdown  
-
 PMI divides the PMP exam into three **domains** with associated **tasks** and **enablers**:
 
+---
 ### Domain I: People (42% of the exam)  
 Focus: Leading and supporting individuals and teams  
 This domain evaluates your soft skills, leadership, and interpersonal effectiveness.  
 
 **Key Tasks Include:**  
-- Manage conflict  
+- [[3-glossary#Manage Conflict|Manage Conflict]]
 - Lead a team  
 - Support team performance  
 - Empower team members and stakeholders  
 - Ensure team collaboration and engagement  
-- Build a shared understanding  
+- Build a [[3-glossary#shared-understanding|Shared Understanding]] 
 - Engage and support virtual teams  
 - Mentor relevant stakeholders  
 - Promote team performance through emotional intelligence  
@@ -79,7 +79,7 @@ This domain tests your awareness of the project’s broader context and your abi
 - Support organizational [[3-glossary#Change management|Change management]]  
 - Contribute to [[3-glossary#Strategic alignment|Strategic alignment]]  
 
-> Look for mentions of [[3-glossary#Strategic alignment|Strategic alignment]], compliance, [[3-glossary#Business value|Business value]], and [[3-glossary#Change management|Change management]].
+Look for mentions of [[3-glossary#Strategic alignment|Strategic alignment]], compliance, [[3-glossary#Business value|Business value]], and [[3-glossary#Change management|Change management]].
 
 ---
 
@@ -98,7 +98,7 @@ Here’s how PMI’s domains map back to the principles:
 ---
 [[#PMI Exam Content Outline|Top]]
 ### Scenario Example:  
-> You’re leading a cross-functional team with remote members. A team member frequently misses stand-ups and deliverables. What should you do?
+ You’re leading a cross-functional team with remote members. A team member frequently misses stand-ups and deliverables. What should you do?
 
 Principles at play:  
 - Foster collaboration and shared understanding (People)  

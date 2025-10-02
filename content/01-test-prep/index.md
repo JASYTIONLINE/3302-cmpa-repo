@@ -15,7 +15,7 @@ enableToc: true
 
 The Key to success in test taking is to  learn how to approach the exam with [[01-test-prep/01-test-prep.md|strategy and confidence.]] This section focuses on the skills that help candidates turn their project management knowledge of core foundational principles like [[03-lifecycle/index.md|Project Management Lifecycles]] into high test performance. Here, you will find content on study methods, time management, and memory techniques that make sense of the large body of material covered by the PMBOK guides.  
 
-Equally important, this section highlights tactics for [[01-test-prep#Study Habits for Exam Day|Study Habits for Exam Day]] itself: how to read questions carefully, eliminate obviously wrong answers, avoid red-herring distractors, and choose the “most right” option when two answers appear correct.  
+Equally important, this section highlights tactics for [[01-test-prep/01-test-prep.md|Study Habits for Exam Day]] itself: how to read questions carefully, eliminate obviously wrong answers, avoid red-herring distractors, and choose the “most right” option when two answers appear correct.  
 
 By studying [[01-test-prep#Test Preparation Essentials|Test Prep Techniques]], you ensure that the knowledge gained from the other sections is applied effectively on exam day. Many candidates know the material well but lose points to nervousness or poor test-taking habits. These strategies are designed to help you stay calm, read every question carefully, avoid logic traps, and focus on using what you already know. 
 

@@ -10,13 +10,16 @@ draft: false
 date: 2025-09-29
 enableToc: true
 ---
-
-
 # Project Prerequisites
  [[2-references.md|References]]
-Although not officially one of the 5 PMP [[3-glossary#Process Group|Process Groups]] it would be remiss not to include the pre-project requirements that must be satisfied before a project can be established. These prerequisites form the foundation on which the entire effort is built. Specifically, the [[1-Initiating|Initiating Phase]] of the Project cannot begin until these are met; without them, any attempt to plan or execute is likely to fail.  
+ ## Stakeholder Engagement Builds Trust
 
-If the [[3-glossary### Project Management Plan|Project Management Plan]] is the road we’ll travel, the [[3-glossary#Business Case|business case]] and the [[3-glossary#Project Charter|project charter]] define the destination—because if we don’t know where we’re going, any road will do.
+ ![[stake.jpg|300]]
+*A detailed customer request is key to establishing a strong charter and plan.*
+
+Although not officially one of the 5 PMP [[03-lifecycle/index.md|Process Groups]] it would be remiss not to include the pre-project requirements that must be satisfied before a project can be established. These prerequisites form the foundation on which the entire effort is built. Specifically, the [[1-Initiating|Initiating Phase]] of the Project cannot begin until these are met; without them, any attempt to plan or execute is likely to fail.  
+
+The first step is to establish the relationship of trust between all stakeholders* and define the true needs of the sponsor and customer. If the [[3-glossary### Project Management Plan|Project Management Plan]] is the road we’ll travel, the [[3-glossary#Business Case|business case]] and the [[3-glossary#Project Charter|project charter]] define the destination—because if we don’t know where we’re going, any road will do.
 
 ---
 
@@ -25,19 +28,19 @@ If the [[3-glossary### Project Management Plan|Project Management Plan]] is the 
 1. Engage [[3-glossary#Stakeholder|Stakeholders]] and establish trust.  
    Building trust through early engagement ensures the customer feels heard, and the project team gains clarity about needs and expectations.  
 
-2. Capture and document the [[3-glossary#Customer Request|customer request.]]  
-   Translate initial wants into a clear, documented request that reflects the customer’s true [[3-glossary#intent|intent.]]  
+2. Capture and document the [[3-glossary#customer request|customer request.]]  
+   Translate initial wants into a clear, documented request that reflects the customer’s true |intent.  
 3. Work with [[3-glossary#Stakeholder|stakeholders]] to formalize the request into a [[3-glossary#Business Case|business case]] 
-   The business case outlines the [[3-glossary|Benefits|benefits,]] costs, [[3-glossary#Risk|risks,]] and [[3-glossary#Strategic Alignment|strategic alignment,]] providing the foundation for deciding whether a [[3-glossary#Project|project]] should move forward.  
+   The business case outlines the benefits costs, [[3-glossary#Risk|risks,]] and [[3-glossary#Strategic Alignment|strategic alignment,]] providing the foundation for deciding whether a [[3-glossary#Project|project]] should move forward.  
 
-4. Identify the [[3-glossary#Sponsor|sponsor]] or [[3-glossary#Authority|authority.]]  
-   Determine who has the [[3-glossary#Organizational Power|organizational power]] and [[3-glossary|Financial Responsibility|financial responsibility]] to [[3-glossary|Authorize|authorize]] the project.  
+4. Identify the [[3-glossary#sponsor|sponsor]] or [[3-glossary#Authority|authority.]]  
+   Determine who has the organizational power and Financial Responsibility to autorize the project.  
 
 5. Assess resource availability.  
    Verify that funding, staffing, and materials are realistically available to support the project if approved.  
 
 6. Secure business case approval.  
-   The business case must be [[3-glossary#Endorsement|endorsed]] by the sponsor or governing body. This approval provides the [[3-glossary#Justification|justification]] needed to advance the idea into a formal project.  
+   The business case must be endorsed by the sponsor or governing body. This approval provides the [[3-glossary#Justification|justification]] needed to advance the idea into a formal project.  
 
 > Once the business case is approved, the project can move into the [[1-Initiating|Initiation phase]], where the [[3-glossary#Project Charter|project charter]] is created and formally authorizes [[03-lifecycle/2-planning.md|Planning to begin.]]
 
@@ -45,13 +48,13 @@ If the [[3-glossary### Project Management Plan|Project Management Plan]] is the 
 
 ## Stakeholder Engagement and the Business Case
 
-The [[3-glossary#Customer Request|customer request]] is the basis of any project. Before a project can move forward, the team must understand the customer’s *[[3-glossary#Intent|true intent]]*.  
+The [[3-glossary#Customer Request|customer request]] is the basis of any project. Before a project can move forward, the team must understand the customer’s *true intent*.  
 
 Often, customers do not fully understand what they need — they only know what they want. By engaging stakeholders early, the [[3-glossary#Project Manager|project manager]] or [[3-glossary#Sponsor|sponsor]] can validate what the customer actually needs versus what they initially asked for.  
 
-The fastest way to introduce failure into a project is by skipping this step. Taking time to interview stakeholders helps the team uncover the [[3-glossary#True Problem|true problem]] to be solved and clarify the [[3-glossary#Success|definition of success]] from the customer’s perspective. Once this dialogue is complete, the request can be formalized into a [[3-glossary#Business Case|business case.]]  
+The fastest way to introduce failure into a project is by skipping this step. Taking time to interview stakeholders helps the team uncover the true problem to be solved and clarify the definition of success from the customer’s perspective. Once this dialogue is complete, the request can be formalized into a [[3-glossary#Business Case|business case.]]  
 
-This is especially important when the [[3-glossary#Customer|customer]] is not the [[3-glossary#sponsor|sponsor.]] In those situations, a clear and comprehensive business case is essential to [[3-glossary#Justification||justify]] the project to the sponsor — who usually bears the most financial risk.  
+This is especially important when the [[3-glossary#Customer|customer]] is not the [[3-glossary#sponsor|sponsor.]] In those situations, a clear and comprehensive business case is essential to [[3-glossary#Justification|justify]] the project to the sponsor — who usually bears the most financial risk.  
 
 If the business case is missing critical elements:  
 - Does not reflect the customer’s [[#Example in Practice|true need]]  
@@ -74,13 +77,6 @@ The same is true in projects: if the team accepts the initial request without st
 
 ---
 
-## Stakeholder Engagement Builds Trust
-
- ![[stake.jpg|300]]
-
-*The first step before any project can begin, is to establish the relationship of trust between all stakeholders and define the true needs of the sponsor and customer. A detailed customer request is key to establishing a strong charter and plan.* 
-
----
 ## Quick Links
 
 - [[03-lifecycle/0-plan-prerequisites.md.md|Planning Perquisites]]

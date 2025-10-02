@@ -22,97 +22,94 @@ This page explains PMI’s 12 **Project Management Principles** — a foundation
 
 You’ll learn what each principle means, how it appears in real projects, and how to recognize principle-driven thinking on the exam. This content is aligned with [[01-test-prep/04-eco|PMI’s Exam Content Outline (ECO)]] and [PMBOK guidance.](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge)  
 
-For terminology, refer to the [[3-glossary|Glossary]] anytime.  [[2-references.md|References]]
-
 ---
 ## What are the Principles of Project Management  
- [[2-references.md|References]]
-PMI defines 12 key principles to guide project performance and behavior. These are not rigid rules, but universally applicable values that empower decision-making across [[3-glossary#Project Management Lifecycle|project lifecycles]] and industries.  
+PMI defines 12 key principles to guide project performance and behavior. These are not rigid rules, but universally applicable values that empower decision-making across [[03-lifecycle/index.md|project lifecycles]] and industries.  
 
-Each principle reflects a mindset. Together, they shape how [[3-glossary#project manager|project professionals]] lead, [[3-glossary#collaboration|collaborate]], and [[3-glossary#value delivery|deliver value]].
+Each principle reflects a mindset. Together, they shape how project professionals lead, [[3-glossary#collaboration|collaborate]], and [[3-glossary#value delivery|deliver value]].
 
 ---
 [[#Project Management Principles|Top]]  
 ### 1. Be a Diligent, Respectful, and Caring Steward  
-Demonstrate responsibility for [[3-glossary#resource|resources]], [[3-glossary#outcome|outcomes]], and people. Care for the long-term impact of your project on the [[3-glossary#organization|organization]], [[3-glossary#project environment|environment]], and community. [[3-glossary#stewardship|Stewardship]] goes beyond ownership; it reflects integrity and sustainability.  
+Demonstrate responsibility for [[3-glossary#resource|resources]], outcomes, and [[04-eco#Domain I: People (42% of the exam)||people.]] Care for the long-term impact of your project on the [[3-glossary#organization|organization]], [[3-glossary#business environment|environment]], and community. [[3-glossary#stewardship|Stewardship]] goes beyond ownership; it reflects integrity and sustainability.  
 
-> *Exam Tip*: This principle often aligns with questions involving [[3-glossary#accountability|accountability]], ethical dilemmas, and sustainability trade-offs.
+ *Exam Tip*: This principle often aligns with questions involving [[3-glossary#accountability|accountability]], ethical dilemmas, and sustainability trade-offs.
 
 ---
 ### 2. Create a Collaborative Project Team Environment  
 Foster a culture where people feel safe to share, contribute, and challenge. Teams thrive when there is [[3-glossary#psychological safety|psychological safety]], mutual respect, and shared decision-making.  
 
-> [[3-glossary#collaboration|Collaboration]] and psychological safety are key cues in scenario-based questions here.
+[[3-glossary#collaboration|Collaboration]] and psychological safety are key cues in scenario-based questions here.
 
 ---
 
 ### 3. Effectively Engage with Stakeholders  
 Proactively identify and involve [[3-glossary#stakeholder|stakeholders]] throughout the project. Build trust, manage expectations, and ensure inclusive participation to co-create value.  
 
-> Look for clues about stakeholder communication, feedback loops, and relationship building.
+Look for clues about stakeholder communication, feedback loops, and relationship building.
 
 ---
 
 ### 4. Focus on Value  
 Deliver tangible and intangible [[3-glossary#value|value]] aligned with business goals. Prioritize efforts that maximize outcomes over outputs. Continually reassess to ensure relevance and benefit.  
 
-> On the exam, value-driven reasoning often beats cost- or schedule-only logic.
+On the exam, value-driven reasoning often beats cost- or schedule-only logic.
 
 ---
 [[#Project Management Principles|Top]]  
 ### 5. Recognize, Evaluate, and Respond to System Interactions  
 Use [[3-glossary#systems thinking|systems thinking]] to understand the ripple effects of decisions across the project ecosystem. Projects do not exist in isolation — consider enterprise, cultural, and environmental dimensions.  
 
-> Keywords include interdependencies, EEFs, and unintended consequences.
+Keywords include interdependencies, EEFs, and unintended consequences.
 
 ---
 
 ### 6. Demonstrate Leadership Behaviors  
 Model leadership through integrity, vision, and empathy — not just authority. Leadership includes guiding teams, resolving conflicts, and removing impediments.  
 
-> PMI prefers servant, situational, and transformational [[3-glossary#leadership|leadership]] styles over autocratic ones.
+PMI prefers servant, situational, and transformational [[3-glossary#leadership|leadership]] styles over autocratic ones.
 
 ---
 
 ### 7. Tailor Based on Context  
 Apply [[3-glossary#tailoring|tailoring]] to select the right methods, tools, and approaches based on the unique needs of each project. There's no one-size-fits-all methodology.  
 
-> Avoid applying "best practices" blindly — PMI wants contextual thinking.
+Avoid applying "best practices" blindly — PMI wants contextual thinking.
 
 ---
 
 ### 8. Build Quality into Processes and Deliverables  
 Embed [[3-glossary#quality|quality]] into every step. Prevent defects, don’t just detect them. Involve the team in continual improvement and validation of work.  
 
-> Questions may reference quality assurance vs. control, or process audits.
+Questions may reference quality assurance vs. control, or process audits.
 
 ---
 [[#Project Management Principles|Top]]  
 ### 9. Navigate Complexity  
 Acknowledge and actively manage [[3-glossary#complexity|complexity]] — whether from scope, stakeholders, technologies, or external influences. Seek simplicity where possible, but plan for ambiguity.  
 
-> On the exam, don't oversimplify nuanced situations; consider adaptability.
+On the exam, don't oversimplify nuanced situations; consider adaptability.
 
 ---
 
 ### 10. Optimize Risk Responses  
 Address both threats and opportunities with proactive [[3-glossary#risk management|risk management]]. Use appropriate strategies (avoid, mitigate, enhance, exploit) and involve the team in identification and planning.  
 
-> Many situational questions involve selecting the most appropriate risk response.
+Many situational questions involve selecting the most appropriate risk response.
 
 ---
 
 ### 11. Embrace Adaptability and Resilience  
 Support change, learning, and fast feedback. Encourage continuous improvement and embrace failure as a path to growth.  
 
-> PMI aligns this with Agile mindsets — expect scenarios involving changing requirements or uncertainty.
+PMI aligns this with Agile mindsets — expect scenarios involving changing requirements or uncertainty.
 
 ---
 
 ### 12. Enable Change to Achieve the Envisioned Future State  
 Lead transformation by promoting [[3-glossary#change management|change management]] and helping stakeholders transition effectively. Projects are agents of change — your role includes enabling adoption.  
 
-> Look for phrases like resistance, readiness, and stakeholder buy-in.
+Look for phrases like resistance, readiness, and stakeholder buy-in.
 
 ---
 [[#Project Management Principles|Top]]  
@@ -128,7 +125,7 @@ The principles come alive in day-to-day project actions — whether you're leadi
 ### Agile Example  
 - You empower the team during [[3-glossary#sprint|sprint]] retrospectives (Principles 2, 11).  
 - You adjust priorities based on stakeholder input in the [[3-glossary#product backlog|product backlog]] (Principle 3 – Stakeholder Engagement).  
-- You visualize [[3-glossary#flow|flow]] with a Kanban board and use [[3-glossary#burndown chart|burndown chart]]s for transparency (Principles 8, 12).  
+- You visualize workflow with a Kanban board and use [[3-glossary#burndown chart|burndown chart]]s for transparency (Principles 8, 12).  
 
 ### Hybrid Example  
 - You tailor your planning: predictive for regulatory work, agile for user testing (Principle 7).  

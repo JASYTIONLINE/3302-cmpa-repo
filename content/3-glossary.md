@@ -329,7 +329,7 @@ Used when mediation fails or when contracts mandate arbitration for legal confli
 
 ---
 
-### Artifacts
+### Artifact
 
 #### Definition
 Documents, templates, outputs, and deliverables produced throughout the project life cycle.
@@ -337,7 +337,7 @@ Documents, templates, outputs, and deliverables produced throughout the project 
 #### Context
 Artifacts include plans, reports, logs, and records that support project tracking and governance.
 
-#### [[3-glossary#artifacts|Artifacts]]
+#### [[3-glossary#artifact|Artifact]]
 
 ---
 
@@ -693,7 +693,42 @@ Unlike burndown charts, it shows progress and scope changes together.
 #### [[3-glossary#burnup-chart|Burnup chart]]
 
 ---
+### Business Case  
 
+#### Definition  
+A documented justification for a project, outlining the business need, expected benefits, costs, risks, and alignment with organizational strategy.  
+
+#### Context  
+The business case is developed during the **project initiation phase** and is typically owned by the sponsor, not the project manager.  
+It supports the decision of whether the project should be authorized and provides the foundation for creating the [project charter](#project-charter).  
+On the exam, the business case is often contrasted with the project charter:  
+- The **business case** answers *“Why are we doing this project?”*  
+- The **project charter** answers *“Who is authorized, and what are we delivering at a high level?”*  
+
+#### Exam Cue  
+On the exam, if a question asks which document explains the **justification for the project** or the **reason it was initiated**, the correct answer is the **Business Case**.  
+Do not confuse it with the project charter, which formally authorizes the project and assigns the project manager.  
+
+#### [[3-glossary#business case|Business case]]
+
+---
+### Business Environment  
+
+#### Definition  
+The external and internal conditions that influence and constrain project execution, including cultural, legal, regulatory, market, and organizational factors.  
+
+#### Context  
+In PMI’s 2021 Exam Content Outline, **Business Environment** is one of the three exam domains, alongside **People** and **Process**.  
+It emphasizes how projects must align with organizational strategy, comply with regulations, and respond to external factors such as market changes or sustainability expectations.  
+Key PMI artifacts tied to the business environment include the [business case](#business-case), [benefits management plan](#benefits-management-plan), and consideration of [enterprise environmental factors (EEFs)](#enterprise-environmental-factors).  
+On the exam, Business Environment questions test whether you understand how external pressures and organizational alignment affect decision-making and value delivery.  
+
+#### Exam Cue  
+On the exam, if a question refers to ensuring project alignment with strategy, regulatory compliance, sustainability, or organizational benefits, it is testing the **Business Environment** domain.  
+
+#### [[3-glossary#business environment|Business Environment]]
+
+---
 ### Business value
 
 #### Definition
@@ -1558,8 +1593,49 @@ The shared values, beliefs, and behaviors that influence how people work and int
 
 #### Context
 Company culture is like a personality — some are casual and creative, others are formal and rule-bound.
-
 #### [[3-glossary#culture|Culture]]
+
+---
+### Customer  
+
+#### Definition  
+The person, group, or organization that will use, approve, or benefit directly from the project’s product, service, or result.  
+
+#### Context  
+In PMI’s framework, the customer is typically the **end user or recipient** of the deliverables.  
+They:  
+- Define requirements and acceptance criteria.  
+- Participate in validation and acceptance of deliverables (e.g., [Validate Scope](#validate-scope)).  
+- May be internal or external to the performing organization.  
+
+The **sponsor**, by contrast, is the person or group who **authorizes and funds the project** and champions it within the organization. The sponsor ensures alignment with business strategy and signs the [project charter](#project-charter), while the customer evaluates whether the deliverables meet their needs.  
+
+On the exam, PMI expects you to distinguish:  
+- **Customer = receives or uses the deliverables.**  
+- **Sponsor = authorizes, funds, and champions the project.**  
+
+#### Exam Cue  
+On the exam, if a question asks **who signs off that the product or service meets requirements**, the answer is the **Customer**.  
+If the question asks **who provides authorization and funding for the project**, the answer is the **Sponsor**. 
+
+#### [[3-glossary#customer|Customer]]
+
+---
+### Customer Request  
+
+#### Definition  
+A stakeholder-initiated demand or requirement submitted by the customer for a new project, product, service, or change.  
+
+#### Context  
+In PMI’s framework, a customer request is one of the common **project initiation triggers**.  
+It often leads to the creation of a [business case](#business-case) or directly to a [project charter](#project-charter) if the request aligns with organizational strategy.  
+Not every request becomes a project; it must be evaluated for feasibility, value, and alignment with strategic objectives.  
+On the exam, customer requests typically appear in initiation scenarios, testing whether you know that such requests must be reviewed and formally authorized before project work begins.  
+
+#### Exam Cue  
+On the exam, if a scenario describes a **customer request** as the starting point for project work, the correct next step is usually to develop or reference the **business case** and move toward formal authorization through the **project charter**.  
+Do not assume the project manager immediately begins execution based on a request alone.  
+#### [[3-glossary#customer request|customer request.]]  
 
 ---
 
@@ -2200,6 +2276,25 @@ Like paying the final bills after moving out of an apartment.
 
 #### [[3-glossary#financial-closure|Financial closure]]
 
+---
+### First vs. Best  
+
+#### Definition  
+A PMP exam test-taking principle that reminds candidates to distinguish between the **first correct action** a project manager should take in a situation and the **best overall action** among the choices provided.  
+
+#### Context  
+PMI exam questions often include **multiple answers that seem correct**. One may describe a valid action, but not the *first* or *best* action according to PMI’s standards.  
+- **First action**: The immediate, most appropriate step the project manager should take in the given scenario (often tied to communication, stakeholder engagement, or following process order).  
+- **Best action**: A broader action that may also be correct in real life, but is either too late in sequence or not aligned with PMI’s expected “most immediate” approach.  
+
+On the exam, the distinction between *first versus best* helps eliminate trap answers that are technically correct but **not PMI’s intended correct answer in that situation**.  
+
+#### Exam Cue  
+On the exam, if two answers look correct, ask yourself:  
+- *What is the project manager’s immediate, first action?*  
+- *Which option aligns most closely with PMI’s process sequence and stakeholder-first mindset?*  
+Choose the “first correct action” PMI expects, not the distractor that is also right but **out of order or premature**.  
+#### [[3-glossary#first vs. best|first vs, best]]
 ---
 
 ### Fishbone diagram
@@ -2882,6 +2977,25 @@ Learn more: https://en.wikipedia.org/wiki/Joseph_M._Juran
 
 ---
 
+### Justification  
+
+#### Definition  
+The documented reason for initiating a project, describing the problem, opportunity, or business need it addresses.  
+
+#### Context  
+In PMI’s framework, justification is usually captured in the [business case](#business-case).  
+It explains *why* the project is being undertaken and provides the foundation for evaluating whether the project should proceed.  
+
+Justification is different from the [project charter](#project-charter), which formally authorizes the project — the charter often references the justification from the business case.  
+On the exam, justification helps differentiate between **why a project exists** (business case) and **what it authorizes and delivers** (project charter).  
+
+##### Exam Cue  
+On the exam, if a scenario asks about the document or information that explains **why the project is being initiated**, the correct concept is **Justification**, typically found in the **business case**.  
+
+ #### [[3-glossary#Justification|Justification]] 
+
+---
+
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ## K
 ---
@@ -3112,7 +3226,24 @@ Like deciding whether to cook dinner at home or order takeout.
 #### [[3-glossary#make-or-buy-analysis|Make-or-buy analysis]]
 
 ---
+### Manage Conflict  
 
+#### Definition  
+The process of handling disagreements or differences of opinion among project stakeholders or team members in a constructive way that supports project objectives.  
+
+#### Context  
+Manage Conflict is part of the **People domain** in the ECO and is a key interpersonal skill for project managers.  
+PMI emphasizes proactive conflict management — addressing issues early, focusing on interests rather than positions, and seeking win–win outcomes.  
+Common conflict resolution techniques include: **collaborate/problem solve, compromise/reconcile, smooth/accommodate, force/direct, and withdraw/avoid**.  
+On the exam, questions test whether you select the approach that is most appropriate given the situation — for example, using collaboration for long-term solutions, or smoothing for minor disagreements.  
+
+#### Exam Cue  
+On the exam, if a scenario describes team disagreements, the correct response is often to **address the conflict directly and constructively** rather than ignoring it or escalating too quickly.  
+PMI favors collaborative, interest-based approaches that build trust and support long-term project success.  
+
+#### [[3-glossary#Manage Conflict|Manage Conflict]]
+
+---
 ### Management reserve
 
 #### Definition
@@ -3136,7 +3267,30 @@ Like different parenting styles — strict, participatory, or hands-off.
 #### [[3-glossary#management-styles|Management styles]]
 
 ---
+### Mark and Move
 
+#### Definition  
+A PMP exam test-taking strategy where candidates flag (mark) a difficult or time-consuming question and move on, returning to it later if time allows.  
+
+#### Context  
+The PMP exam is a timed test (230 minutes for 180 questions). Spending too much time on a single difficult question can hurt overall performance.  
+The *mark and move* strategy ensures you continue answering questions you know, maintaining pace and maximizing your score.  
+On the exam, use this tactic when:  
+- You cannot quickly eliminate wrong answers.  
+- The question requires heavy calculation or is unusually wordy.  
+- You feel unsure but want to revisit later with a fresher perspective.  
+
+#### Exam Cue  
+If you encounter a question that is consuming too much time or creating doubt, the best action is often to **mark and move**.  This keeps your momentum, avoids time pressure, and allows you to return later with a clearer mind.  
+- If a question takes longer than ~90 seconds and you’re still stuck, it’s a good candidate to **mark and move**.
+    
+- The key is to **protect your average pace**:
+    
+    - If you get bogged down, you risk running short on time later.
+        
+    - By moving on, you keep answering the “easy points” and can return to hard ones later.
+
+---
 ### Market
 
 #### Definition
@@ -3424,7 +3578,24 @@ Like sorting your shopping list into essentials, nice-to-haves, and unnecessary 
 #### [[3-glossary#moscow|MoSCoW]]
 
 ---
+### Most Right Answer  
 
+#### Definition  
+A PMP exam test-taking principle that emphasizes selecting the option that best aligns with PMI’s standards and principles when more than one answer seems correct.  
+
+#### Context  
+PMI exam questions are situational and often include multiple answers that look valid.  
+- Some may describe actions a project manager *could* take.  
+- Only one reflects PMI’s **“most right”** approach: proactive, process-driven, and stakeholder-focused.  
+This strategy reminds test takers to evaluate all options and pick the answer that is not just correct, but most consistent with PMI’s principles and best practices.  
+
+ Exam Cue  
+On the exam, when several answers seem correct, choose the **most right answer** — the one that reflects PMI’s emphasis on planning before acting, engaging stakeholders, addressing root causes, and aligning with value delivery.  
+Avoid options that are technically correct but reactive, incomplete, or out of sequence.  
+
+[[3-glossary#most right answer|Most Right Answer]]
+
+---
 ### Motivation
 
 #### Definition
@@ -3590,7 +3761,27 @@ Like taking a virtual cooking class on YouTube or Zoom.
 #### [[3-glossary#online-learning|Online learning]]
 
 ---
+### Organization  
 
+#### Definition  
+The structured entity — such as a company, government agency, or nonprofit — within which projects, programs, and portfolios are executed.  
+
+#### Context  
+In PMI’s framework, the organization provides the **strategic context**, governance, and resources that enable projects to be initiated and managed.  
+Organizational factors influence how projects are conducted, including:  
+- **Organizational structures** (functional, matrix, projectized, hybrid).  
+- **Governance frameworks** that define decision-making authority.  
+- **Organizational process assets (OPAs)** and **enterprise environmental factors (EEFs)** that guide and constrain project work.  
+
+On the exam, “organization” is often the context for questions about authority, governance, and alignment with strategy — for example, how a project manager’s role changes in a functional versus matrix environment.  
+
+#### Exam Cue  
+On the exam, when a scenario refers to the company or entity that sets strategy, allocates resources, and defines governance for projects, it is describing the **organization**.  
+Do not confuse this with the **project team** (who executes the work) or the **portfolio/program** (which are groupings of projects within the organization).  
+
+#### [[3-glossary#organization|Organization]]
+
+---
 ### Organizational assessment
 
 #### Definition
@@ -3883,7 +4074,30 @@ Like giving a class project presentation to your peers.
 #### [[3-glossary#presentations|Presentations]]
 
 ---
+### Principle Driven Reasoning  
 
+#### Definition  
+A PMP exam strategy that reminds candidates to select answers that align with PMI’s project management principles, even when multiple options appear correct.  
+
+#### Context  
+PMI shifted to a **principle-based framework** in the PMBOK® Guide (7th edition).  
+On situational questions, the “best” answer is the one that reflects principles such as:  
+- Stewardship,  
+- Team and stakeholder engagement,  
+- Value delivery,  
+- Systems thinking,  
+- Leadership,  
+- Tailoring,  
+- Quality and complexity awareness.  
+
+This strategy means you should think beyond process memorization and ask: *Which option reflects PMI’s principles in action?*  
+
+#### Exam Cue  
+On the exam, when two or more answers seem reasonable, choose the one that aligns with PMI’s principles — e.g., engaging stakeholders, ensuring value delivery, or tailoring to context — rather than shortcuts, reactive actions, or command-and-control behavior.  
+
+[[3-glossary#principle driven reasoning|Principle Driven Reasoning]]
+
+---
 ### Priorities
 
 #### Definition
@@ -4075,7 +4289,26 @@ Like using a checklist to mark off completed chores.
 #### [[3-glossary#progress-tracking|Progress tracking]]
 
 ---
+### Project  
 
+#### Definition  
+A temporary endeavor undertaken to create a unique product, service, or result.  
+
+#### Context  
+In PMI’s framework, projects are **temporary** (with a defined start and end) and produce **unique outputs** (distinct from ongoing operations).  
+
+- They are undertaken to fulfill business needs, regulatory requirements, customer requests, or strategic initiatives.  
+- A project may be part of a program or portfolio but is distinct in scope and objectives.  
+
+On the exam, questions about “what is a project” often test whether you can distinguish projects from **operations** (ongoing, repetitive work) and from **programs or portfolios** (higher-level groupings).  
+
+ Exam Cue  
+On the exam, if a scenario describes **temporary work with a unique deliverable**, it is a project.  
+Do not confuse it with operations (continuous, repetitive) or programs/portfolios (coordinated management of multiple projects).  
+
+#### [[3-glossary#project|Project]]
+
+---
 ### Project charter
 
 #### Definition
@@ -4099,7 +4332,22 @@ Like house rules that keep everyone on the same page.
 #### [[3-glossary#project-governance|Project governance]]
 
 ---
+### Project Management  
 
+#### Definition  
+The application of knowledge, skills, tools, and techniques to project activities to meet the project requirements.  
+
+ Context  
+According to PMI, project management is carried out through the appropriate application and integration of processes within the five process groups: Initiating, Planning, Executing, Monitoring and Controlling, and Closing.  
+It is guided by principles (PMBOK® Guide – Seventh Edition) and tailored to fit predictive, agile, or hybrid life cycles.  
+On the exam, questions about “what is project management” often test whether you can distinguish it from **operations management** (ongoing, repetitive work) and **program/portfolio management** (managing related projects or strategic initiatives).  
+
+#### Exam Cue  
+On the exam, if a scenario describes *applying knowledge, skills, tools, and techniques to achieve project objectives*, the correct concept is **Project Management**.  
+Do not confuse it with operations (ongoing work) or with program/portfolio management (higher-level coordination).  
+#### [[3-glossary#project management|Project Management]]
+
+---
 ### Project management plan
 
 #### Definition
@@ -4109,6 +4357,28 @@ The integrated document that defines how the project will be executed, monitored
 Like a detailed travel itinerary covering all plans and contingencies.
 
 #### [[3-glossary#project-management-plan|Project management plan]]
+
+---
+### Project Manager  
+
+#### Definition  
+The person assigned by the performing organization to lead the team responsible for achieving the project objectives.  
+
+#### Context  
+In PMI’s framework, the project manager is accountable for **integrating processes, managing constraints, and delivering project outcomes** that align with organizational strategy.  
+Key responsibilities include:  
+- Managing the [triple constraint](#triple-constraint) of scope, schedule, and cost.  
+- Engaging with stakeholders and fostering a [shared understanding](#shared-understanding).  
+- Leading and motivating the team (People domain).  
+- Ensuring value delivery and alignment with the [business case](#business-case).  
+
+The project manager is distinct from the [sponsor](#sponsor), who authorizes and funds the project, and from functional managers, who oversee operational work.  
+
+ Exam Cue  
+On the exam, if a question asks **who is responsible for leading the team and integrating processes to achieve project objectives**, the correct answer is the **Project Manager**.  
+Do not confuse this role with the sponsor (who authorizes and funds) or stakeholders (who may influence or be affected by the project).  
+
+#### [[3-glossary#project manager|Project Manager]]
 
 ---
 
@@ -4301,7 +4571,24 @@ Like packing your suitcase before leaving for vacation.
 #### [[3-glossary#readiness|Readiness]]
 
 ---
+### Resource  
 
+#### Definition  
+Any personnel, equipment, material, facility, or funding used to perform project work.  
+
+#### Context  
+In PMI’s framework, resources are categorized as **human resources** (people) and **physical resources** (materials, tools, facilities, supplies, and funding).  
+The [resource management](#resource-management) processes ensure that resources are planned, acquired, developed, and managed effectively.  
+On the exam, “resource” often refers not just to team members, but to the full range of assets needed to deliver project outcomes.  
+Distinguish it from **stakeholders** (who may influence or be affected by the project but are not necessarily resources).  
+
+#### Exam Cue  
+On the exam, if a question asks about assigning, acquiring, or managing people, equipment, or materials needed to complete project activities, the correct concept is **Resource**.  
+Do not assume the term means only people; PMI uses it broadly to include all assets needed for project work.  
+
+#### [[3-glossary#Resource|Resource]]
+
+---
 ### Recognition
 
 #### Definition
@@ -5063,7 +5350,7 @@ Like splitting chores evenly among roommates.
 
 ---
 
-### Shared understanding
+### Shared Understanding
 
 #### Definition
 A common agreement among stakeholders about project objectives, goals, and expectations.
@@ -5071,7 +5358,7 @@ A common agreement among stakeholders about project objectives, goals, and expec
 #### Context
 Like making sure everyone in a group agrees on the rules of a board game before playing.
 
-#### [[3-glossary#shared-understanding|Shared understanding]]
+#### [[3-glossary#shared-understanding|Shared Understanding]]
 
 ---
 
@@ -5084,6 +5371,31 @@ A leadership style that adapts based on the team’s needs and the situation.
 Like being strict when kids are in danger but relaxed when they’re playing safely.
 
 #### [[3-glossary#situational|Situational]]
+
+---
+### Situational Best Practices  
+
+#### Definition  
+A test-taking principle for the PMP exam: when presented with multiple valid actions, always choose the option that reflects PMI’s ideal “best practice” for a project manager, not just what might work in the real world.  
+
+#### Context  
+The PMP exam is situational and often gives **more than one answer that looks correct**. PMI expects candidates to pick the response that aligns with its professional standards and values.  
+Typical PMI “best practices” include:  
+- Engage stakeholders early and often.  
+- Communicate proactively, transparently, and formally when needed.  
+- Follow process order (plan → execute → monitor/control) before jumping to corrective actions.  
+- Prevent issues before reacting to them (be proactive).  
+- Escalate only when necessary, after exhausting appropriate PM actions.  
+
+On the exam, answers that look like “common sense in the real world” may be wrong if they skip steps, are reactive, or ignore stakeholder engagement.  
+
+#### Exam Cue  
+On the exam, if two or more answers seem correct, pick the one that reflects PMI’s situational best practices: proactive, process-aligned, and stakeholder-focused.  
+Avoid choices that:  
+- Skip planning,  
+- Act without stakeholder engagement,  
+- Are reactive instead of preventive,  
+- Or bypass the project manager’s role and escalate too soon.  
 
 ---
 
@@ -5194,7 +5506,27 @@ Like a weekend to-do list for house chores.
 #### [[3-glossary#sprint-backlog|Sprint backlog]]
 
 ---
+### Sponsor  
 
+#### Definition  
+The person or group that provides resources, support, and high-level direction for the project and is accountable for its success.  
+
+#### Context  
+In PMI’s framework, the sponsor:  
+- Authorizes the project through the [project charter](#project-charter).  
+- Provides funding and resources.  
+- Champions the project within the organization.  
+- Supports the project manager by removing obstacles and providing alignment with organizational strategy.  
+
+On the exam, the sponsor is distinct from the project manager. The sponsor owns the **business case** and ensures the project delivers value, while the project manager leads day-to-day execution.  
+
+#### Exam Cue  
+On the exam, if a question asks **who authorizes the project** or **who provides resources and organizational support**, the correct answer is the **Sponsor**.  
+Do not confuse the sponsor with the project manager (who manages execution) or stakeholders (who are impacted by the project).  
+
+#### [[3-glossary#sponsor|Sponsor]]
+
+---
 ### Stakeholder
 
 #### Definition
@@ -5374,7 +5706,24 @@ Like a recipe standard that ensures every cake tastes the same no matter who bak
 #### [[3-glossary#standards|Standards]]
 
 ---
+### Stewardship  
 
+#### Definition  
+The ethical responsibility of project managers to act as diligent caretakers of the organization’s resources, reputation, and outcomes, ensuring that decisions are made in the best interest of stakeholders and long-term value delivery.  
+
+#### Context  
+Stewardship is one of the **principles in the PMBOK® Guide – Seventh Edition**.  
+It reflects PMI’s emphasis on accountability, integrity, and responsible use of resources.  
+On the exam, stewardship connects to topics such as **ethics, governance, sustainability, and stakeholder trust**.  
+It also underpins PMI’s expectation that project managers serve as **stewards of value delivery**, protecting organizational assets and reputation.  
+
+#### Exam Cue  
+On the exam, if a scenario describes a project manager making a decision about resource use, compliance, or ethics, the principle guiding the “most right answer” is often **Stewardship**.  
+Do not confuse stewardship with tactical project management tasks — it is about **long-term responsibility and ethical care of resources**.  
+
+#### [[3-glossary#stewardship|Stewardship]]
+
+---
 ### Storming
 
 #### Definition
