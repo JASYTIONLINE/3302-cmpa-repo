@@ -18,8 +18,9 @@ Welcome to my Website. I am JASYTI, but I'm not just another social you Tube inf
 ---
 ## Purpose
 This site is both a **course project** and a **personal knowledge base**.  
-It exists to demonstrate mastery of CMPA 3302 learning outcomes while also serving as a practical tool for preparing for the **PMP Certification Exam**.  
 
+
+It exists to demonstrate mastery of CMPA 3302 learning outcomes while also serving as a practical tool for preparing for the **PMP Certification Exam**.  
 In the context of the course, this site shows my ability to:
 - Structure information into **logical categories**.  
 - Apply **PMBOK 6 and PMBOK 7 principles**.  
@@ -32,8 +33,9 @@ For professional development, it is intended to:
 
 The site is not just for assignments — it is designed to be **a living system** that blends coursework with ongoing PMP exam study and professional project management practice.
 
----
 ## How to Use This Site
+---
+
 This site is organized into **categories**, each representing a major domain of project management knowledge.  
 Here’s how to navigate effectively:
 
@@ -41,7 +43,7 @@ Here’s how to navigate effectively:
    - Use the **Quick Links panel** below to jump directly to About, References, Glossary, or the repository README.  Generally: Quick links take you to other pages in the same folder and Navigation Links take you to other index pages in related categories outside the folders.
    - These pages give you context and supporting resources.  
 
-2. **Explore Main Categories**  
+1. **Explore [[#Main Categories]]
    - Each category index page introduces its section and lists the subpages.  
    - Categories are interconnected with “Related Categories” links to support discovery.  
 
@@ -54,8 +56,8 @@ Here’s how to navigate effectively:
    - Some pages include images, diagrams, or PDFs in the `assets/` folder.  
    - These demonstrate rubric requirements and provide study aids.  
 
-5. **Bottom Navigation**  
-   - Long pages include navigation at the bottom to return to the Home page or the current category index.  
+1. [[#Main Categories|Jump Links]]  
+   - Long pages include Jump Link navigation at the dispersed to return to the [[#JASYTI's Project Management Professional Knowledge Base – HOME|Top]] or the current category index.  
 
 By combining structured navigation with inter-page links, the site supports **search, browse, and discovery** — the three main ways users interact with organized information.  
 
@@ -74,7 +76,7 @@ NOTE: If you want to Study without Studying and break free from the hum drum sta
 - [[01-test-prep/index|Test Prep & Tactics]]
 - [[02-pmbok/index|Project Management Body of Knowledge]]
 - [[03-lifecycle/index|Lifecycle of a Project]]
-- [[04-ittos/index|ITTOs]]
-- [[05-tlg/index|The Last Gate]]
+- [[04-ittos/index|Inputs, Tools, Techniques, and Outputs (ITTOs)]]
+- [[05-tlg/index|The Last Gate - An interactive Sci-Fi Adventure]]
 
 ---
