@@ -13,7 +13,7 @@ enableToc: true
 
 # Executing Process ITTOs  
 [[2-references.md|References]]  
-![[executing-ittos-map.png]]  
+![image of  ab half built bridge spanning a river](executing-itto.png)
 *Plans don't deliver projects — people do.*
 
 ---

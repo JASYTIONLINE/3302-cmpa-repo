@@ -10,7 +10,7 @@ draft: false
 date: 2025-10-02
 enableToc: true
 ---
-
+![image of a man filing paperwork](closing-itto.png)
 # Closing Process ITTOs  
 [[2-references.md|References]]  
 
