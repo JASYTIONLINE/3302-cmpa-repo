@@ -52,16 +52,31 @@ In project contexts, acceptance is documented confirmation that deliverables mee
 #### [[3-glossary#acceptance|Acceptance]]
 
 ---
+### Acceptance Criteria  
 
-### Acceptance criteria
+#### Definition  
+**Acceptance criteria** are the specific conditions or standards that a deliverable must meet to be formally approved by the customer, sponsor, or other authorized stakeholders.
 
-#### Definition
-A set of conditions that must be met before deliverables are accepted.
+#### Context  
+Acceptance criteria are defined early in the project, typically during:  
+- **Collect Requirements**  
+- **Define Scope**  
+- **Validate Scope**
 
-#### Context
-These criteria are used during quality control processes and formal acceptance by stakeholders.
+They ensure a shared understanding of what "done" means and help prevent disputes over whether deliverables meet stakeholder expectations.
 
-#### [[3-glossary#acceptance-criteria|Acceptance criteria]]
+Acceptance criteria should be:  
+- **Clear** – understandable by all parties  
+- **Measurable** – objectively verifiable  
+- **Agreed upon** – documented and approved  
+- **Relevant** – tied directly to project objectives and deliverables  
+
+They are often documented in requirement specifications, contracts, or scope statements.
+
+#### Exam Cue  
+If a scenario involves deliverable sign-off, client dissatisfaction, or incomplete work, PMI often expects the project manager to reference or revisit the **acceptance criteria** to ensure alignment and approval.
+
+#### [[3-glossary#acceptance criteria|Acceptance Criteria]]  
 
 ---
 
@@ -112,6 +127,24 @@ In a RACI matrix, this is the person who ensures work is completed and decisions
 #### [[3-glossary#accountable|Accountable]]
 
 ---
+### Acceptance  
+
+#### Definition  
+**Acceptance** is the formal acknowledgment by an authorized stakeholder that a deliverable, service, or result meets defined criteria and is approved.
+
+#### Context  
+Acceptance can occur at different stages of the project and may take various forms, including:  
+- **Preliminary acceptance** – provisionally approves early or incomplete work  
+- **Final acceptance** – confirms full compliance at the end of the project  
+- **Conditional acceptance** – granted pending specific changes or corrections  
+
+Acceptance is critical for validating scope and moving work forward or closing the project.
+
+#### Exam Cue  
+If a question involves stakeholder approval, deliverable hand-off, or project closure, PMI often expects formal **acceptance** of the work as a prerequisite.
+#### [[3-glossary#acceptance|Acceptance]]  
+---
+
 
 ### Actions
 
@@ -136,6 +169,27 @@ Improves team collaboration and stakeholder engagement through empathy and clari
 #### [[3-glossary#active-listening|Active listening]]
 
 ---
+### Activities  
+
+#### Definition  
+**Activities** are the specific tasks or units of work that must be performed to produce project deliverables. They are the lowest-level elements derived from the Work Breakdown Structure (WBS) during schedule planning.
+
+#### Context  
+Activities are defined in the *Define Activities* process and form the basis for creating the project schedule.  
+Key steps involving activities include:  
+- **Define Activities** – identifying the actions required to complete work packages  
+- **Sequence Activities** – determining the logical order  
+- **Estimate Activity Durations** – assessing time needed per activity  
+- **Develop Schedule** – integrating all activity data into a schedule model  
+
+Each activity typically has defined start and finish points, assigned resources, and dependencies with other activities.
+
+#### Exam Cue  
+If a scenario includes delays, missing schedule detail, or unclear task assignments, PMI often expects the project manager to revisit the **activity list**, sequencing, or duration estimates.
+
+#### [[3-glossary#activities|Activities]]  
+---
+
 
 ### Activity attributes
 
@@ -268,7 +322,27 @@ Ensuring alignment helps justify the project's value and guides prioritization d
 #### [[3-glossary#alignment|Alignment]]
 
 ---
+### Analysis  
 
+#### Definition  
+A systematic examination of data, information, or alternatives to support decision-making in project management.  
+
+#### Context  
+In PMI’s framework, analysis underpins many processes across the knowledge areas.  
+Common types include:  
+- **Root cause analysis** → identifying the source of issues.  
+- **Variance analysis** → comparing actual vs. planned performance (e.g., [schedule variance](#schedule-variance), [cost variance](#cost-variance)).  
+- **Trend analysis** → projecting performance into the future.  
+- **Alternative analysis** → evaluating different options to determine the best path forward.  
+
+- On the exam, “analysis” usually signals the need for a **structured, data-driven approach** before deciding or acting. PMI expects analysis before implementation — jumping straight to action without it is often a trap answer.  
+
+#### Exam Cue  
+On the exam, if a scenario asks what the project manager should do next when faced with incomplete, conflicting, or performance-related information, the correct answer often involves conducting an **analysis** before making a decision.  
+
+#### [[3-glossary#analysis|analysis]]
+
+---
 ### Analogous estimation
 
 #### Definition
@@ -400,6 +474,26 @@ Typically defined in the project charter or organizational structure to ensure c
 #### [[3-glossary#authority|Authority]]
 
 ---
+### Authorized  
+
+#### Definition  
+**Authorized** refers to formal approval or the granting of official power or permission to act on behalf of the organization or project. It can describe either an action taken (e.g., authorizing a project) or a person/entity that holds the legal or organizational authority (e.g., an authorized sponsor or customer).
+
+#### Context  
+In PMI terminology, **authorization** is a recurring concept across initiating, planning, and executing processes. It shows up in several ways:  
+- **Project Authorization** – the formal approval to begin the project, usually documented in the **project charter**  
+- **Authorized Sponsor/Customer** – the individual(s) who have the legal or contractual authority to approve deliverables, sign off on final acceptance, and commit organizational resources  
+- **Authorized Work** – activities or expenditures that are approved within scope and budget  
+- **Change Authorization** – approval of change requests through the **Change Control Board** or other governance bodies  
+
+Authorization implies legitimacy, alignment with governance, and the power to make binding decisions.
+
+#### Exam Cue  
+When an exam question references approvals, project start, sign-off, or stakeholder decisions, PMI often expects that action to come from an **authorized** party — not just any stakeholder.
+
+#### [[3-glossary#authorized|Authorized]]  
+---
+
 
 ### Autocratic
 
@@ -818,7 +912,7 @@ Helps track the history, decisions, and implementation of changes.
 
 ---
 
-### Change management
+### Change Management
 
 #### Definition
 A structured approach to transitioning individuals, teams, and organizations to a desired future state.
@@ -826,7 +920,7 @@ A structured approach to transitioning individuals, teams, and organizations to 
 #### Context
 Focuses on stakeholder engagement, communication, and adoption of change.
 
-#### [[3-glossary#change-management|Change management]]
+#### [[3-glossary#change-management|Change Management]]
 
 ---
 
@@ -1694,13 +1788,24 @@ Like knowing which parent decides on bedtime rules versus which decides on weeke
 
 ### Decomposition
 
-#### Definition
-A technique used to break down project deliverables into smaller, more manageable components.
+#### Definition  
+**Decompose work** refers to the process of breaking down project deliverables into smaller, more manageable components. It is a key technique used in creating the Work Breakdown Structure (WBS).
 
-#### Context
-Like breaking down a big chore list into smaller tasks — easier to handle step by step.
+#### Context  
+Decomposition is typically performed during the *Create WBS* process. It allows the project team to:  
+- Organize deliverables hierarchically  
+- Clarify scope  
+- Enable accurate time, cost, and resource estimation  
+- Assign responsibilities  
 
-#### [[3-glossary#decomposition|Decomposition]]
+Each level of decomposition brings more detail and supports better control. Work is decomposed until it reaches **work packages**, which are the smallest units of planned work.
+
+#### Exam Cue  
+When a question mentions large, unclear tasks or difficulty assigning work, PMI typically expects the project manager to **decompose** the deliverables into smaller parts using the WBS.
+
+#### [[3-glossary#decomposition|Decomposition]]  
+---
+
 
 ---
 
@@ -1715,17 +1820,28 @@ Like asking a friend to water your plants while you’re away — you trust them
 #### [[3-glossary#delegation|Delegation]]
 
 ---
+### Deliverable  
 
-### Deliverable
+#### Definition  
+A **deliverable** is any unique and verifiable product, result, or capability that must be produced to complete a project, phase, or process. Deliverables may be tangible (e.g., a report, system, or building) or intangible (e.g., software code, training, or approvals).
 
-#### Definition
-Any unique and verifiable product, result, or service produced to complete a process or project.
+#### Context  
+Deliverables are central to scope and quality management.  
+They are defined during:  
+- **Define Scope** – where major deliverables are clarified  
+- **Create WBS** – where they are broken down into smaller components  
+- **Validate Scope** – where they are reviewed and accepted by authorized stakeholders  
 
-#### Context
-Like the cake you bake at the end of following a recipe — it’s the tangible result.
+Types of deliverables include:  
+- **Project deliverables** – the actual product, service, or result  
+- **Process deliverables** – documentation, plans, logs, and reports generated during execution  
+- **Internal deliverables** – items needed to manage or support the project  
+- **External deliverables** – items provided to the customer or sponsor  
 
-#### [[3-glossary#deliverable|Deliverable]]
+#### Exam Cue  
+If a scenario focuses on work output, stakeholder approval, or project progress, PMI typically expects clarity around **deliverables**, their acceptance criteria, and how they are verified or validated.
 
+#### [[3-glossary#deliverable|Deliverable]]  
 ---
 
 ### Delivery
@@ -2092,6 +2208,31 @@ Like a school rule that says first talk to your teacher, then the principal if t
 #### [[3-glossary#escalation-path|Escalation path]]
 
 ---
+### Estimate  
+
+#### Definition  
+An **estimate** is an approximate assessment of the likely amount of time, cost, resources, or effort required to complete a project task or component.
+
+#### Context  
+In PMI’s framework, estimation supports realistic planning and budgeting. Common estimation types include:  
+- **Duration estimates** – how long an activity will take  
+- **Cost estimates** – how much an activity or deliverable will cost  
+- **Resource estimates** – what and how many resources are needed  
+
+Techniques may include:  
+- **Analogous estimating** (based on historical data)  
+- **Parametric estimating** (using mathematical models)  
+- **Three-point estimating** (optimistic, pessimistic, most likely)  
+- **Bottom-up estimating** (aggregating from detailed components)
+
+Estimates feed into baselines and are updated as project details become clearer.
+
+#### Exam Cue  
+When a scenario deals with unrealistic timelines, budget gaps, or resourcing issues, PMI expects the project manager to **refine or validate estimates** using structured techniques.
+
+#### [[3-glossary#estimate|Estimate]]  
+---
+
 
 ### Estimate at Completion
 
@@ -2523,16 +2664,27 @@ Like a child learning to ride a bike — skills and confidence grow over time.
 ---
 [[#Glossary|Top]]
 
-### Handover
+### Handover  
 
-#### Definition
-The formal transfer of responsibility for deliverables from the project team to operations or stakeholders.
+#### Definition  
+**Handover** is the formal process of transferring responsibility for deliverables, products, or project outcomes from the project team to the client, operations, or support teams.
 
-#### Context
-Like handing over house keys to a new tenant.
+#### Context  
+Handover typically occurs near or at project closure and ensures continuity in the use, maintenance, or support of the project's outputs.  
+It may include:  
+- Transferring documentation, licenses, or physical assets  
+- Providing training and operational support materials  
+- Confirming readiness of receiving parties to take ownership  
+- Conducting final walkthroughs or reviews  
 
-#### [[3-glossary#handover|Handover]]
+Handover is essential for successful transition from project to business-as-usual (BAU) operations or to another project phase.
 
+It is sometimes confused with final acceptance, but while **final acceptance** confirms approval of deliverables, **handover** focuses on **transfer of responsibility**.
+
+#### Exam Cue  
+If a question involves project closure, transition to operations, or preparing end users, PMI often expects the project manager to ensure a proper **handover** process is planned and executed.
+
+#### [[3-glossary#handover|Handover]]  
 ---
 
 ### Health and safety
@@ -3072,7 +3224,29 @@ Like tracking your steps with a fitness tracker to measure progress toward a hea
 #### [[3-glossary#key-performance-indicators|Key performance indicators]]
 
 ---
+### Key Process  
 
+#### Definition  
+A **key process** is a fundamental activity or group of activities within project management that is critical to achieving successful project outcomes. These are typically high-impact processes found in all project phases and knowledge areas.
+
+#### Context  
+In PMI’s framework, key processes are often those that:  
+- Directly influence project success (e.g., [Develop Project Management Plan](#develop-project-management-plan), [Identify Risks](#identify-risks), [Control Schedule](#control-schedule)).  
+- Appear frequently in process groups and knowledge areas.  
+- Are tightly linked with decision-making, stakeholder engagement, and integration.  
+
+Examples include:  
+- **Define Scope** – sets boundaries for what’s included/excluded in the project.  
+- **Monitor and Control Project Work** – tracks and manages performance.  
+- **Perform Integrated Change Control** – evaluates and manages change requests.  
+
+Missing or poorly executed key processes often lead to scope creep, stakeholder misalignment, or budget overruns.
+
+#### Exam Cue  
+When an exam question emphasizes control, alignment, or proactive decision-making, look for options involving **key processes** like planning, monitoring, or integrating. PMI favors structured approaches where these processes are executed as part of the project lifecycle.
+
+#### [[3-glossary#key-process|key process]]  
+---
 ### Kirkpatrick model
 
 #### Definition
@@ -3713,6 +3887,31 @@ Like aiming to save $1,000 in three months for a vacation.
 #### [[3-glossary#objectives|Objectives]]
 
 ---
+### Obligation
+
+#### Definition  
+**Obligations** are formal or implied commitments, responsibilities, or duties that a party is expected to fulfill within the context of a project, contract, or professional relationship.
+
+#### Context  
+In project management, obligations may arise from:  
+- **Contracts and procurement agreements** – legal commitments between buyer and seller  
+- **Project plans and charters** – commitments made by the team, sponsor, or stakeholders  
+- **Stakeholder expectations** – understood or documented responsibilities  
+- **Compliance requirements** – regulatory, legal, or organizational standards
+
+Fulfilling obligations is essential for maintaining trust, meeting contractual terms, and avoiding disputes or rework.
+
+Examples include:  
+- A vendor’s obligation to deliver components on time  
+- A project manager’s obligation to provide status updates  
+- A sponsor’s obligation to fund project phases  
+
+#### Exam Cue  
+If a scenario discusses responsibilities, contracts, stakeholder expectations, or unmet commitments, PMI often expects the project manager to address the **obligations** explicitly — ensuring they are tracked, met, or renegotiated.
+
+#### [[3-glossary#obligation|Obligation]]  
+---
+
 
 ### Obstacles
 
@@ -3761,6 +3960,32 @@ Like taking a virtual cooking class on YouTube or Zoom.
 #### [[3-glossary#online-learning|Online learning]]
 
 ---
+### Opportunities  
+
+#### Definition  
+**Opportunities** are a type of individual project risk that, if they occur, could have a **positive impact** on one or more project objectives such as cost savings, time reduction, improved quality, or increased stakeholder satisfaction.
+
+#### Context  
+Opportunities are addressed within the project’s risk management processes, especially during:  
+- **Identify Risks**  
+- **Perform Qualitative Risk Analysis**  
+- **Perform Quantitative Risk Analysis**  
+- **Plan Risk Responses**
+
+Common strategies for opportunities include:  
+- **Exploit** – ensure the opportunity is realized  
+- **Enhance** – increase the probability or impact  
+- **Share** – allocate ownership to a third party for mutual benefit  
+- **Accept** – take no proactive action but monitor  
+
+Opportunities are the upside of uncertainty and can be leveraged to improve project outcomes.
+
+#### Exam Cue  
+When a scenario presents unexpected benefits, positive trends, or favorable conditions, PMI typically considers these **opportunities**, and the correct response often involves proactively planning to **capitalize** on them.
+
+#### [[3-glossary#opportunities|Opportunities]]  
+---
+
 ### Organization  
 
 #### Definition  
@@ -3990,6 +4215,27 @@ Learn more: https://en.wikipedia.org/wiki/Philip_B._Crosby
 #### [[3-glossary#philip-crosby|Philip Crosby]]
 
 ---
+### Plan  
+
+#### Definition  
+**plan** is a formalized strategy or approach developed to guide the execution and control of a project or a specific process within it.
+
+#### Context  
+In PMI's framework, almost every knowledge area begins with a planning process (e.g., *Plan Scope Management*, *Plan Quality Management*, etc.). These planning processes create the **roadmaps** that guide how a project will achieve its objectives.
+
+Plans may define:  
+- What will be done  
+- How it will be done  
+- Who will do it  
+- When and with what resources  
+
+Plans are integrated into the overall Project Management Plan, and they are updated iteratively as the project evolves.
+
+#### Exam Cue  
+If a scenario involves uncertainty, confusion, or lack of direction, PMI usually expects the project manager to **create or refer to a plan** before taking action.
+
+#### [[3-glossary#plan|Plan]]  
+---
 
 ### Planned Value
 
@@ -4193,17 +4439,28 @@ Like reorganizing your closet to find clothes faster.
 #### [[3-glossary#process-improvement|Process improvement]]
 
 ---
+### Procurement  
 
-### Procurement
+#### Definition  
+**Procurement** is the process of acquiring goods, services, or results from external sources outside the project team or organization. It involves selecting vendors, establishing agreements, and managing relationships through contract fulfillment.
 
-#### Definition
-The process of obtaining goods and services from external sources.
+#### Context  
+Procurement is governed by the **Procurement Management** knowledge area in PMI’s framework.  
+Key processes include:  
+- **Plan Procurement Management** – determines what needs to be bought, how, and from whom  
+- **Conduct Procurements** – obtains seller responses, selects vendors, and awards contracts  
+- **Control Procurements** – manages relationships, monitors performance, and handles changes  
+- **Close Procurements** – finalizes contracts and resolves open items (in some methodologies)
 
-#### Context
-Like hiring a caterer for a party instead of cooking yourself.
+Procurement can involve:  
+- Fixed-price, time-and-materials, or cost-reimbursable contracts  
+- Competitive bidding, negotiations, or direct awards  
+- Internal procurement (within the organization) or external sourcing  
 
-#### [[3-glossary#procurement|Procurement]]
+#### Exam Cue  
+When a question references vendors, contracts, third-party work, or formal agreements, PMI typically expects you to apply structured **procurement** processes — especially planning, evaluation, and contract management.
 
+#### [[3-glossary#procurement|Procurement]]  
 ---
 
 ### Procurement closure
@@ -4459,6 +4716,33 @@ Like getting a newsletter in your inbox automatically.
 ---
 [[#Glossary|Top]]
 
+### Qualitative Analysis  
+
+#### Definition  
+**Qualitative Analysis** is the use of non-numerical, judgment-based techniques to assess project information, interpret meaning, and support decision-making where subjective or descriptive data is most relevant.
+
+#### Context  
+Qualitative analysis is widely used in project management to evaluate:  
+- **Stakeholder attitudes and influence**  
+- **Team performance and behavior**  
+- **Risk prioritization (non-numeric)**  
+- **Requirements clarity and alignment**  
+- **Communication effectiveness**  
+
+It typically involves techniques such as:  
+- Expert judgment  
+- Interviews and focus groups  
+- Thematic and pattern recognition  
+- Probability-impact ranking (without exact numbers)  
+
+Qualitative analysis is especially useful in the early stages of planning or when hard data is unavailable.
+
+#### Exam Cue  
+When a scenario emphasizes **perceptions, stakeholder concerns, ambiguity, or subjective evaluation**, the correct answer often involves performing **qualitative analysis** to gain insights before quantifying or acting.
+
+#### [[3-glossary#qualitative-analysis|Qualitative Analysis]]  
+---
+
 ### Quality
 
 #### Definition
@@ -4530,6 +4814,31 @@ Like health codes restaurants must follow.
 #### [[3-glossary#quality-standards|Quality standards]]
 
 ---
+### Quantitative Analysis  
+
+#### Definition  
+**Quantitative Analysis** is the use of numerical techniques and data-driven methods to assess project variables, evaluate alternatives, and support objective decision-making.
+
+#### Context  
+In project management, quantitative analysis applies to multiple areas such as:  
+- **Cost** – forecasting budgets, reserves, and variances  
+- **Schedule** – modeling timelines and delays (e.g., critical path analysis)  
+- **Risk** – using tools like Monte Carlo simulation and Expected Monetary Value (EMV)  
+- **Quality** – measuring defect rates, statistical process control  
+
+Techniques include:  
+- Data modeling and simulations  
+- Statistical analysis  
+- Performance metrics (e.g., earned value analysis)  
+- Trend and regression analysis  
+
+Quantitative analysis enhances precision, especially in high-stakes or data-rich environments, and supports defensible project decisions.
+
+#### Exam Cue  
+When the exam scenario references **measurable data, calculations, or models**, the correct answer often involves applying **quantitative analysis** to ensure objectivity and rigor.
+
+#### [[3-glossary#quantitative analysis|Quantitative Analysis]]  
+---
 
 [[#a|A]] • [[#b|B]] • [[#c|C]] • [[#d|D]] • [[#e|E]] • [[#f|F]] • [[#g|G]] • [[#h|H]] • [[#i|I]] • [[#j|J]] • [[#k|K]] • [[#l|L]] • [[#m|M]] • [[#n|N]] • [[#o|O]] • [[#p|P]] • [[#q|Q]] • [[#r|R]] • [[#s|S]] • [[#t|T]] • [[#u|U]] • [[#v|V]] • [[#w|W]] • [[#x|X]] • [[#y|Y]] • [[#z|Z]]
 ## R
@@ -4571,6 +4880,28 @@ Like packing your suitcase before leaving for vacation.
 #### [[3-glossary#readiness|Readiness]]
 
 ---
+### Requirements  
+
+#### Definition  
+**Requirements** are the documented needs and expectations of stakeholders that must be met for a project to be considered successful.
+
+#### Context  
+Collected during *Collect Requirements*, they provide the foundation for defining project scope and guiding deliverable creation.
+
+Types of requirements include:  
+- **Business** (e.g., high-level needs)  
+- **Stakeholder** (e.g., specific wants)  
+- **Solution** (e.g., features, functions)  
+- **Transition** (e.g., data conversion, training)
+
+Requirements are captured in the **requirements documentation** and **requirements traceability matrix**.
+
+#### Exam Cue  
+If the exam scenario mentions stakeholder dissatisfaction or gaps between expectations and outcomes, consider whether the **requirements were properly gathered, documented, and traced.**
+
+#### [[3-glossary#requirements|Requirements]]  
+---
+
 ### Resource  
 
 #### Definition  
@@ -4648,6 +4979,31 @@ Like planning which dishes to serve at a party and when.
 #### [[3-glossary#release-planning|Release planning]]
 
 ---
+### Release Resources  
+
+#### Definition  
+**Release resources** refers to the process of formally transitioning project team members, materials, equipment, or facilities out of the project once their work is complete or no longer needed.
+
+#### Context  
+Resource release typically occurs in phases throughout the project, but most prominently during:  
+- Completion of major deliverables  
+- Transition to operations or other projects  
+- Project or phase closure  
+
+Releasing resources is part of responsible resource management. It allows organizations to optimize workforce allocation, reduce costs, and maintain team morale.
+
+Releases may involve:  
+- Final performance evaluations  
+- Knowledge transfer or documentation  
+- Formal handoffs or reassignments  
+- Closing contracts with external suppliers or vendors
+
+#### Exam Cue  
+If a question refers to project or phase completion, downsizing of effort, or optimizing team usage, PMI often expects the project manager to **release resources** through a planned, respectful, and documented process.
+
+#### [[3-glossary#release resources|Release Resources]]  
+---
+
 
 ### Remote work
 
@@ -5181,7 +5537,25 @@ If you planned to finish 10 tasks but only did 8, your efficiency is below 1.0.
 #### [[3-glossary#schedule-performance-index|Schedule Performance Index]]
 
 ---
+### Schedule Slippage  
 
+#### Definition  
+The condition in which project work is delayed beyond the planned schedule, causing activities, milestones, or the overall project completion date to slip later than originally baselined.  
+
+#### Context  
+In PMI’s framework, schedule slippage occurs when activities do not finish as planned, leading to a variance against the [schedule baseline](#schedule-baseline).  
+It can result from underestimated durations, resource shortages, unaddressed [risks](#risk), poor sequencing, or uncontrolled [changes](#change).  
+Schedule slippage is closely tied to [float](#float) — activities with [zero float](#zero-float) or on the [critical path](#critical-path) directly drive project completion, so any delay there causes slippage.  
+
+- On the exam, PMI expects project managers to recognize schedule slippage as a signal to take corrective or preventive actions, not just work harder.  
+
+#### Exam Cue  
+On the exam, if a scenario describes **work taking longer than planned** or milestones being missed, the correct concept is **Schedule Slippage**.  
+Do not confuse it with scope creep (unapproved expansion of work) or cost overrun (exceeding budget).  
+
+#### [[3-glossary#schedule slippage|Schedule Slippage]]
+
+---
 ### Schedule variance
 
 #### Definition
@@ -5253,7 +5627,27 @@ Like agreeing to bake a cake, then being asked to add cookies, pie, and cupcakes
 #### [[3-glossary#scope-creep|Scope creep]]
 
 ---
+### Scope Management  
 
+#### Definition  
+**Scope Management** is the process of ensuring that all required work — and only the required work — is included in the project. It involves defining, validating, and controlling what is and isn’t part of the project.
+
+#### Context  
+Scope Management is one of PMI’s key knowledge areas and includes these core processes:  
+- **Plan Scope Management** – defines how scope will be handled.  
+- **Collect Requirements** – gathers stakeholder needs.  
+- **Define Scope** – details deliverables and boundaries.  
+- **Create WBS** – breaks scope into manageable parts.  
+- **Validate Scope** – gets formal stakeholder acceptance.  
+- **Control Scope** – monitors for changes or creep.  
+
+Strong scope management helps avoid gold-plating, misaligned expectations, and incomplete work.
+
+#### Exam Cue  
+When a scenario deals with missing deliverables, stakeholder disputes, or change requests, PMI often expects the project manager to reference the **scope baseline** or follow formal **scope control procedures**.
+
+#### [[3-glossary#scope-management|Scope Management]]  
+---
 ### Scope validation
 
 #### Definition
@@ -5586,8 +5980,28 @@ Like planning a party together so everyone has input and feels included.
 #### [[3-glossary#stakeholder-collaboration|Stakeholder collaboration]]
 
 ---
+### Stakeholder Engagement  
 
-### Stakeholder engagement plan
+#### Definition  
+**Stakeholder engagement** is the process of actively involving individuals, groups, or organizations who may affect or be affected by the project, to ensure their needs, expectations, and influence are managed effectively.
+
+#### Context  
+Stakeholder engagement is critical throughout the project lifecycle and includes:  
+- Identifying stakeholders and analyzing their influence  
+- Planning engagement strategies based on interest and power  
+- Communicating proactively to build trust and support  
+- Monitoring engagement and adapting approaches as needed  
+
+Effective engagement helps reduce resistance, resolve conflicts early, and increase alignment with project goals. It’s formalized in the **Stakeholder Engagement Plan**.
+
+#### Exam Cue  
+If a question involves stakeholder resistance, confusion, or a need for buy-in, PMI often expects actions tied to **stakeholder engagement** — such as tailoring communication, adjusting influence strategies, or revisiting the stakeholder plan.
+
+#### [[3-glossary#stakeholder engagement|Stakeholder Engagement]]  
+---
+
+
+### Stakeholder Engagement Plan
 
 #### Definition
 A component of the project management plan that defines how to engage stakeholders effectively.
@@ -5595,7 +6009,7 @@ A component of the project management plan that defines how to engage stakeholde
 #### Context
 Like a teacher’s plan for keeping parents updated and involved in schoolwork.
 
-#### [[3-glossary#stakeholder-engagement-plan|Stakeholder engagement plan]]
+#### [[3-glossary#stakeholder-engagement-plan|Stakeholder Engagement Plan]]
 
 ---
 
@@ -5978,19 +6392,31 @@ A framework that identifies five conflict-handling styles: competing, collaborat
 Like recognizing whether you tend to argue, cooperate, or avoid conflicts with friends.
 
 #### [[3-glossary#thomas-kilmann-model|Thomas-Kilmann Model]]
-
 ---
+### Threat  
 
-### Threat
+#### Definition  
+A **threat** is a type of individual project risk that, if it occurs, could have a **negative impact** on one or more project objectives such as scope, schedule, cost, or quality.
 
-#### Definition
-A potential risk event that could have a negative impact on the project.
+#### Context  
+Threats are identified and analyzed during risk management processes, particularly in:  
+- **Identify Risks**  
+- **Perform Qualitative Risk Analysis**  
+- **Perform Quantitative Risk Analysis**  
+- **Plan Risk Responses**
 
-#### Context
-Like bad weather threatening your outdoor party plans.
+Common response strategies for threats include:  
+- **Avoid** – eliminate the risk entirely  
+- **Mitigate** – reduce the probability or impact  
+- **Transfer** – shift the risk to a third party (e.g., insurance)  
+- **Accept** – acknowledge the risk and monitor it  
 
-#### [[3-glossary#threat|Threat]]
+Understanding threats allows the project manager to proactively safeguard the project against potential harm.
 
+#### Exam Cue  
+If a scenario highlights potential negative events (e.g., delays, cost overruns, failures), PMI expects you to recognize these as **threats** and choose an appropriate risk response strategy.
+
+#### [[3-glossary#threat|Threat]]  
 ---
 
 ### Three-point estimate
@@ -6250,6 +6676,24 @@ Like a conversation where both people talk and listen, not just one giving instr
 ---
 [[#Glossary|Top]]
 
+### Uncertainty  
+
+#### Definition  
+The condition of having incomplete knowledge about future events, outcomes, or circumstances that can affect the project.  
+
+#### Context  
+In PMI’s framework, uncertainty is a **natural characteristic of projects**. Because projects are temporary and unique, they carry unknowns in scope, schedule, cost, quality, or stakeholder expectations.  
+Uncertainty can create both **threats** (negative risks) and **opportunities** (positive risks).  
+Effective [risk management](#risk-management) is about identifying, analyzing, and preparing for uncertainty so that the project manager can minimize harm and maximize value.  
+
+- On the exam, uncertainty often appears in questions about **risk awareness** (proactive planning vs. reactive problem-solving) and in scenarios where assumptions or incomplete requirements drive project complexity.  
+
+#### Exam Cue  
+On the exam, if a scenario describes incomplete information, unpredictable events, or unknown outcomes, PMI expects you to recognize this as **uncertainty** and respond with **risk management practices** — not guesswork or unplanned action.  
+
+#### [[3-glossary#uncertainty|Uncertainty]]
+
+--- 
 ### User story
 
 #### Definition
@@ -6427,8 +6871,27 @@ Like baking a cake: you can’t frost it until it’s baked and cooled.
 #### [[3-glossary#waterfall|Waterfall]]
 
 ---
+### Work Breakdown Structure  
 
-### WBS dictionary
+#### Definition  
+A **Work Breakdown Structure (WBS)** is a hierarchical decomposition of the total scope of work to be carried out by the project team.
+
+#### Context  
+The WBS is created in the *Create WBS* process and is the foundation for:  
+- Estimating time and cost  
+- Assigning responsibilities  
+- Controlling project scope  
+
+Each descending level of the WBS represents increasingly detailed definitions of project work. It’s closely tied to the **scope baseline** and is critical for planning and monitoring progress.
+
+#### Exam Cue  
+If you see confusion over what work is included, unassigned responsibilities, or uncontrolled expansion of deliverables, check whether the **WBS** was created or used effectively.
+
+#### [[3-glossary#work-breakdown-structure|Work Breakdown Structure]]  
+---
+
+
+### WBS Dictionary
 
 #### Definition
 A supporting document that provides detailed information about each element in the work breakdown structure.

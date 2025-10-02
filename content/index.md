@@ -1,80 +1,81 @@
 ---
-title: "CMPA 3302 Knowledge Base Portal"
-description: "Home hub for course navigation and PMP study materials."
-tags: [cmpa3302, project-management, pmp]
+title: "Project Management Body of Knowledge – Home"
+description: "Overview of PMBOK-aligned concepts: stakeholders, risk, environment, change, and tailoring — framed for the ECO and exam prep."
+tags: [cmpa3302, pmbok, eco, exam-strategy]
 draft: false
-date: "2025-09-29"
+date: "2025-10-02"
 enableToc: true
 ---
-![Digiport Ai Dragon Mascot](dragon.png)
-*Digiportai.com is the home of DragonEy Industries and [[1-about.md|JASYTI's]] Main Public Portal*
+
+# Project Management Body of Knowledge – Home  
+[[2-references.md|References]]  
+
+![image of pmbok reference books](pmbok.png) 
+*PMBOK gives you the vocabulary, but the exam tests how you use it.*  
 
 ---
-# JASYTI's Project Management Professional Knowledge Base – HOME
 
-CMPA 3302 — Foundations of Information Organization & Management  
-Welcome to my Website. I am JASYTI, but I'm not just another social you Tube influencer.
+## PMBOK in the ECO World  
 
----
-## Purpose
-This site is both a **course project** and a **personal knowledge base**.  
-It exists to demonstrate mastery of CMPA 3302 learning outcomes while also serving as a practical tool for preparing for the **PMP Certification Exam**.  
+This section is about the **core concepts PMI expects you to know from the PMBOK Guide**, reframed through the lens of the **Exam Content Outline (ECO)**.  
 
-In the context of the course, this site shows my ability to:
-- Structure information into **logical categories**.  
-- Apply **PMBOK 6 and PMBOK 7 principles**.  
-- Build and maintain a functioning **digital knowledge base**.  
+PMBOK provides the structure: terminology, baselines, and process awareness. The ECO asks: *Can you apply it in a scenario?*  
 
-For professional development, it is intended to:
-- Collect and organize **study materials** for PMP exam readiness.  
-- Provide a **reference library** that grows over time.  
-- Support **search, browse, and discovery** of concepts through interlinked content.  
-
-The site is not just for assignments — it is designed to be **a living system** that blends coursework with ongoing PMP exam study and professional project management practice.
+Think of PMBOK as your **map** — it shows you the terrain. ECO is your **journey** — it asks if you can navigate the terrain when it shifts.  
 
 ---
-## How to Use This Site
-This site is organized into **categories**, each representing a major domain of project management knowledge.  
-Here’s how to navigate effectively:
 
-1. **Start with Quick Links**  
-   - Use the **Quick Links panel** below to jump directly to About, References, Glossary, or the repository README.  Generally: Quick links take you to other pages in the same folder and Navigation Links take you to other index pages in related categories outside the folders.
-   - These pages give you context and supporting resources.  
+## What This Section Covers  
 
-2. **Explore Main Categories**  
-   - Each category index page introduces its section and lists the subpages.  
-   - Categories are interconnected with “Related Categories” links to support discovery.  
+Here’s what you’ll find in the PMBOK section of this knowledge base:  
 
-3. **Use the Glossary**  
-   - Throughout the site are inline links to terms in the [[3-glossary|Glossary]]
-   - The Glossary provides quick definitions of key project management terms.
-   - It also contextual clarifications to help you internalize and understand the term as opposed to just memorizing its definition.  
+- **[[01-stakeholder|Stakeholders]]**  
+  Every project begins and ends with people. Stakeholders shape priorities, create momentum, or block progress. This page shows you how to recognize, engage, and balance their influence — both in the real world and on the exam.  
 
-4. **Look for Embedded Media**  
-   - Some pages include images, diagrams, or PDFs in the `assets/` folder.  
-   - These demonstrate rubric requirements and provide study aids.  
+- **[[02-risk|Risk]]**  
+  Risk isn’t just about what can go wrong — it’s about what can change. This page explains why PMI sees risk as both a threat and an opportunity, and how you’ll be tested on proactive vs reactive behavior.  
 
-5. **Bottom Navigation**  
-   - Long pages include navigation at the bottom to return to the Home page or the current category index.  
+- **[[03-eef-opa|EEFs & OPAs]]**  
+  Projects don’t happen in a vacuum. Enterprise Environmental Factors (EEFs) and Organizational Process Assets (OPAs) are the context you inherit. This page helps you spot exam traps where the difference between “environment” and “asset” matters.  
 
-By combining structured navigation with inter-page links, the site supports **search, browse, and discovery** — the three main ways users interact with organized information.  
+- **[[04-change|Change]]**  
+  Change is inevitable. The exam won’t ask if change is good or bad — it’ll test if you handled it correctly. This page gives you PMI’s view of how change shapes projects and what disciplined handling looks like.  
 
-NOTE: If you want to Study without Studying and break free from the hum drum standard form of study, make sure to enjoy the story woven through this site: **[[05-tlg/index|The Last Gate]]** — a narrative experiment in blending fiction with project management principles.
+- **[[05-tailoring|Tailoring]]**  
+  One size never fits all. Tailoring is how you adapt PM practices to context without losing control. This page shows how PMI embeds tailoring into every ECO domain and why “adaptive, not arbitrary” is the right exam mindset.  
 
 ---
-## Quick Links
-- [[1-about|About JASYTI]]
-- [[2-references|References]]
-- [[3-glossary|Glossary]]
-- [[README|Repository README]]
-- [[4-site-map.md|Site Map]]
+
+## Why This Matters for the Exam  
+
+On the PMP exam, you won’t just be asked to define these concepts. You’ll face scenarios that force you to choose:  
+- Which stakeholder matters most right now?  
+- Is this issue a risk, or already a problem?  
+- Is the factor you’re seeing an EEF or an OPA?  
+- Should you implement this change — or log, analyze, and escalate it?  
+- Is the best move to follow process rigidly, or tailor it to fit context?  
+
+These aren’t trivia questions. They’re judgment calls. This section helps you build the instincts PMI rewards.  
 
 ---
-## Main Categories
-- [[01-test-prep/index|Test Prep & Tactics]]
-- [[02-pmbok/index|Project Management Body of Knowledge]]
-- [[03-lifecycle/index|Lifecycle of a Project]]
-- [[04-ittos/index|ITTOs]]
-- [[05-tlg/index|The Last Gate]]
+
+## Quick Links  
+
+- [[01-stakeholder|Stakeholder Management]]  
+- [[02-risk|Risk]]  
+- [[03-eef-opa|Enterprise Environmental Factors & Organizational Process Assets]]  
+- [[04-change|Change – From PM Perspective]]  
+- [[05-tailoring|Tailoring in Project Management]]  
+- [[3-glossary|Glossary]]  
+- [[2-references.md|References]]  
 
 ---
+
+## Main Categories  
+
+- [[index.md|JASYTI's PMP KB – HOME]]  
+- [[01-test-prep/index|Test Preparation Tips and Tactics]]  
+- [[02-pmbok/index|Project Management Body of Knowledge]]  
+- [[03-lifecycle/index|Lifecycle of a Project]]  
+- [[04-ittos/index|ITTOs]]  
+- [[05-tlg/index|The Last Gate]]  

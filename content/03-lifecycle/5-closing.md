@@ -11,32 +11,31 @@ enableToc: true
 ![[a-accepted.jpg]]  
 *Closing Process Group — Accepted Work Order*
 
-The **Closing Process Group** formally completes the project or a phase and transfers the final product, service, or result to operations or the requesting organization. During Closing, we confirm the work has been completed to standard, the definition of success has been met, and formal acceptance is secured. See [[content/references|References]].  
+The **Closing Process Group** formally completes the project or a phase and transfers the final product, service, or result to operations or the requesting organization. During Closing, we confirm the work has been completed to standard, the definition of success has been met, and formal acceptance is secured. 
 
-Most importantly, this is also where resources tied up in the project are released: human resources return to their home teams, funds earmarked for the effort are reconciled, and capital assets (such as computers or equipment) are relinquished. Closing is also where the team consolidates lessons learned and archives project information for audit, knowledge reuse, and organizational learning. See [[content/references|References]].  
+Most importantly, this is also where resources tied up in the project are released: human resources return to their home teams, funds earmarked for the effort are reconciled, and capital assets (such as computers or equipment) are relinquished. Closing is also where the team consolidates lessons learned and archives project information for audit, knowledge reuse, and organizational learning. 
 
-Closing is not a “nice-to-have.” Without it, teams can drift from one effort to the next with no clear handoff, open contracts, unresolved documentation, and missed opportunities to improve. A disciplined closeout provides clarity for stakeholders, financial accuracy for the organization, and actionable insights for future projects. See [[content/references|References]].
+Closing is not a “nice-to-have.” Without it, teams can drift from one effort to the next with no clear handoff, open contracts, unresolved documentation, and missed opportunities to improve. A disciplined closeout provides clarity for stakeholders, financial accuracy for the organization, and actionable insights for future projects. 
 
 ---
 
 ## Key Processes in the Closing Group
 
-According to PMI, the Closing Process Group includes the following processes [[content/references|References]]:  
+According to PMI, the Closing Process Group includes the following processes
 
-1. **Confirm Final Acceptance** — Obtain formal sign-off from the authorized customer/sponsor.  
-2. **Close Project or Phase** — Complete financials, archive documents, update assets, and release resources.  
-3. **Close Procurements** — Verify all contracts are completed, deliverables accepted, and obligations met.  
-4. **Capture and Share Lessons Learned** — Document what worked, what didn’t, and recommendations for the future.  
+1. **Confirm [[3-glossary#acceptance|Final Acceptance]] — Obtain formal sign-off from the #### [[3-glossary#authorized|authorized customer/sponsor.]]  
+2. **Close Project or Phase** — Complete financials, archive documents, update assets, and [[3-glossary#release resources|release resources.]]  
+3. [[3-glossary#procurement|Close Procurements]] — Verify all contracts are completed, [[3-glossary#deliverable|deliverables]] #### [[3-glossary#acceptance|accepted,]] and [[3-glossary#obligation|obligations]] are met.  
+4. **Capture and Share** [[3-glossary#lessons learned|lessons learned]] — Document what worked, what didn’t, and recommendations for the future.  
 
-> *Closing turns deliverables into accepted value, and experience into organizational knowledge.* — Adapted from PMI guidance, see [[content/references|References]]
-
+> *Closing turns deliverables into accepted value, and experience into organizational knowledge.* — Adapted from PMI guidance.
 ---
 
-## Acceptance, Handover, and Learning
+## [[3-glossary#acceptance|Acceptance, ]][[3-glossary#handover|Handover,]] [[3-glossary#lessons learned|and Learning]]
 
-Successful Closing requires **clear acceptance criteria**—defined in Planning and verified during Executing and Monitoring & Controlling. Handover to operations (or the customer) should be planned, with training, access, and support arrangements documented.  
+Successful Closing requires clear [[3-glossary#acceptance criteria|Acceptance Criteria]]  —defined in [[03-lifecycle/2-planning.md|Planning]] and verified during [[03-lifecycle/3-executing.md|Executing]] and [[03-lifecycle/4-monitor-control.md|Monitoring & Controlling.]] Handover to operations (or the customer) should be planned, with training, access, and support arrangements documented.  
 
-Lessons learned should be gathered from the entire stakeholder set, not just the core team, and stored where they can be discovered and reused by others. See [[content/references|References]].  
+Lessons learned should be gathered from the entire stakeholder set, not just the core team, and stored where they can be discovered and reused by others.
 
 ---
 

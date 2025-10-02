@@ -20,16 +20,16 @@ Planning produces the [[3-glossary#Baseline|baselines]] like scope, [[3-glossary
 
 ---
 
-## Key Processes in the Planning Group
+## [[3-glossary#key-process|Key Processes]] in the Planning Group
 
 According to PMI, the Planning Process Group encompasses the following processes.
 
-1. **Plan Scope Management / Collect Requirements / Define Scope / Create WBS** — Clarify deliverables and decompose work.  
-2. **Define Activities / Sequence Activities / Estimate Durations / Develop Schedule** — Build a realistic timeline.  
-3. **Estimate Costs / Determine Budget** — Establish the cost baseline.  
-4. **Plan Quality, Resources, Communications, Procurements** — Define how work will meet standards and how the team and vendors will collaborate.  
-5. **Plan Risk Management / Identify Risks / Perform Qualitative & Quantitative Analysis / Plan Risk Responses** — Anticipate threats and opportunities.  
-6. **Plan Stakeholder Engagement** — Set strategies for involvement and support.  
+1. **Plan [[3-glossary#scope-management|Scope Management]]  / Collect [[3-glossary#requirements|Requirements]]  / Define Scope / Create [[3-glossary#work-breakdown-structure|WBS]]   — Clarify deliverables and [[3-glossary#decomposition|decompose work.]]  
+2. **Define [[3-glossary#activities|activities]]  / Sequence Activities / [[3-glossary#estimate|Estimate Durations]] / Develop [[3-glossary#Schedule|schedule]] — Build a realistic timeline.  
+3. **Estimate Costs / Determine Budget** — Establish the [[3-glossary#baseline|cost baseline.]]  
+4. **Plan [[3-glossary#Quality|Quality,]] [[3-glossary#resource|Resources,]] [[3-glossary#communications|communication,]] [[3-glossary#procurement|Procurements]] — Define how work will meet standards and how the team and vendors will collaborate.  
+5. **Plan [[3-glossary#risk management|Risk Management]]/ Identify Risks / Perform [[3-glossary#qualitative analysis|Qualitative]]   & [[3-glossary#quantitative analysis|Quantitative]] Analysis / Plan Risk Responses — Anticipate [[3-glossary#threat|threats]] and [[3-glossary#opportunities|opportunities.]]    
+6. [[3-glossary#stakeholder-engagement-plan|Plan Stakeholder Engagement]] — Set strategies for involvement and support.  
 
 > *Planning turns what we want into what we will do—and how we will know if we are still on course.* — Adapted from PMI guidance
 
