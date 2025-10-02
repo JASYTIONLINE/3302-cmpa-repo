@@ -68,7 +68,7 @@ NOTE: If you want to Study without Studying and break free from the hum drum sta
 - [[1-about|About JASYTI]]
 - [[2-references|References]]
 - [[3-glossary|Glossary]]
-- [[README|Repository README]]
+- [[README.md|README]]
 - [[4-site-map.md|Site Map]]
 
 ---
