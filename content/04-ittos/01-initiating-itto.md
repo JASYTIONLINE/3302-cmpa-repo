@@ -1,6 +1,19 @@
+---
+title: 1 Initiating Process - ITTOs
+description: A narrative understanding of ITTOs in the Initiating Process Group — how inputs, tools, and outputs shape the roadmap for delivery.
+tags:
+  - cmpa3302
+  - ittos
+  - Initiating
+  - project-management
+draft: false
+date: 2025-10-02
+enableToc: true
+---
+
 # Initiating Process ITTOs  
 [[2-references.md|References]]  
-![[initiating-itto.png]]
+![image of a man surveying a valley](initiating-itto.png)
 *Every project starts with alignment — not action.*
 
 ---

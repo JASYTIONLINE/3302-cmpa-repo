@@ -1,5 +1,5 @@
 ---
-title: Planning Process – ITTOs
+title: 2 Planning Process – ITTOs
 description: A narrative understanding of ITTOs in the Planning Process Group — how inputs, tools, and outputs shape the roadmap for delivery.
 tags:
   - cmpa3302
@@ -12,7 +12,7 @@ enableToc: true
 ---
 # Planning Process ITTOs  
 [[2-references.md|References]]  
-![image of two people in a [[3-glossary#plan|planning]] meeting](plan-itto.png)
+![image of two people in a room planning](assets/images/plan-itto.png)
 *Planning is where vision becomes structure — and structure becomes direction.*
 
 ---

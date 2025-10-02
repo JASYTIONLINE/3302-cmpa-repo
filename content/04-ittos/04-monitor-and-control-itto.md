@@ -1,5 +1,5 @@
 ---
-title: Monitoring & Controlling Process – ITTOs
+title: 4 Monitoring & Controlling Process – ITTOs
 description: Understand how ITTOs in the Monitoring and Controlling Process Group help evaluate progress, manage change, and maintain project [[3-glossary#alignment|Alignment]].
 tags:
   - cmpa3302
@@ -14,7 +14,7 @@ enableToc: true
 
 # Monitoring & Controlling Process ITTOs  
 [[2-references.md|References]]  
-![[mandc-itto.png]]
+![image of a man overlooking construction with a  report in his hand](mandc-itto.png)
 *A project doesn’t stay on track by luck — it stays on track by design.*
 
 ---

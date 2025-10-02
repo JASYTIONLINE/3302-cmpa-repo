@@ -1,14 +1,18 @@
 ---
-title: "Closing the Plan"
-description: "Explains the Closing Process Group—final acceptance, handoff, resource release, and lessons learned."
-tags: [cmpa3302, project-management, lifecycle, closing]
+title: 5 Closing the Project
+description: Explains the Closing Process Group—final acceptance, handoff, resource release, and lessons learned.
+tags:
+  - cmpa3302
+  - project-management
+  - lifecycle
+  - closing
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # 05 Closing The Plan
  [[2-references.md|References]]
-![[a-accepted.jpg]]  
+![image of a document stamped accepted](a-accepted.jpg)  
 *Closing Process Group — Accepted Work Order*
 
 The **Closing Process Group** formally completes the project or a phase and transfers the final product, service, or result to operations or the requesting organization. During Closing, we confirm the work has been completed to standard, the definition of success has been met, and formal acceptance is secured. 

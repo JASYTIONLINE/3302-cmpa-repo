@@ -14,7 +14,7 @@ enableToc: true
  [[2-references.md|References]]
  ## Stakeholder Engagement Builds Trust
 
- ![[stake.jpg|300]]
+ ![image of stakeholder engagement](stake.jpg)]]
 *A detailed customer request is key to establishing a strong charter and plan.*
 
 Although not officially one of the 5 PMP [[03-lifecycle/index.md|Process Groups]] it would be remiss not to include the pre-project requirements that must be satisfied before a project can be established. These prerequisites form the foundation on which the entire effort is built. Specifically, the [[1-Initiating|Initiating Phase]] of the Project cannot begin until these are met; without them, any attempt to plan or execute is likely to fail.  

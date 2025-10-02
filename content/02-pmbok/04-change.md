@@ -1,9 +1,14 @@
 ---
-title: "Change Management"
-description: "Introduction to change and configuration control in project management."
-tags: [cmpa3302, pmbok, change-control, configuration-management, governance]
+title: 4 Change Management
+description: Introduction to change and configuration control in project management.
+tags:
+  - cmpa3302
+  - pmbok
+  - change-control
+  - configuration-management
+  - governance
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # Change – From a Project Management Perspective

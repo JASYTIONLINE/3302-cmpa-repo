@@ -1,5 +1,5 @@
 ---
-title: 1 Initiating the Plan
+title: 1 Initiating the Project
 description: Overview of the Initiating Process Group—purpose, key processes, and examples in practice.
 tags:
   - cmpa3302

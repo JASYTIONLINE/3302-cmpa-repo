@@ -8,7 +8,7 @@ enableToc: true
 ---
 ## The Lifecycle of a Project – Home
  [[2-references.md|References]]
- ![diagram of the Project lifecycle](lifecycle.jpg)]
+ ![diagram of the Project lifecycle](lifecycle.jpg)
  *A Project moves in a linear fashion, but the Phases can circle back on each other*
  
   ## The [[3-glossary#Project Management Lifecycle|Project Management Lifecycle]]

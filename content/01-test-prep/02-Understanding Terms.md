@@ -1,9 +1,13 @@
 ---
-title: "Understanding Terms in Project Management"
-description: "Focus on key terms, artifacts, and deliverables for PMP exam success, emphasizing context over memorization."
-tags: [cmpa3302, test-prep, terminology, glossary]
+title: 2 Understanding Terms in Project Management
+description: Focus on key terms, artifacts, and deliverables for PMP exam success, emphasizing context over memorization.
+tags:
+  - cmpa3302
+  - test-prep
+  - terminology
+  - glossary
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # Understanding Terms in Project Management  

@@ -1,15 +1,21 @@
 ---
-title: "Risk Management"
+title: 2 Risk Management
 description: "Understanding risk in project management: concepts, practices, and exam relevance."
-tags: [cmpa3302, pmbok, risk, mitigation, opportunity, glossary-linked]
+tags:
+  - cmpa3302
+  - pmbok
+  - risk
+  - mitigation
+  - opportunity
+  - glossary-linked
 draft: false
-date: "2025-10-02"
+date: 2025-10-02
 enableToc: true
 ---
 
 # Understanding Risk in Project Management
 [[2-references.md|References]]  
-![[risk.png]]
+![image of risk metaphor](risk.png)
 *Risk is one of the most misunderstood — and most essential — concepts in [[3-glossary#project-management|project management]].*
 ## Risk is not always about the bad stuff.
 In everyday life, “risk” usually means something bad is about to happen. 

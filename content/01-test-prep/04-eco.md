@@ -1,10 +1,18 @@
 ---
-title: "PMI Exam Content Outline (ECO)"
-description: "Understand how the PMP exam is structured using PMI's three domains, tasks, and enablers from the Exam Content Outline."
-tags: [pmp, eco, exam-structure, domains, enablers]
-aliases: [PMI ECO, PMP ECO, Exam Content Outline]
+title: 4 PMI Exam Content Outline (ECO)
+description: Understand how the PMP exam is structured using PMI's three domains, tasks, and enablers from the Exam Content Outline.
+tags:
+  - pmp
+  - eco
+  - exam-structure
+  - domains
+  - enablers
+aliases:
+  - PMI ECO
+  - PMP ECO
+  - Exam Content Outline
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # PMI Exam Content Outline  

@@ -1,15 +1,20 @@
 ---
-title: "Tailoring"
+title: 5 Tailoring
 description: "Explains tailoring as a core concept in the PMP ECO: adapting processes, methods, and tools to fit project context and maximize value delivery."
-tags: [cmpa3302, eco, tailoring, adaptation, value-delivery]
+tags:
+  - cmpa3302
+  - eco
+  - tailoring
+  - adaptation
+  - value-delivery
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 
 # Tailoring  
 [[2-references.md|References]]  
-![[tailoring.png]]  
+![image of plan tailoring](tailoring.png)  
 *One size never fits all in project management.*
 
 ---

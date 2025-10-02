@@ -12,7 +12,8 @@ enableToc: true
 ---
 # Executing The Plan
  [[2-references.md|References]]
- ![[exec.jpg|300]]
+ ![image of Stakeholders executing](exec.jpg)
+ 
  
 *Executing relies on coordinated teamwork, strong communication, and continuous stakeholder engagement to produce deliverables. The executing phase is where the actual deliverables are created. Up until this point all lines of effort are focused on scaffolding.*
 

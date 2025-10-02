@@ -1,5 +1,5 @@
 ---
-title: Executing Process – ITTOs
+title: 3 Executing Process – ITTOs
 description: Understand how ITTOs in the Executing Process Group help turn planning into real deliverables through [[3-glossary#coordination|Coordination]], [[3-glossary#leadership|Leadership]], and [[3-glossary#communication|Communication]].
 tags:
   - cmpa3302

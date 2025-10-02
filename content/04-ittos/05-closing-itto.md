@@ -1,5 +1,5 @@
 ---
-title: Closing Process – ITTOs
+title: 5 Closing Process – ITTOs
 description: Understand how ITTOs in the Closing Process Group help consolidate, finalize, and hand off project knowledge, deliverables, and [[3-glossary#documentation|Documentation]].
 tags:
   - cmpa3302

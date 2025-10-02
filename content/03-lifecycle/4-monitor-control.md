@@ -1,14 +1,19 @@
 ---
-title: "Monitoring and Controlling"
-description: "Overview of the Monitoring & Controlling Process Group—tracking baselines, managing change, and ensuring alignment."
-tags: [cmpa3302, project-management, lifecycle, monitoring, controlling]
+title: 4 Monitoring and Controlling the Project
+description: Overview of the Monitoring & Controlling Process Group—tracking baselines, managing change, and ensuring alignment.
+tags:
+  - cmpa3302
+  - project-management
+  - lifecycle
+  - monitoring
+  - controlling
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # Monitoring & Controlling The Plan
  [[2-references.md|References]]
-![[mandc.jpg|200]]
+![image of Monitor and Controlling activities](mandc.jpg)
 *Monitoring & Controlling measures performance against baselines and applies change control to steer outcomes toward objectives.*
 
 ## What it is Monitoring & Controlling

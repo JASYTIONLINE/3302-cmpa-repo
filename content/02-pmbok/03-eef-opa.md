@@ -1,14 +1,20 @@
 ---
-title: "EEFs and OPAs"
-description: "Explains enterprise environmental factors and organizational process assets, and their impact on projects."
-tags: [cmpa3302, pmbok, eef, opa, environment, assets]
+title: 3 EEFs and OPAs
+description: Explains enterprise environmental factors and organizational process assets, and their impact on projects.
+tags:
+  - cmpa3302
+  - pmbok
+  - eef
+  - opa
+  - environment
+  - assets
 draft: false
-date: "2025-09-29"
+date: 2025-09-29
 enableToc: true
 ---
 # Enterprise Environmental Factors and Organizational Process Assets
 [[2-references.md|References]]  
-![[assets/images/eef-opa.png]]
+![image of eef and opa metaphor](assets/images/eef-opa.png)
 *Every project sits inside a bigger ecosystem.*
 ##  The Project Doesn’t Happen in a Vacuum.
 

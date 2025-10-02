@@ -13,7 +13,7 @@ date: 2025-10-02
 
 # # Stakeholders
 [[2-references.md|References]]  
-![[stakeholder-mgmt.png]]
+![image of stakeholder representation](stakeholder-mgmt.png)
 *Stakeholders aren't just a names on a chart*
 
 ## Every project begins and ends with people. 
